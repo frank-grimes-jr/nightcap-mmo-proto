@@ -8,11 +8,13 @@ Canonical source: [D-012: Three-class character identity and parallel advancemen
 
 ## Building a character
 
-Every character combines three classes:
+Every character combines three distinct classes:
 
 1. A permanent primary class.
 2. A stronger secondary subclass.
 3. A more limited tertiary subclass.
+
+The same class cannot fill more than one of these slots on a character.
 
 Any eligible class can be a primary class on one character or a subclass on another. Final class names, themes, and ability designs will be original.
 
@@ -59,7 +61,6 @@ Removing a subclass also removes access to its active abilities. Every advanceme
 - Initial class roster and original class names.
 - Introductory quest timing and presentation.
 - Secondary and tertiary ability subsets and power ratios.
-- Whether one class may occupy multiple slots.
 - Resource, weapon-skill, armor-proficiency, and base-attribute interactions.
 - Exact equipment categories and how secondary and tertiary scaling affects equipment statistics.
 - Parallel-advancement name, earning rate, caps, and tree structure.

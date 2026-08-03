@@ -112,6 +112,7 @@ This document records product decisions before they are expensive enough to requ
 - Every character begins with one primary class selected at character creation. The initial class roster remains unresolved.
 - The primary class is permanent and grants its complete ability set.
 - An introductory in-world quest opens a secondary and a tertiary class slot.
+- The primary, secondary, and tertiary slots must contain three distinct classes. The same class cannot occupy more than one slot on a character.
 - Any eligible class may serve as a primary class on one character or a subclass on another.
 - Subclasses grant curated subsets of their complete class kits. The secondary class is mechanically stronger than the tertiary class; exact ability access and scaling remain unresolved.
 - Combat and quest completion award a separate pool of parallel-advancement points at a substantially slower rate than standard leveling experience.

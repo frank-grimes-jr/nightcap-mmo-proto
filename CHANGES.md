@@ -1,5 +1,12 @@
 # Changes
 
+## 2026-08-02 - Distinct class slots
+
+- Required every character's primary, secondary, and tertiary selections to be three distinct classes.
+- Removed the stale duplicate-class question from the canonical open questions and player-facing wiki.
+
+Gotcha: the initial class roster, subclass ability access, and slot power ratios remain provisional or TBD.
+
 ## 2026-08-02 - Typed augment sockets
 
 - Allowed selected authored items to contain multiple augment sockets, with one augment per socket.

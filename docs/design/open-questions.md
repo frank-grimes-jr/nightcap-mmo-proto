@@ -21,7 +21,6 @@ These questions are intentionally unresolved. Do not silently answer them during
 - At what point does the introductory quest open the secondary and tertiary class slots?
 - Which abilities can each class contribute from the secondary and tertiary slots?
 - What power ratios or restrictions make the secondary subclass stronger than the tertiary without making either choice trivial?
-- Can the same class occupy more than one slot on a character?
 - How do class resources, weapon skills, armor proficiency, and base attributes interact across three classes?
 - What original names and boundaries define the armor-chassis, weapon, accessory, and universal-eligibility categories?
 - Which functional statistic categories can support abilities across class slots, and how are their power-budget weights compared?
