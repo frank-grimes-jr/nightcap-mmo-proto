@@ -4,8 +4,8 @@ These questions are intentionally unresolved. Do not silently answer them during
 
 ## Audience and release
 
-- Is the first audience the creator, a small invited community, or a commercial public release?
 - What player population and concurrent population should the first vertical slice support?
+- What evidence should trigger expansion from the invited community toward a public release?
 - Which desktop operating systems are required initially?
 
 ## World
@@ -19,7 +19,13 @@ These questions are intentionally unresolved. Do not silently answer them during
 
 - Which class, skill, role, or hybrid model should drive character identity?
 - How are solo survivability and optional group synergy reconciled?
-- How does encounter scaling preserve danger rather than normalize it away?
+- How do dungeon encounters scale with party size while preserving solo as the baseline?
+- Which open-world bosses use locked enrollment, and how are they communicated to players?
+- What role-aware participation thresholds and grace periods trigger open-world boss enrollment?
+- Which boss statistics, mechanics, reinforcements, or behaviors change at each enrollment tier?
+- What is the maximum supported population for a designated open-world boss encounter?
+- How are genuine disconnects handled without creating a downscaling exploit?
+- What personal experience premium does each open-world boss tier award?
 - How frequently should early attacks miss and spells fizzle?
 
 ## Death
@@ -38,6 +44,11 @@ These questions are intentionally unresolved. Do not silently answer them during
 - Which origin and destination conditions are required?
 - How do dungeon waypoints behave after the instance ends?
 - What other travel methods eventually coexist with waypoints?
+
+## Dungeon access
+
+- At what level or level band do dungeon unlocks change from discovery to access-key quests?
+- Are any optional or exceptional dungeons allowed to use a different access rule?
 
 ## Quests and guidance
 

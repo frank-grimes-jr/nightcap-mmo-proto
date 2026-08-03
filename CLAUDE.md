@@ -31,6 +31,7 @@ Before taking project actions:
 - Product vision: `docs/design/vision.md`
 - Decision status: `docs/design/decisions.md`
 - Unresolved design: `docs/design/open-questions.md`
+- Player-facing design explanations: `docs/wiki/`
 - Visual direction: `docs/art/style-guide.md`
 - Lore canon: `docs/lore/structure.md`
 - Significant history: `CHANGES.md`

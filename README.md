@@ -16,6 +16,7 @@ No technical stack is confirmed and no production implementation has begun. Curr
 - `docs/design/vision.md`: experiential goals and product pillars
 - `docs/design/decisions.md`: exploring, provisional, confirmed, and implemented decisions
 - `docs/design/open-questions.md`: unresolved design work
+- `docs/wiki/`: player-facing explanations of sufficiently coherent systems, with design status and TBD details shown explicitly
 - `docs/art/style-guide.md`: evolving visual and performance target
 - `docs/lore/structure.md`: world canon and unresolved lore
 - `docs/adr/`: architectural decision records

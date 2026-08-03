@@ -100,6 +100,8 @@ A change is not complete until the applicable evidence exists:
 - Keep `WORKING_AGREEMENT.md`, `AGENTS.md`, and `CLAUDE.md` accurate.
 - Record expensive-to-reverse technical choices as ADRs in `docs/adr/`.
 - Maintain design state in `docs/design/` and never present provisional decisions as confirmed.
+- Maintain player-facing system explanations in `docs/wiki/`. When a design is coherent enough to explain without inventing unresolved behavior, create or update its wiki page in the same change as the canonical design record.
+- Treat wiki pages as derived explanations rather than decision authority. Every page must state its design status, identify unresolved details as TBD, and remain consistent with `docs/design/`, `docs/lore/`, and `docs/art/`.
 - End each development phase with `docs/milestones/phase-N-report.md`, including what was built, cut, deferred, and considered risky.
 - Maintain world canon and unresolved lore in `docs/lore/structure.md`.
 - Maintain the visual target, production constraints, and rejected directions in `docs/art/style-guide.md`.

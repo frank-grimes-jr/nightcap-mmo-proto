@@ -16,7 +16,9 @@ This document records product decisions before they are expensive enough to requ
 - **Status:** Provisional
 - **Date:** 2026-08-02
 - All required content, including end-game dungeon encounters, must be completable by one player.
-- Difficulty-scaling rules remain unresolved.
+- Dungeon encounters and their bosses become more difficult when played by a group.
+- Each qualifying group member receives more experience than the equivalent solo victory would award.
+- Exact dungeon difficulty scaling, participation rules, and experience premiums remain unresolved.
 - Solo-capable does not mean automatically safe or universally level-scaled.
 
 ## D-003: Death and experience recovery
@@ -70,3 +72,35 @@ This document records product decisions before they are expensive enough to requ
 - **Date:** 2026-08-02
 - The project may draw inspiration from abstract experiential qualities of older MMORPGs.
 - It will not copy protected expression, data, code, assets, lore, names, locations, characters, creatures, interfaces, symbols, or designs from EverQuest or any other game.
+
+## D-009: Initial audience and growth direction
+
+- **Status:** Provisional
+- **Date:** 2026-08-02
+- The first playable release is intended for a small invited community.
+- The project should preserve a viable path toward a later public release without prematurely building for public-scale population.
+- Early success means consistent engagement, players progressing independently without assistance, and players earning dungeon access for their own accounts.
+
+## D-010: Dungeon access
+
+- **Status:** Provisional
+- **Date:** 2026-08-02
+- Lower-level dungeons unlock through physical discovery.
+- Higher-level dungeons require access-key quests; the level boundary remains unresolved.
+- Dungeon access is shared by all characters on the account that earned it.
+- Every participating account must have its own access. Party membership cannot bypass another account's missing unlock.
+
+## D-011: Designated open-world boss scaling
+
+- **Status:** Provisional
+- **Date:** 2026-08-02
+- Ordinary open-world enemies do not scale with party size or player participation.
+- Only specifically designated open-world bosses use participation-based scaling.
+- Designated bosses begin from a solo baseline. Party membership alone does not affect difficulty.
+- Damage, healing, protection, control, and sustained boss attention can make a player a provisional participant.
+- Sustained, meaningful, role-aware participation locks that player into the encounter and raises its difficulty.
+- Difficulty can rise but cannot fall during an active attempt. Leaving, dying, disconnecting, or dropping party does not remove an enrolled player from the scaling count.
+- When scaling raises maximum health during combat, the boss retains the same current-health percentage.
+- A full encounter reset clears enrollment and restores the solo baseline.
+- Meaningfully participating players receive a personal experience premium over the solo encounter reward. Exact eligibility rules and experience scaling remain unresolved.
+- Locked enrollment deliberately allows genuine outside assistance to make a fight harder. Intentional abandonment remains a social risk rather than a reason to permit mid-fight downscaling.
