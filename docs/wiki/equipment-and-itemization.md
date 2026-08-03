@@ -40,7 +40,11 @@ Augments offer limited correction when a build needs a statistic that its curren
 
 Augments are a secondary mechanism, not a replacement for discovering specialized equipment. Comparable specialization authored directly onto an item should remain stronger than relying on augments alone.
 
-Augment slots, installation, replacement, removal, recovery, cost, and exact power remain TBD.
+An installed augment can be removed intact and reused through a designated service in a safe location. The player pays either ordinary in-game currency at the time of removal or spends one prepaid service token.
+
+Service tokens are purchased only with in-game currency and can be stored for later use by any character on the owning account. They are account-bound, cannot be traded to another player, and cannot be purchased with real money.
+
+Augment slots, installation and replacement rules, exact service costs, token vendors, storage limits, service locations, and whether costs scale with item or augment power remain TBD.
 
 ## Rare universal equipment
 
@@ -54,6 +58,6 @@ Their final terminology, frequency, eligibility, and power limits remain TBD.
 - Functional statistic categories and their power-budget weights.
 - How subclass statistics interact with secondary and tertiary ability scaling.
 - Accessory types, eligibility, and power allocation.
-- Augment slots, replacement, removal, recovery, and costs.
+- Augment slots, installation and replacement rules, service costs and locations, token vendors, storage limits, and cost scaling.
 - Frequency and discoverability of specialized hybrid items.
 - Rarity and power limits for universally eligible items.

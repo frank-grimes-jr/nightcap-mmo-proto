@@ -1,5 +1,14 @@
 # Changes
 
+## 2026-08-02 - Reusable augment service
+
+- Made installed augments removable intact and reusable through a designated safe-location service.
+- Allowed payment through direct in-game currency or a prepaid, storable service token.
+- Made service tokens account-shared, account-bound, and non-tradable.
+- Excluded any real-money purchase path for augment-service tokens.
+
+Gotcha: exact prices, token vendors, storage limits, service locations, installation rules, and cost scaling remain provisional or TBD.
+
 ## 2026-08-02 - Hybrid equipment support
 
 - Kept armor-chassis and weapon eligibility anchored to the permanent primary class.

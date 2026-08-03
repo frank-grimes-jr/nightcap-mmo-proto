@@ -132,7 +132,10 @@ This document records product decisions before they are expensive enough to requ
 - Specialized hybrid items are intentional, fixed discoveries in the world. Their uncommon combinations of chassis and statistics support particular cross-role builds without requiring one unique item family for every possible three-class combination.
 - Accessories provide a broader source of cross-role statistics than armor and weapons.
 - Augments provide a limited secondary way to correct or sharpen a build. They do not replace the hunt for naturally specialized equipment and should not be stronger than comparable specialization already built into an item.
+- An installed augment can be removed intact and reused through a designated safe-location service. Removal requires either an in-game currency payment or one prepaid service token.
+- Service tokens are purchased only with in-game currency, can be stored for later use, and are shared across the owning account. They are account-bound and cannot be traded to another player.
+- Augment-service tokens have no real-money purchase path.
 - Every item has a fixed power budget. Subclass-supporting statistics displace defense, offense, or other value rather than appearing as free additional power.
 - Item statistics use a functional vocabulary that can support multiple classes and combinations rather than naming every statistic for one class.
 - Rare universally eligible items may exist, but they are exceptions rather than the normal solution to hybrid equipment needs.
-- Exact equipment categories, statistic vocabulary and weights, accessory rules, augment rules, hybrid-item frequency, and universal-item rarity remain unresolved.
+- Exact equipment categories, statistic vocabulary and weights, accessory rules, augment slots and costs, service locations, hybrid-item frequency, and universal-item rarity remain unresolved.

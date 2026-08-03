@@ -27,7 +27,9 @@ These questions are intentionally unresolved. Do not silently answer them during
 - Which functional statistic categories can support abilities across class slots, and how are their power-budget weights compared?
 - How effective are subclass-supporting statistics when applied to the stronger secondary slot versus the more limited tertiary slot?
 - Which accessory types are broadly eligible, and how much of a hybrid build's support should come from accessories?
-- How many augment slots can an item have, and what rules govern augment installation, replacement, removal, recovery, and cost?
+- How many augment slots can an item have, and what rules govern installation and replacement?
+- What are the direct currency and prepaid-token prices for intact augment removal, and do they scale with item or augment power?
+- Which safe locations provide augment removal, which in-game vendors sell the account-bound tokens, and how many tokens may an account store?
 - How much weaker must augment-based correction be than comparable specialization authored directly onto an item?
 - How frequently should specialized hybrid items appear, and how discoverable should their fixed world sources be?
 - How rare and powerful may universally eligible items become without erasing primary-class equipment identity?
