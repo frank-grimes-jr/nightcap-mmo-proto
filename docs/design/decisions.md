@@ -135,6 +135,7 @@ This document records product decisions before they are expensive enough to requ
 - Augments provide a limited secondary way to correct or sharpen a build. They do not replace the hunt for naturally specialized equipment and should not be stronger than comparable specialization already built into an item.
 - Selected authored items may contain multiple augment sockets. Each socket holds no more than one augment.
 - Every augment socket declares a broad equipment-family compatibility type. An augment can be installed only when it supports that family.
+- A compatible augment can be installed anywhere while the character is out of combat. Installation does not require a safe-location service.
 - Compatibility families group logically related equipment destinations rather than relying on arbitrary item-by-item lists. For example, a provisional jewelry family could cover necklaces, rings, and earrings; final family names and membership remain unresolved.
 - Most augments support exactly one compatibility family. Rare multi-family augments may support more than one family as intentional exceptions.
 - A multi-family augment has the same effect strength as a comparable single-family augment. Broader compatibility does not impose a statistical power penalty.

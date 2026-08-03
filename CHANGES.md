@@ -1,5 +1,12 @@
 # Changes
 
+## 2026-08-03 - Field augment installation
+
+- Allowed compatible augments to be installed anywhere while the character is out of combat.
+- Kept safe-location services specific to intact augment removal rather than installation.
+
+Gotcha: installation cost, timing, interruption behavior, and occupied-socket replacement remain TBD.
+
 ## 2026-08-03 - Equal multi-family augment power
 
 - Made rare multi-family augments equally powerful as comparable single-family augments.
