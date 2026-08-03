@@ -1,5 +1,15 @@
 # Changes
 
+## 2026-08-02 - Three-class character progression
+
+- Defined a permanent full-kit primary class with stronger secondary and more limited tertiary subclasses.
+- Added an introductory subclass-selection quest followed by safe-location, gated subclass replacement from the full level-eligible roster.
+- Defined a slower shared parallel-advancement point pool spanning all three class paths.
+- Preserved earned progression by refunding points allocated to a replaced subclass.
+- Added the corresponding player-facing classes and advancement wiki page.
+
+Gotcha: class names, roster, abilities, slot scaling, point balance, and respecialization cost remain provisional or TBD. Existing-game class names are reference shorthand only.
+
 ## 2026-08-02 - Player-facing wiki and world-boss scaling
 
 - Made player-facing wiki updates a documentation duty when a system is coherent enough to explain.

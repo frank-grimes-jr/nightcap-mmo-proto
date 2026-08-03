@@ -104,3 +104,20 @@ This document records product decisions before they are expensive enough to requ
 - A full encounter reset clears enrollment and restores the solo baseline.
 - Meaningfully participating players receive a personal experience premium over the solo encounter reward. Exact eligibility rules and experience scaling remain unresolved.
 - Locked enrollment deliberately allows genuine outside assistance to make a fight harder. Intentional abandonment remains a social risk rather than a reason to permit mid-fight downscaling.
+
+## D-012: Three-class character identity and parallel advancement
+
+- **Status:** Provisional
+- **Date:** 2026-08-02
+- Every character begins with one primary class selected at character creation. The initial class roster remains unresolved.
+- The primary class is permanent and grants its complete ability set.
+- An introductory in-world quest opens a secondary and a tertiary class slot.
+- Any eligible class may serve as a primary class on one character or a subclass on another.
+- Subclasses grant curated subsets of their complete class kits. The secondary class is mechanically stronger than the tertiary class; exact ability access and scaling remain unresolved.
+- Combat and quest completion award a separate pool of parallel-advancement points at a substantially slower rate than standard leveling experience.
+- Each class has dedicated advancement options that enhance its abilities. One character-wide point pool can be allocated across the primary, secondary, and tertiary class paths.
+- Point allocation can emphasize solo utility such as damage or self-sustain, or deepen a group role such as survivability.
+- The primary class cannot be replaced. Secondary and tertiary classes can be replaced only at a safe location and after paying currency or satisfying another meaningful gate.
+- Completing the introductory subclass quest makes every level-eligible subclass available for later replacement; individual subclasses do not require separate unlock quests.
+- Replacing a subclass removes its active abilities and returns all points allocated to that subclass to the character's unspent pool. Earned points are not destroyed.
+- Exact class names and expressions must be original. References to classes from existing games are mechanical shorthand only and are not candidates for final names, lore, or ability designs.

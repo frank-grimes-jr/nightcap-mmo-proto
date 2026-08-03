@@ -17,7 +17,17 @@ These questions are intentionally unresolved. Do not silently answer them during
 
 ## Character and combat
 
-- Which class, skill, role, or hybrid model should drive character identity?
+- Which original classes form the initial roster, and what is each class's identity?
+- At what point does the introductory quest open the secondary and tertiary class slots?
+- Which abilities can each class contribute from the secondary and tertiary slots?
+- What power ratios or restrictions make the secondary subclass stronger than the tertiary without making either choice trivial?
+- Can the same class occupy more than one slot on a character?
+- How do equipment access, weapon skills, armor proficiency, resources, and attributes interact across three classes?
+- At what rate do characters earn parallel-advancement points from enemies and quests?
+- What point caps, prerequisites, exclusions, or diminishing returns keep the shared advancement pool balanceable?
+- Can primary-class advancement allocations be reset even though the primary class itself is permanent?
+- What currency cost or other gate controls subclass replacement, and does that cost change with repeated use?
+- How are three-class combinations balanced without erasing class identity or requiring external build guides?
 - How are solo survivability and optional group synergy reconciled?
 - How do dungeon encounters scale with party size while preserving solo as the baseline?
 - Which open-world bosses use locked enrollment, and how are they communicated to players?
