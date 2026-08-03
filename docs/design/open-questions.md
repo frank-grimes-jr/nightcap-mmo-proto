@@ -28,7 +28,7 @@ These questions are intentionally unresolved. Do not silently answer them during
 - Which accessory types are broadly eligible, and how much of a hybrid build's support should come from accessories?
 - What maximum number of augment sockets may an item have, and which authored items receive one or more sockets?
 - What broad augment-compatibility families exist, and which equipment destinations belong to each family?
-- May one augment support more than one broad compatibility family?
+- How rare should multi-family augments be, and which family combinations may they support?
 - Beyond family matching and one augment per socket, what rules govern installation and replacement?
 - What are the direct currency and prepaid-token prices for intact augment removal, and do they scale with item or augment power?
 - Which safe locations provide augment removal, which in-game vendors sell the account-bound tokens, and how many tokens may an account store?

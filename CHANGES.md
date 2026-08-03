@@ -1,5 +1,13 @@
 # Changes
 
+## 2026-08-03 - Rare multi-family augments
+
+- Made single-family compatibility the standard rule for augments.
+- Allowed rare augments to support more than one compatibility family as intentional exceptions.
+- Kept their exact rarity and permitted family combinations TBD.
+
+Gotcha: broader compatibility does not establish final augment power, drop-rate, or family-taxonomy values.
+
 ## 2026-08-02 - Distinct class slots
 
 - Required every character's primary, secondary, and tertiary selections to be three distinct classes.

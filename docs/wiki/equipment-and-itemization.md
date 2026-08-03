@@ -44,11 +44,13 @@ Selected items may contain multiple augment sockets. Each socket holds one augme
 
 Families keep compatibility predictable instead of giving augments arbitrary item-by-item lists. For example, a provisional jewelry family could let one compatible augment fit sockets on necklaces, rings, and earrings. Final family names and membership remain TBD.
 
+Most augments support exactly one compatibility family. Rare multi-family augments can support more than one family, making broader compatibility an exceptional discovery rather than the normal rule. Their rarity and permitted family combinations remain TBD.
+
 An installed augment can be removed intact and reused through a designated service in a safe location. The player pays either ordinary in-game currency at the time of removal or spends one prepaid service token.
 
 Service tokens are purchased only with in-game currency and can be stored for later use by any character on the owning account. They are account-bound, cannot be traded to another player, and cannot be purchased with real money.
 
-Socket maxima and distribution, compatibility families, whether one augment may support multiple families, installation and replacement rules, exact service costs, token vendors, storage limits, service locations, and whether costs scale with item or augment power remain TBD.
+Socket maxima and distribution, compatibility families, multi-family augment rarity and permitted family combinations, installation and replacement rules, exact service costs, token vendors, storage limits, service locations, and whether costs scale with item or augment power remain TBD.
 
 ## Rare universal equipment
 
@@ -62,6 +64,6 @@ Their final terminology, frequency, eligibility, and power limits remain TBD.
 - Functional statistic categories and their power-budget weights.
 - How subclass statistics interact with secondary and tertiary ability scaling.
 - Accessory types, eligibility, and power allocation.
-- Augment-socket maxima and distribution, compatibility-family taxonomy, multi-family eligibility, installation and replacement rules, service costs and locations, token vendors, storage limits, and cost scaling.
+- Augment-socket maxima and distribution, compatibility-family taxonomy, multi-family rarity and permitted combinations, installation and replacement rules, service costs and locations, token vendors, storage limits, and cost scaling.
 - Frequency and discoverability of specialized hybrid items.
 - Rarity and power limits for universally eligible items.
