@@ -1,5 +1,12 @@
 # Changes
 
+## 2026-08-03 - Displaced-augment destination
+
+- Sent a replaced augment to the character's inventory when a slot is free.
+- Sent a replaced augment to the player's cursor for immediate placement when inventory is full.
+
+Gotcha: this assumes a cursor-based item-placement UI convention; exact inventory-full edge cases (e.g. cursor already occupied) remain TBD.
+
 ## 2026-08-03 - Field augment replacement
 
 - Allowed players to replace an augment already occupying a socket directly in the field, without requiring the safe-location removal service first.

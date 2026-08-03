@@ -44,7 +44,7 @@ Selected items may contain multiple augment sockets. Each socket holds one augme
 
 Players can install compatible augments anywhere while their character is out of combat. Installation does not require visiting a safe-location service.
 
-Installing into a socket that already holds an augment replaces it on the spot, without needing the safe-location service first. The replaced augment survives the swap rather than being destroyed. Where it ends up afterward is still TBD.
+Installing into a socket that already holds an augment replaces it on the spot, without needing the safe-location service first. The replaced augment survives the swap rather than being destroyed: it goes to the character's inventory if a slot is free, or onto the player's cursor for immediate placement if inventory is full.
 
 Families keep compatibility predictable instead of giving augments arbitrary item-by-item lists. For example, a provisional jewelry family could let one compatible augment fit sockets on necklaces, rings, and earrings. Final family names and membership remain TBD.
 
@@ -54,7 +54,7 @@ An installed augment can be removed intact and reused through a designated servi
 
 Service tokens are purchased only with in-game currency and can be stored for later use by any character on the owning account. They are account-bound, cannot be traded to another player, and cannot be purchased with real money.
 
-Socket maxima and distribution, compatibility families, multi-family augment rarity and permitted family combinations, installation costs and timing, where a replaced augment goes after being displaced, exact service costs, token vendors, storage limits, service locations, and whether costs scale with item or augment power remain TBD.
+Socket maxima and distribution, compatibility families, multi-family augment rarity and permitted family combinations, installation costs and timing, exact service costs, token vendors, storage limits, service locations, and whether costs scale with item or augment power remain TBD.
 
 ## Rare universal equipment
 
@@ -68,6 +68,6 @@ Their final terminology, frequency, eligibility, and power limits remain TBD.
 - Functional statistic categories and their power-budget weights.
 - How subclass statistics interact with secondary and tertiary ability scaling.
 - Accessory types, eligibility, and power allocation.
-- Augment-socket maxima and distribution, compatibility-family taxonomy, multi-family rarity and permitted combinations, installation costs and timing, where a replaced augment goes after being displaced, service costs and locations, token vendors, storage limits, and cost scaling.
+- Augment-socket maxima and distribution, compatibility-family taxonomy, multi-family rarity and permitted combinations, installation costs and timing, service costs and locations, token vendors, storage limits, and cost scaling.
 - Frequency and discoverability of specialized hybrid items.
 - Rarity and power limits for universally eligible items.

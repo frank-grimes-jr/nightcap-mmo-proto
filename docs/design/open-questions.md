@@ -30,7 +30,6 @@ These questions are intentionally unresolved. Do not silently answer them during
 - What broad augment-compatibility families exist, and which equipment destinations belong to each family?
 - How rare should multi-family augments be, and which family combinations may they support?
 - Does out-of-combat augment installation have a cost or activation time?
-- Where does a replaced augment go when its socket is overwritten in the field?
 - What are the direct currency and prepaid-token prices for intact augment removal, and do they scale with item or augment power?
 - Which safe locations provide augment removal, which in-game vendors sell the account-bound tokens, and how many tokens may an account store?
 - How much weaker must augment-based correction be than comparable specialization authored directly onto an item?
