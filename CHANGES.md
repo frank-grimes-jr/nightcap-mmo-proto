@@ -1,5 +1,12 @@
 # Changes
 
+## 2026-08-03 - Field augment replacement
+
+- Allowed players to replace an augment already occupying a socket directly in the field, without requiring the safe-location removal service first.
+- Kept the replaced augment intact rather than destroying it on replacement.
+
+Gotcha: where the replaced augment goes after being displaced remains TBD.
+
 ## 2026-08-03 - Field augment installation
 
 - Allowed compatible augments to be installed anywhere while the character is out of combat.
