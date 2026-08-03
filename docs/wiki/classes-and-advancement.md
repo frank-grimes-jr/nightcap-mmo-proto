@@ -40,6 +40,12 @@ These choices let players shape the same class combination for different priorit
 
 Exact earning rates, costs, caps, prerequisites, exclusions, and balance rules are TBD.
 
+## Equipment and subclass builds
+
+The primary class determines which armor chassis and weapons a character may equip; selecting a subclass does not add new equipment categories. Eligible equipment can still carry statistics that support secondary or tertiary abilities, allowing hybrid builds without dissolving the primary class's equipment identity.
+
+Specialized hybrid items, broadly useful accessories, and limited augments provide different ways to support cross-role combinations. See [Equipment and Itemization](equipment-and-itemization.md) for the provisional player-facing rules.
+
 ## Replacing subclasses
 
 Secondary and tertiary classes can be replaced only at a designated safe location. Replacement requires currency or another meaningful gate; the exact mechanism and cost are TBD.
@@ -54,7 +60,8 @@ Removing a subclass also removes access to its active abilities. Every advanceme
 - Introductory quest timing and presentation.
 - Secondary and tertiary ability subsets and power ratios.
 - Whether one class may occupy multiple slots.
-- Equipment, resource, weapon, armor, and attribute interactions.
+- Resource, weapon-skill, armor-proficiency, and base-attribute interactions.
+- Exact equipment categories and how secondary and tertiary scaling affects equipment statistics.
 - Parallel-advancement name, earning rate, caps, and tree structure.
 - Primary-class point-reset rules.
 - Subclass-replacement cost and any cooldown or other gate.

@@ -121,3 +121,18 @@ This document records product decisions before they are expensive enough to requ
 - Completing the introductory subclass quest makes every level-eligible subclass available for later replacement; individual subclasses do not require separate unlock quests.
 - Replacing a subclass removes its active abilities and returns all points allocated to that subclass to the character's unspent pool. Earned points are not destroyed.
 - Exact class names and expressions must be original. References to classes from existing games are mechanical shorthand only and are not candidates for final names, lore, or ability designs.
+
+## D-013: Hybrid equipment support
+
+- **Status:** Provisional
+- **Date:** 2026-08-02
+- A character's primary class determines armor-chassis and weapon eligibility. Secondary and tertiary classes do not independently unlock additional armor or weapon categories.
+- Equipment eligibility and equipment statistics are separate concerns. An eligible item may carry fixed, functional statistics that support abilities associated with any class slot, even when those statistics are unusual for the item's chassis.
+- Loot is authored and fixed rather than personalized or adaptively generated for the character who finds it.
+- Specialized hybrid items are intentional, fixed discoveries in the world. Their uncommon combinations of chassis and statistics support particular cross-role builds without requiring one unique item family for every possible three-class combination.
+- Accessories provide a broader source of cross-role statistics than armor and weapons.
+- Augments provide a limited secondary way to correct or sharpen a build. They do not replace the hunt for naturally specialized equipment and should not be stronger than comparable specialization already built into an item.
+- Every item has a fixed power budget. Subclass-supporting statistics displace defense, offense, or other value rather than appearing as free additional power.
+- Item statistics use a functional vocabulary that can support multiple classes and combinations rather than naming every statistic for one class.
+- Rare universally eligible items may exist, but they are exceptions rather than the normal solution to hybrid equipment needs.
+- Exact equipment categories, statistic vocabulary and weights, accessory rules, augment rules, hybrid-item frequency, and universal-item rarity remain unresolved.

@@ -16,6 +16,7 @@ Canonical decisions remain in `docs/design/decisions.md`. Open design work remai
 
 - [Classes and Advancement](classes-and-advancement.md)
 - [Dungeons](dungeons.md)
+- [Equipment and Itemization](equipment-and-itemization.md)
 - [World Bosses](world-bosses.md)
 
 ## Page convention

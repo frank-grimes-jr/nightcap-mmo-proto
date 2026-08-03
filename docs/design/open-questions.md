@@ -22,7 +22,15 @@ These questions are intentionally unresolved. Do not silently answer them during
 - Which abilities can each class contribute from the secondary and tertiary slots?
 - What power ratios or restrictions make the secondary subclass stronger than the tertiary without making either choice trivial?
 - Can the same class occupy more than one slot on a character?
-- How do equipment access, weapon skills, armor proficiency, resources, and attributes interact across three classes?
+- How do class resources, weapon skills, armor proficiency, and base attributes interact across three classes?
+- What original names and boundaries define the armor-chassis, weapon, accessory, and universal-eligibility categories?
+- Which functional statistic categories can support abilities across class slots, and how are their power-budget weights compared?
+- How effective are subclass-supporting statistics when applied to the stronger secondary slot versus the more limited tertiary slot?
+- Which accessory types are broadly eligible, and how much of a hybrid build's support should come from accessories?
+- How many augment slots can an item have, and what rules govern augment installation, replacement, removal, recovery, and cost?
+- How much weaker must augment-based correction be than comparable specialization authored directly onto an item?
+- How frequently should specialized hybrid items appear, and how discoverable should their fixed world sources be?
+- How rare and powerful may universally eligible items become without erasing primary-class equipment identity?
 - At what rate do characters earn parallel-advancement points from enemies and quests?
 - What point caps, prerequisites, exclusions, or diminishing returns keep the shared advancement pool balanceable?
 - Can primary-class advancement allocations be reset even though the primary class itself is permanent?

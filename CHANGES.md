@@ -1,5 +1,15 @@
 # Changes
 
+## 2026-08-02 - Hybrid equipment support
+
+- Kept armor-chassis and weapon eligibility anchored to the permanent primary class.
+- Separated equipment eligibility from statistics so fixed items can support legal cross-role subclass builds.
+- Defined authored hybrid items, flexible accessories, and limited augments as complementary itemization paths.
+- Required fixed item power budgets so subclass support always carries an opportunity cost.
+- Added the corresponding player-facing equipment and itemization wiki page.
+
+Gotcha: equipment categories, statistic weights, accessory rules, augment behavior, hybrid-item frequency, and universal-item rarity remain provisional or TBD.
+
 ## 2026-08-02 - Three-class character progression
 
 - Defined a permanent full-kit primary class with stronger secondary and more limited tertiary subclasses.
