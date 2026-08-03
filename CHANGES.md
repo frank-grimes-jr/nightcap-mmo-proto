@@ -1,5 +1,14 @@
 # Changes
 
+## 2026-08-02 - Typed augment sockets
+
+- Allowed selected authored items to contain multiple augment sockets, with one augment per socket.
+- Required every socket and augment to match through broad equipment-family compatibility.
+- Chose coherent families over arbitrary item-by-item compatibility lists.
+- Kept final family names, membership, socket maxima, and multi-family augment eligibility TBD.
+
+Gotcha: the provisional jewelry example illustrates the family rule but does not establish final equipment terminology or taxonomy.
+
 ## 2026-08-02 - Reusable augment service
 
 - Made installed augments removable intact and reusable through a designated safe-location service.
