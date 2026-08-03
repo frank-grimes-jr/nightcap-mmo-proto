@@ -137,6 +137,7 @@ This document records product decisions before they are expensive enough to requ
 - Every augment socket declares a broad equipment-family compatibility type. An augment can be installed only when it supports that family.
 - Compatibility families group logically related equipment destinations rather than relying on arbitrary item-by-item lists. For example, a provisional jewelry family could cover necklaces, rings, and earrings; final family names and membership remain unresolved.
 - Most augments support exactly one compatibility family. Rare multi-family augments may support more than one family as intentional exceptions.
+- A multi-family augment has the same effect strength as a comparable single-family augment. Broader compatibility does not impose a statistical power penalty.
 - An installed augment can be removed intact and reused through a designated safe-location service. Removal requires either an in-game currency payment or one prepaid service token.
 - Service tokens are purchased only with in-game currency, can be stored for later use, and are shared across the owning account. They are account-bound and cannot be traded to another player.
 - Augment-service tokens have no real-money purchase path.

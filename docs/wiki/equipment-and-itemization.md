@@ -44,7 +44,7 @@ Selected items may contain multiple augment sockets. Each socket holds one augme
 
 Families keep compatibility predictable instead of giving augments arbitrary item-by-item lists. For example, a provisional jewelry family could let one compatible augment fit sockets on necklaces, rings, and earrings. Final family names and membership remain TBD.
 
-Most augments support exactly one compatibility family. Rare multi-family augments can support more than one family, making broader compatibility an exceptional discovery rather than the normal rule. Their rarity and permitted family combinations remain TBD.
+Most augments support exactly one compatibility family. Rare multi-family augments can support more than one family, making broader compatibility an exceptional discovery rather than the normal rule. A multi-family augment is as powerful as a comparable single-family augment; its flexibility does not reduce its statistics. Its rarity and permitted family combinations remain TBD.
 
 An installed augment can be removed intact and reused through a designated service in a safe location. The player pays either ordinary in-game currency at the time of removal or spends one prepaid service token.
 

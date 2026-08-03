@@ -1,5 +1,12 @@
 # Changes
 
+## 2026-08-03 - Equal multi-family augment power
+
+- Made rare multi-family augments equally powerful as comparable single-family augments.
+- Prevented broader compatibility from imposing a statistical power penalty.
+
+Gotcha: exact augment values, rarity, sources, and permitted family combinations remain TBD.
+
 ## 2026-08-03 - Rare multi-family augments
 
 - Made single-family compatibility the standard rule for augments.
