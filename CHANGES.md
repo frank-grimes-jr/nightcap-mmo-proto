@@ -1,5 +1,12 @@
 # Changes
 
+## 2026-08-03 - Universal augment action cost
+
+- Required the same in-game currency or prepaid service token payment for installation, field replacement, and intact removal, regardless of location.
+- Kept installation and field replacement instant, with no separate activation time.
+
+Gotcha: exact prices and whether they scale with item or augment power remain TBD; whether the service location retains any distinct advantage over field actions is unresolved.
+
 ## 2026-08-03 - Displaced-augment destination
 
 - Sent a replaced augment to the character's inventory when a slot is free.

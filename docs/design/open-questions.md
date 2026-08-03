@@ -29,8 +29,7 @@ These questions are intentionally unresolved. Do not silently answer them during
 - What maximum number of augment sockets may an item have, and which authored items receive one or more sockets?
 - What broad augment-compatibility families exist, and which equipment destinations belong to each family?
 - How rare should multi-family augments be, and which family combinations may they support?
-- Does out-of-combat augment installation have a cost or activation time?
-- What are the direct currency and prepaid-token prices for intact augment removal, and do they scale with item or augment power?
+- What are the direct currency and prepaid-token prices for augment installation, field replacement, and intact removal, and do they scale with item or augment power?
 - Which safe locations provide augment removal, which in-game vendors sell the account-bound tokens, and how many tokens may an account store?
 - How much weaker must augment-based correction be than comparable specialization authored directly onto an item?
 - How frequently should specialized hybrid items appear, and how discoverable should their fixed world sources be?

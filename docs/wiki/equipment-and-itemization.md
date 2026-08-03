@@ -42,9 +42,9 @@ Augments are a secondary mechanism, not a replacement for discovering specialize
 
 Selected items may contain multiple augment sockets. Each socket holds one augment and declares a broad equipment-family compatibility type. An augment can be installed only in a socket whose family it supports.
 
-Players can install compatible augments anywhere while their character is out of combat. Installation does not require visiting a safe-location service.
+Players can install compatible augments anywhere while their character is out of combat. Installation does not require visiting a safe-location service, but it is not free: it costs the same in-game currency payment or prepaid service token used for intact removal, whether performed at a safe location or out in the field.
 
-Installing into a socket that already holds an augment replaces it on the spot, without needing the safe-location service first. The replaced augment survives the swap rather than being destroyed: it goes to the character's inventory if a slot is free, or onto the player's cursor for immediate placement if inventory is full.
+Installing into a socket that already holds an augment replaces it on the spot, without needing the safe-location service first. The replaced augment survives the swap rather than being destroyed: it goes to the character's inventory if a slot is free, or onto the player's cursor for immediate placement if inventory is full. Replacement is instant and costs the same currency or token payment as installation and removal.
 
 Families keep compatibility predictable instead of giving augments arbitrary item-by-item lists. For example, a provisional jewelry family could let one compatible augment fit sockets on necklaces, rings, and earrings. Final family names and membership remain TBD.
 
