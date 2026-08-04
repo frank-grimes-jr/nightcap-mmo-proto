@@ -154,3 +154,12 @@ This document records product decisions before they are expensive enough to requ
 - Item statistics use a functional vocabulary that can support multiple classes and combinations rather than naming every statistic for one class.
 - Rare universally eligible items may exist, but they are exceptions rather than the normal solution to hybrid equipment needs.
 - Exact equipment categories, statistic vocabulary and weights, accessory rules, socket maxima and family taxonomy, multi-family augment rarity and permitted family combinations, the numeric currency curve for augment actions, service locations, token vendors and storage caps, hybrid-item frequency, and universal-item rarity remain unresolved.
+
+## D-014: Equipment category taxonomy
+
+- **Status:** Provisional
+- **Date:** 2026-08-04
+- Defines the original names and boundaries for the armor-chassis, weapon, accessory, and universal-eligibility categories referenced by D-013. Resolved axis by axis; weapon, accessory, and universal categories remain unresolved.
+- **Armor chassis:** three broad chassis tiers (a light / medium / heavy-style spread) rather than two or four. Original names remain unresolved.
+- A primary class may equip its own chassis tier or any lighter tier, up to a maximum. A heavy-eligible class can also wear medium or light armor; it cannot wear anything heavier than its maximum. This provides fallback options when ideal gear is scarce, at some cost to fixed defensive identity.
+- Chassis eligibility still derives solely from the permanent primary class, consistent with D-013. Secondary and tertiary classes do not raise or change a character's maximum chassis tier.

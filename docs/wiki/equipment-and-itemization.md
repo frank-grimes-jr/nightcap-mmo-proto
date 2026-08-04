@@ -12,6 +12,8 @@ A character's primary class determines which armor chassis and weapons that char
 
 This preserves a recognizable equipment identity for the permanent primary class. A heavily protected primary does not gain access to a caster's equipment category merely by selecting a caster subclass.
 
+Armor comes in three broad chassis tiers — a light, medium, and heavy-style spread (original names TBD). A primary class is eligible for its own tier and any lighter one: a heavy-armor class can also wear medium or light, but never anything heavier than its maximum. That gives a fallback when the ideal chassis is scarce without letting a class exceed its intended protection ceiling. Only the primary class sets this ceiling; subclasses never raise it.
+
 ## Statistics can support the whole build
 
 Equipment eligibility and equipment statistics are separate. An item that fits the primary class may carry statistics supporting abilities from any of the character's three class slots.
@@ -68,7 +70,7 @@ Their final terminology, frequency, eligibility, and power limits remain TBD.
 
 ## Player-visible details still TBD
 
-- Original names and boundaries for equipment categories.
+- Original names for the three armor chassis, and the names and boundaries for weapon, accessory, and universal-eligibility categories.
 - Functional statistic categories and their power-budget weights.
 - How subclass statistics interact with secondary and tertiary ability scaling.
 - Accessory types, eligibility, and power allocation.

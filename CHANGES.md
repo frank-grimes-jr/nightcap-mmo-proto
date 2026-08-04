@@ -1,5 +1,13 @@
 # Changes
 
+## 2026-08-04 - Armor chassis taxonomy
+
+- Opened D-014 for the equipment category taxonomy, to be resolved axis by axis (armor, weapon, accessory, universal).
+- Set three broad armor chassis tiers (light/medium/heavy-style; names TBD) rather than two or four.
+- Let a primary class equip its own chassis tier or any lighter one, up to a maximum, while keeping chassis eligibility anchored to the primary class alone.
+
+Gotcha: original chassis names and the weapon, accessory, and universal categories remain TBD.
+
 ## 2026-08-04 - Augments strictly weaker than built-in specialization
 
 - Sharpened the augment power rule from "not stronger than" to "always meaningfully weaker than" comparable specialization authored onto an item of the same tier.

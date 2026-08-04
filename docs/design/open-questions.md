@@ -22,7 +22,7 @@ These questions are intentionally unresolved. Do not silently answer them during
 - Which abilities can each class contribute from the secondary and tertiary slots?
 - What power ratios or restrictions make the secondary subclass stronger than the tertiary without making either choice trivial?
 - How do class resources, weapon skills, armor proficiency, and base attributes interact across three classes?
-- What original names and boundaries define the armor-chassis, weapon, accessory, and universal-eligibility categories?
+- What original names define the categories, and what are the boundaries for the weapon, accessory, and universal-eligibility categories? (Armor-chassis structure resolved in D-014: three tiers, class equips its own tier or lighter; original names still TBD.)
 - Which functional statistic categories can support abilities across class slots, and how are their power-budget weights compared?
 - How effective are subclass-supporting statistics when applied to the stronger secondary slot versus the more limited tertiary slot?
 - Which accessory types are broadly eligible, and how much of a hybrid build's support should come from accessories?
