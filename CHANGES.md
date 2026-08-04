@@ -1,5 +1,13 @@
 # Changes
 
+## 2026-08-04 - Accessory taxonomy and cross-role ceiling
+
+- Set a broad accessory slot layout (~7-8 slots; names and exact count TBD), making accessories the primary hybrid canvas.
+- Capped the magnitude of any single cross-role statistic on an accessory below armor/weapon/authored-hybrid levels, so accessories give breadth without spikes and cannot erode primary-class identity.
+- Resolved the open question of how much hybrid support comes from accessories via this structural per-accessory ceiling rather than a global aggregate cap.
+
+Gotcha: the exact slot count, names, and numeric ceiling remain TBD.
+
 ## 2026-08-04 - Weapon taxonomy
 
 - Organized weapons as many specific per-type categories rather than a few broad archetype families, with eligibility anchored to the primary class.

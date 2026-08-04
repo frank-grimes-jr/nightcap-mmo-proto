@@ -34,9 +34,9 @@ The design does not require a unique item family for every three-class combinati
 
 ## Accessories
 
-Accessories provide broader access to cross-role statistics than armor and weapons. Jewelry, relics, charms, or the setting's eventual original equivalents can help a character support subclass abilities without changing primary-class equipment eligibility.
+Accessories provide broader access to cross-role statistics than armor and weapons. The layout is deliberately wide — roughly neck, two rings, two earrings, cloak, belt, and a charm or trinket (about seven or eight slots; original names and exact count TBD) — so accessories are the main canvas for supporting subclass abilities without changing primary-class equipment eligibility.
 
-The final accessory categories, eligibility rules, and share of a build's total power remain TBD.
+Breadth is balanced by depth limits. Each accessory caps the magnitude of any single cross-role statistic below what armor, weapons, or purpose-built hybrid items can reach. Accessories round a character out across roles, but they cannot max out a cross-role role on their own — for that you still hunt authored gear. This keeps a wide accessory set from quietly outgrowing primary-class identity, without needing a separate global budget to track. The exact slot count and the numeric per-accessory ceiling remain TBD.
 
 ## Augments
 
@@ -75,7 +75,7 @@ Their final terminology, frequency, eligibility, and power limits remain TBD.
 - Original names for the three armor chassis and the weapon types, the weapon group taxonomy, and the names and boundaries for accessory and universal-eligibility categories.
 - Functional statistic categories and their power-budget weights.
 - How subclass statistics interact with secondary and tertiary ability scaling.
-- Accessory types, eligibility, and power allocation.
+- Exact accessory slot count and names, and the numeric per-accessory cross-role ceiling.
 - Exact per-family augment-socket ceilings and distribution, compatibility-family taxonomy, multi-family rarity and permitted combinations, the numeric currency curve, which settlements host the services, and the exact token storage cap.
 - Frequency and discoverability of specialized hybrid items.
 - Rarity and power limits for universally eligible items.
