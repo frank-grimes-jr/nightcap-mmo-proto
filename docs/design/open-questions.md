@@ -33,7 +33,7 @@ These questions are intentionally unresolved. Do not silently answer them during
 - Which specific settlements host the augment-removal service and token vendor, and what is the numeric token storage cap? (Structure resolved: both services live together in settlement hubs; token storage is capped.)
 - What is the exact size of the discount by which augment correction falls short of comparable specialization authored onto an item? (Structure resolved: augments are always strictly weaker, not merely capped at equal.)
 - How frequently should specialized hybrid items appear, and how discoverable should their fixed world sources be?
-- How rare and powerful may universally eligible items become without erasing primary-class equipment identity?
+- How rare should universally eligible items be? (Structure resolved in D-014: universal items exist only as accessories, so their power is already bounded by the per-accessory cross-role ceiling; only their drop rarity is TBD.)
 - At what rate do characters earn parallel-advancement points from enemies and quests?
 - What point caps, prerequisites, exclusions, or diminishing returns keep the shared advancement pool balanceable?
 - Can primary-class advancement allocations be reset even though the primary class itself is permanent?

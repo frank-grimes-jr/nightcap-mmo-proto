@@ -66,9 +66,9 @@ Exact per-family socket ceilings and distribution, compatibility families, multi
 
 ## Rare universal equipment
 
-Rare items that can be equipped across otherwise separate equipment categories may exist. These are intended as exceptional discoveries, not the default answer for every hybrid build.
+Some rare items can be equipped by any class regardless of its usual gates. These universally-eligible items exist only as accessories — there are no universal armor pieces or weapons — so a character can never use one to sidestep its armor chassis or weapon eligibility. Because they are accessories, their power is already held under the per-accessory cross-role ceiling; universality adds the thrill of a find any class can use, not extra power. They remain exceptional discoveries, not the default answer for a hybrid build.
 
-Their final terminology, frequency, eligibility, and power limits remain TBD.
+Their exact drop rarity remains TBD; their power ceiling is settled by the accessory rule above.
 
 ## Player-visible details still TBD
 
@@ -78,4 +78,4 @@ Their final terminology, frequency, eligibility, and power limits remain TBD.
 - Exact accessory slot count and names, and the numeric per-accessory cross-role ceiling.
 - Exact per-family augment-socket ceilings and distribution, compatibility-family taxonomy, multi-family rarity and permitted combinations, the numeric currency curve, which settlements host the services, and the exact token storage cap.
 - Frequency and discoverability of specialized hybrid items.
-- Rarity and power limits for universally eligible items.
+- Drop rarity for universally eligible (accessory-only) items.

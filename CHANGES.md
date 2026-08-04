@@ -1,5 +1,13 @@
 # Changes
 
+## 2026-08-04 - Universal items are accessory-only
+
+- Restricted universally-eligible items to accessories, with no universal armor or weapons, so chassis and weapon-type gates are never bypassed.
+- Bounded universal-item power through the existing per-accessory cross-role ceiling rather than a new rule, leaving only drop rarity as a tuning question.
+- Completed D-014's structural axes: armor, weapons, accessories, and universal eligibility.
+
+Gotcha: original category names, the weapon group taxonomy, exact slot/socket counts, numeric ceilings, and universal drop rarity remain TBD.
+
 ## 2026-08-04 - Accessory taxonomy and cross-role ceiling
 
 - Set a broad accessory slot layout (~7-8 slots; names and exact count TBD), making accessories the primary hybrid canvas.
