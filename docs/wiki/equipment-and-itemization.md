@@ -14,6 +14,8 @@ This preserves a recognizable equipment identity for the permanent primary class
 
 Armor comes in three broad chassis tiers — a light, medium, and heavy-style spread (original names TBD). A primary class is eligible for its own tier and any lighter one: a heavy-armor class can also wear medium or light, but never anything heavier than its maximum. That gives a fallback when the ideal chassis is scarce without letting a class exceed its intended protection ceiling. Only the primary class sets this ceiling; subclasses never raise it.
 
+Weapons work differently. Rather than a few broad families, there are many specific weapon types (blades, axes, maces, bows, staves, and the setting's eventual original equivalents), each with its own per-class eligibility. Those specific types roll up into broader weapon groups, and it is the group — not the individual type — that carries weapon-skill progression and augment-family compatibility. Switching between two types in the same group keeps your skill and shares an augment family, while each type keeps its own look and eligibility. As with armor, only the primary class determines which weapons a character may wield. The original type names and the group taxonomy remain TBD.
+
 ## Statistics can support the whole build
 
 Equipment eligibility and equipment statistics are separate. An item that fits the primary class may carry statistics supporting abilities from any of the character's three class slots.
@@ -70,7 +72,7 @@ Their final terminology, frequency, eligibility, and power limits remain TBD.
 
 ## Player-visible details still TBD
 
-- Original names for the three armor chassis, and the names and boundaries for weapon, accessory, and universal-eligibility categories.
+- Original names for the three armor chassis and the weapon types, the weapon group taxonomy, and the names and boundaries for accessory and universal-eligibility categories.
 - Functional statistic categories and their power-budget weights.
 - How subclass statistics interact with secondary and tertiary ability scaling.
 - Accessory types, eligibility, and power allocation.

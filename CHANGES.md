@@ -1,5 +1,12 @@
 # Changes
 
+## 2026-08-04 - Weapon taxonomy
+
+- Organized weapons as many specific per-type categories rather than a few broad archetype families, with eligibility anchored to the primary class.
+- Rolled specific weapon types up into broader groups that drive weapon-skill progression (D-007) and augment-family compatibility (D-013), while keeping eligibility and flavor per-type.
+
+Gotcha: original weapon-type names, the group taxonomy, and which types belong to each group remain TBD.
+
 ## 2026-08-04 - Armor chassis taxonomy
 
 - Opened D-014 for the equipment category taxonomy, to be resolved axis by axis (armor, weapon, accessory, universal).
