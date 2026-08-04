@@ -1,5 +1,12 @@
 # Changes
 
+## 2026-08-04 - Per-family augment socket caps
+
+- Capped augment socket counts per equipment family rather than by one global ceiling or by item tier.
+- Ordered the per-family ceilings to follow the cross-role support hierarchy: accessory families allow the most sockets, armor and weapon families fewer.
+
+Gotcha: the exact per-family ceilings and which authored items receive sockets remain TBD.
+
 ## 2026-08-04 - Augment services live in settlement hubs
 
 - Placed the intact-removal service and the token vendor together in settlement hubs, keeping town the augment maintenance loop.

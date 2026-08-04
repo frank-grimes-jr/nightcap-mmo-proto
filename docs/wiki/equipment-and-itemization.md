@@ -42,6 +42,8 @@ Augments are a secondary mechanism, not a replacement for discovering specialize
 
 Selected items may contain multiple augment sockets. Each socket holds one augment and declares a broad equipment-family compatibility type. An augment can be installed only in a socket whose family it supports.
 
+How many sockets an item may carry is capped per equipment family rather than by a single global limit. Those ceilings follow the same hierarchy as cross-role support: accessory families allow the most sockets, while armor and weapon families allow fewer. This keeps accessories the natural home for flexibility. The exact per-family ceilings and which items receive sockets remain TBD.
+
 Players can install compatible augments anywhere while their character is out of combat. Installation does not require visiting a safe-location service, but it is not free: it costs the same in-game currency payment or prepaid service token used for intact removal, whether performed at a safe location or out in the field.
 
 Installing into a socket that already holds an augment replaces it on the spot, without needing the safe-location service first. The replaced augment survives the swap rather than being destroyed: it goes to the character's inventory if a slot is free, or onto the player's cursor for immediate placement if inventory is full. Replacement is instant and costs the same currency or token payment as installation and removal.
@@ -56,7 +58,7 @@ Service tokens are purchased only with in-game currency and can be stored for la
 
 The currency price of an augment action scales with the augment's own power, not the item it sits in: moving a weak augment is cheap, while a strong or rare one is a deliberate expense. A prepaid token sidesteps that scaling entirely — one token covers a single action no matter how powerful the augment, so tokens are worth banking for your most valuable augments. The exact currency numbers remain TBD; token behavior does not scale.
 
-Socket maxima and distribution, compatibility families, multi-family augment rarity and permitted family combinations, the numeric currency curve, the exact token storage cap, and which settlements host the services remain TBD.
+Exact per-family socket ceilings and distribution, compatibility families, multi-family augment rarity and permitted family combinations, the numeric currency curve, the exact token storage cap, and which settlements host the services remain TBD.
 
 ## Rare universal equipment
 
@@ -70,6 +72,6 @@ Their final terminology, frequency, eligibility, and power limits remain TBD.
 - Functional statistic categories and their power-budget weights.
 - How subclass statistics interact with secondary and tertiary ability scaling.
 - Accessory types, eligibility, and power allocation.
-- Augment-socket maxima and distribution, compatibility-family taxonomy, multi-family rarity and permitted combinations, the numeric currency curve, which settlements host the services, and the exact token storage cap.
+- Exact per-family augment-socket ceilings and distribution, compatibility-family taxonomy, multi-family rarity and permitted combinations, the numeric currency curve, which settlements host the services, and the exact token storage cap.
 - Frequency and discoverability of specialized hybrid items.
 - Rarity and power limits for universally eligible items.

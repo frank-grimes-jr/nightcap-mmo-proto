@@ -134,6 +134,7 @@ This document records product decisions before they are expensive enough to requ
 - Accessories provide a broader source of cross-role statistics than armor and weapons.
 - Augments provide a limited secondary way to correct or sharpen a build. They do not replace the hunt for naturally specialized equipment and should not be stronger than comparable specialization already built into an item.
 - Selected authored items may contain multiple augment sockets. Each socket holds no more than one augment.
+- The maximum socket count is capped per equipment family rather than by one global ceiling or by item tier. The per-family ceilings follow the cross-role support hierarchy: accessory families allow the most sockets, armor and weapon families fewer. Exact per-family ceilings and which authored items receive sockets remain unresolved.
 - Every augment socket declares a broad equipment-family compatibility type. An augment can be installed only when it supports that family.
 - A compatible augment can be installed anywhere while the character is out of combat. Installation does not require a safe-location service.
 - Installing into an occupied socket replaces its current augment on the spot, without requiring the safe-location removal service first. The replaced augment is not destroyed.
