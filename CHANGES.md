@@ -1,5 +1,12 @@
 # Changes
 
+## 2026-08-04 - Augments strictly weaker than built-in specialization
+
+- Sharpened the augment power rule from "not stronger than" to "always meaningfully weaker than" comparable specialization authored onto an item of the same tier.
+- Kept found, naturally specialized equipment the primary path, with augments as correction rather than a rival to it.
+
+Gotcha: the exact size of the discount remains TBD.
+
 ## 2026-08-04 - Per-family augment socket caps
 
 - Capped augment socket counts per equipment family rather than by one global ceiling or by item tier.

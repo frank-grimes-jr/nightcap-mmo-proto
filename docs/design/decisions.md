@@ -132,7 +132,7 @@ This document records product decisions before they are expensive enough to requ
 - Loot is authored and fixed rather than personalized or adaptively generated for the character who finds it.
 - Specialized hybrid items are intentional, fixed discoveries in the world. Their uncommon combinations of chassis and statistics support particular cross-role builds without requiring one unique item family for every possible three-class combination.
 - Accessories provide a broader source of cross-role statistics than armor and weapons.
-- Augments provide a limited secondary way to correct or sharpen a build. They do not replace the hunt for naturally specialized equipment and should not be stronger than comparable specialization already built into an item.
+- Augments provide a limited secondary way to correct or sharpen a build. They do not replace the hunt for naturally specialized equipment. An augment is always meaningfully weaker than the same specialization authored directly onto an item of the same tier — a deliberate discount, not merely a cap at equal power. The exact size of that discount remains unresolved.
 - Selected authored items may contain multiple augment sockets. Each socket holds no more than one augment.
 - The maximum socket count is capped per equipment family rather than by one global ceiling or by item tier. The per-family ceilings follow the cross-role support hierarchy: accessory families allow the most sockets, armor and weapon families fewer. Exact per-family ceilings and which authored items receive sockets remain unresolved.
 - Every augment socket declares a broad equipment-family compatibility type. An augment can be installed only when it supports that family.

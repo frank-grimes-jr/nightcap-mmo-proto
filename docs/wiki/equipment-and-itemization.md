@@ -38,7 +38,7 @@ The final accessory categories, eligibility rules, and share of a build's total 
 
 Augments offer limited correction when a build needs a statistic that its current equipment does not naturally provide. They may also sharpen an existing specialization.
 
-Augments are a secondary mechanism, not a replacement for discovering specialized equipment. Comparable specialization authored directly onto an item should remain stronger than relying on augments alone.
+Augments are a secondary mechanism, not a replacement for discovering specialized equipment. An augment always delivers meaningfully less of a stat than the same specialization authored directly onto an item of the same tier — a deliberate gap, not a coin-flip that could match found gear. This keeps hunting for naturally specialized equipment the primary path, with augments there to correct or nudge a build. The exact size of the discount remains TBD.
 
 Selected items may contain multiple augment sockets. Each socket holds one augment and declares a broad equipment-family compatibility type. An augment can be installed only in a socket whose family it supports.
 
