@@ -146,6 +146,8 @@ This document records product decisions before they are expensive enough to requ
 - A multi-family augment has the same effect strength as a comparable single-family augment. Broader compatibility does not impose a statistical power penalty.
 - An installed augment can be removed intact and reused through a designated safe-location service. Removal requires either an in-game currency payment or one prepaid service token.
 - Service tokens are purchased only with in-game currency, can be stored for later use, and are shared across the owning account. They are account-bound and cannot be traded to another player.
+- The intact-removal service and the token vendor both live in settlement hubs, in the same safe places, so town remains the augment maintenance loop. The exact settlements remain unresolved.
+- An account can store only a capped number of tokens, preventing an infinite stockpile that would bypass the power-scaled currency sink. The exact cap remains unresolved.
 - Augment-service tokens have no real-money purchase path.
 - Every item has a fixed power budget. Subclass-supporting statistics displace defense, offense, or other value rather than appearing as free additional power.
 - Item statistics use a functional vocabulary that can support multiple classes and combinations rather than naming every statistic for one class.

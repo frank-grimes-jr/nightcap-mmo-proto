@@ -30,7 +30,7 @@ These questions are intentionally unresolved. Do not silently answer them during
 - What broad augment-compatibility families exist, and which equipment destinations belong to each family?
 - How rare should multi-family augments be, and which family combinations may they support?
 - What is the numeric currency curve for augment installation, field replacement, and intact removal? (Structure resolved: cost scales with augment power; one token covers one action at any power.)
-- Which safe locations provide augment removal, which in-game vendors sell the account-bound tokens, and how many tokens may an account store?
+- Which specific settlements host the augment-removal service and token vendor, and what is the numeric token storage cap? (Structure resolved: both services live together in settlement hubs; token storage is capped.)
 - How much weaker must augment-based correction be than comparable specialization authored directly onto an item?
 - How frequently should specialized hybrid items appear, and how discoverable should their fixed world sources be?
 - How rare and powerful may universally eligible items become without erasing primary-class equipment identity?

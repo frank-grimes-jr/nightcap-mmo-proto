@@ -1,5 +1,12 @@
 # Changes
 
+## 2026-08-04 - Augment services live in settlement hubs
+
+- Placed the intact-removal service and the token vendor together in settlement hubs, keeping town the augment maintenance loop.
+- Capped how many prepaid service tokens an account may store, preventing a stockpile that would bypass the power-scaled currency sink.
+
+Gotcha: the specific settlements and the numeric token cap remain TBD.
+
 ## 2026-08-04 - Augment cost scales with augment power
 
 - Made the currency cost of every augment action (install, field replacement, intact removal) scale with the augment's own power tier, independent of the host item.
