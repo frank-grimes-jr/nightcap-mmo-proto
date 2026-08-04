@@ -1,5 +1,12 @@
 # Changes
 
+## 2026-08-04 - Augment cost scales with augment power
+
+- Made the currency cost of every augment action (install, field replacement, intact removal) scale with the augment's own power tier, independent of the host item.
+- Kept a prepaid service token as a flat one-action hedge that covers any augment at any power.
+
+Gotcha: the exact currency curve remains TBD, as do token vendor locations and account storage caps.
+
 ## 2026-08-03 - Universal augment action cost
 
 - Required the same in-game currency or prepaid service token payment for installation, field replacement, and intact removal, regardless of location.

@@ -139,6 +139,8 @@ This document records product decisions before they are expensive enough to requ
 - Installing into an occupied socket replaces its current augment on the spot, without requiring the safe-location removal service first. The replaced augment is not destroyed.
 - The replaced augment goes to the character's inventory if a slot is free, or onto the player's cursor for immediate placement if inventory is full.
 - Installing an augment into an empty socket and replacing an augment in an occupied socket are both instant actions. Both require the same in-game currency payment or one prepaid service token used for intact removal, regardless of whether the action happens at a safe location or in the field.
+- The currency cost of any augment action (install, field replacement, intact removal) scales with the augment's own power tier, not with the host item. A weak augment is cheap to move; a strong or rare augment is a deliberate expense.
+- A prepaid service token covers exactly one action regardless of augment power. Tokens are a flat hedge whose value is greatest when banked for the strongest augments. The exact currency curve remains unresolved; token behavior does not scale.
 - Compatibility families group logically related equipment destinations rather than relying on arbitrary item-by-item lists. For example, a provisional jewelry family could cover necklaces, rings, and earrings; final family names and membership remain unresolved.
 - Most augments support exactly one compatibility family. Rare multi-family augments may support more than one family as intentional exceptions.
 - A multi-family augment has the same effect strength as a comparable single-family augment. Broader compatibility does not impose a statistical power penalty.
@@ -148,4 +150,4 @@ This document records product decisions before they are expensive enough to requ
 - Every item has a fixed power budget. Subclass-supporting statistics displace defense, offense, or other value rather than appearing as free additional power.
 - Item statistics use a functional vocabulary that can support multiple classes and combinations rather than naming every statistic for one class.
 - Rare universally eligible items may exist, but they are exceptions rather than the normal solution to hybrid equipment needs.
-- Exact equipment categories, statistic vocabulary and weights, accessory rules, socket maxima and family taxonomy, multi-family augment rarity and permitted family combinations, augment costs, service locations, hybrid-item frequency, and universal-item rarity remain unresolved.
+- Exact equipment categories, statistic vocabulary and weights, accessory rules, socket maxima and family taxonomy, multi-family augment rarity and permitted family combinations, the numeric currency curve for augment actions, service locations, token vendors and storage caps, hybrid-item frequency, and universal-item rarity remain unresolved.

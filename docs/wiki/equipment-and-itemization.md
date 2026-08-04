@@ -54,7 +54,9 @@ An installed augment can be removed intact and reused through a designated servi
 
 Service tokens are purchased only with in-game currency and can be stored for later use by any character on the owning account. They are account-bound, cannot be traded to another player, and cannot be purchased with real money.
 
-Socket maxima and distribution, compatibility families, multi-family augment rarity and permitted family combinations, installation costs and timing, exact service costs, token vendors, storage limits, service locations, and whether costs scale with item or augment power remain TBD.
+The currency price of an augment action scales with the augment's own power, not the item it sits in: moving a weak augment is cheap, while a strong or rare one is a deliberate expense. A prepaid token sidesteps that scaling entirely — one token covers a single action no matter how powerful the augment, so tokens are worth banking for your most valuable augments. The exact currency numbers remain TBD; token behavior does not scale.
+
+Socket maxima and distribution, compatibility families, multi-family augment rarity and permitted family combinations, the numeric currency curve, token vendors, storage limits, and service locations remain TBD.
 
 ## Rare universal equipment
 
@@ -68,6 +70,6 @@ Their final terminology, frequency, eligibility, and power limits remain TBD.
 - Functional statistic categories and their power-budget weights.
 - How subclass statistics interact with secondary and tertiary ability scaling.
 - Accessory types, eligibility, and power allocation.
-- Augment-socket maxima and distribution, compatibility-family taxonomy, multi-family rarity and permitted combinations, installation costs and timing, service costs and locations, token vendors, storage limits, and cost scaling.
+- Augment-socket maxima and distribution, compatibility-family taxonomy, multi-family rarity and permitted combinations, the numeric currency curve, service locations, token vendors, and storage limits.
 - Frequency and discoverability of specialized hybrid items.
 - Rarity and power limits for universally eligible items.
