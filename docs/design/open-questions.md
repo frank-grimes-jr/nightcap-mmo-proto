@@ -23,7 +23,7 @@ These questions are intentionally unresolved. Do not silently answer them during
 - What power ratios or restrictions make the secondary subclass stronger than the tertiary without making either choice trivial?
 - How do class resources, weapon skills, armor proficiency, and base attributes interact across three classes?
 - What original names define the categories, and what are the boundaries for the accessory and universal-eligibility categories? (Armor and weapon structure resolved in D-014: three armor tiers with own-or-lighter eligibility; many per-type weapons that roll up into skill/augment-family groups. Original names, and the weapon group taxonomy, still TBD.)
-- Which functional statistic categories can support abilities across class slots, and how are their power-budget weights compared?
+- What are the exact bucket names, the full statistic list, which statistics are compound, and the numeric power-budget weights? (Structure resolved in D-015: role-based functional buckets, every bucket has a solo expression, procs are a functional dimension, and compound statistics trade spiking for breadth.)
 - How effective are subclass-supporting statistics when applied to the stronger secondary slot versus the more limited tertiary slot?
 - What are the exact accessory slot count, names, and the numeric per-accessory cross-role ceiling? (Structure resolved in D-014: a broad ~7-8 slot layout where each accessory caps any single cross-role stat below armor/weapon/authored-hybrid levels — breadth, not spikes.)
 - What are the exact per-family socket ceilings, and which authored items receive one or more sockets? (Structure resolved: caps vary by equipment family, with accessory families allowing the most sockets and armor/weapon families fewer.)

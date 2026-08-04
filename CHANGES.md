@@ -1,5 +1,14 @@
 # Changes
 
+## 2026-08-04 - Functional statistic vocabulary
+
+- Opened D-015: organized statistics into role-based functional buckets (offense/defense/control/sustain/utility; names TBD) with no separate classic-attribute layer, so effects like intelligence collapse into the functions they powered.
+- Required every bucket to have a solo-facing expression, keeping role-based stats from forcing group identity and holding D-002 solo-capable content.
+- Made weapon procs a first-class functional dimension via proc-chance/proc-power statistics.
+- Added compound statistics (e.g. a dexterity-like stat feeding hit, proc rate, and attack speed) that cost budget for every function they feed and trade spiking for breadth, mirroring the accessory rule.
+
+Gotcha: exact bucket names, the statistic list, compound-stat membership, and numeric power-budget weights remain TBD.
+
 ## 2026-08-04 - Universal items are accessory-only
 
 - Restricted universally-eligible items to accessories, with no universal armor or weapons, so chassis and weapon-type gates are never bypassed.

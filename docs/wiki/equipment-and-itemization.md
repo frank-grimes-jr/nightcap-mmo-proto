@@ -24,6 +24,12 @@ Statistics describe useful functions rather than belonging exclusively to one na
 
 Subclass-supporting statistics are not free bonuses. Every item has a fixed power budget, so adding healing, damage, control, or another specialized benefit reduces the room available for defense, offense, or other statistics.
 
+Those statistics are organized by what they *do*, not by class. They fall into functional role buckets — offense, defense, control, sustain, and utility (names TBD) — instead of classic attributes like strength or intelligence. What those old attributes did lives on as the function it powered: spell power is offense, mana and regeneration are sustain. You allocate toward effects you actually feel.
+
+Role buckets are not group roles. Every bucket has a solo-facing form as much as a group-facing one. Sustain is self-healing, regeneration, and lifesteal before it is group healing; control can mean locking down the one thing hitting you; utility covers your own movement and resources. A rounded solo character spreads across buckets, and a self-sufficient damage build leans on offense plus self-sustain — often powered by weapon procs. Procs are authored weapon effects, and functional proc-chance and proc-power statistics make a proc-reliant weapon a genuine sustain engine.
+
+Some statistics are compound — one allocation nudges several functions at once, like a dexterity-style statistic raising hit chance, proc rate, and attack speed together. Compound statistics are efficient for rounding a character out, but they cannot spike: a dedicated single-function statistic will always push its one function higher. So generalists reach for compound statistics and specialists chase single-function ones. It is the same breadth-without-spikes idea used for accessories. Exact bucket names, the statistic list, and their power-budget weights remain TBD.
+
 ## Fixed discoveries, not adaptive loot
 
 Loot is authored in advance. An item's statistics do not change to match the character or party that finds it.
@@ -73,7 +79,7 @@ Their exact drop rarity remains TBD; their power ceiling is settled by the acces
 ## Player-visible details still TBD
 
 - Original names for the three armor chassis and the weapon types, the weapon group taxonomy, and the names and boundaries for accessory and universal-eligibility categories.
-- Functional statistic categories and their power-budget weights.
+- Exact role-bucket names, the full statistic list, which statistics are compound, and their power-budget weights.
 - How subclass statistics interact with secondary and tertiary ability scaling.
 - Exact accessory slot count and names, and the numeric per-accessory cross-role ceiling.
 - Exact per-family augment-socket ceilings and distribution, compatibility-family taxonomy, multi-family rarity and permitted combinations, the numeric currency curve, which settlements host the services, and the exact token storage cap.
