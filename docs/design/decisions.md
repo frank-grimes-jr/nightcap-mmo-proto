@@ -33,7 +33,8 @@ This document records product decisions before they are expensive enough to requ
 - De-leveling is soft. A character keeps access to every ability and item it had already earned even after dropping below their level requirement; de-leveling instead reduces level-scaled stats and the skill caps tied to level bands (D-007). A player can always keep fighting to recover, so death never triggers a lockout spiral. This is consistent with retaining all gear on death.
 - Each death leaves its own corpse holding that death's exact experience. Unrecovered corpses remain at their death sites and are reclaimed by returning to each, with the waypoint network (D-004) shortening the trips. Because gear stays on the character (above), a corpse run risks only that corpse's experience, not equipment.
 - A faster path also exists: an NPC corpse summoner in major settlement hubs can summon a character's corpse to them for a cost of in-game currency or a service token. This aligns with other services living in settlement hubs (D-014). Whether that token is the account-bound augment-service token (D-013) or a separate corpse-recovery token, and whether one summon pulls a single corpse or all at once, remain unresolved.
-- Maintenance handling and instance-expiration behavior remain unresolved.
+- A corpse left in a dungeon instance is recovered by re-entering while that instance still exists. Once the instance expires the death site is unreachable, so the hub corpse summoner becomes the only way to retrieve it, at the normal summon cost. This reuses the summoner rather than adding a new mechanic.
+- The 48-hour recovery timer counts wall-clock time while the server is up and pauses during planned or unplanned server downtime. Players are never penalized for time they could not have played, while the timer still runs for players who are simply offline.
 
 ## D-004: Zone waypoints
 

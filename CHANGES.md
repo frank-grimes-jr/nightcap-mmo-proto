@@ -1,5 +1,13 @@
 # Changes
 
+## 2026-08-05 - Expired-instance corpses, timer pause, and death wiki
+
+- Made an expired dungeon instance's corpse recoverable only through the hub corpse summoner, reusing that system rather than adding a new one; live instances still allow a normal walk-back recovery.
+- Paused the 48-hour recovery timer during planned or unplanned server downtime, keeping it wall-clock for offline players while never penalizing time they could not have played.
+- Added the player-facing Death and Recovery wiki page now that the death system is coherent, and indexed it.
+
+Gotcha: the grace-band level, loss percentage, summon cost, and summoner token type remain TBD.
+
 ## 2026-08-05 - Multiple-corpse recovery and hub corpse summoner
 
 - Kept each corpse at its own death site for return-trip recovery, with the waypoint network shortening the trips and gear-on-death keeping the stakes to experience only.
