@@ -77,7 +77,7 @@ Developed one archetype at a time. **Tank first**, as the clearest showcase for 
 
 ### Tank archetype
 
-Archetype-level identity, shared by every future tank class. Individual tank classes (count, and how they differ by *method* per principle 4) are a later layer and remain TBD.
+Archetype-level identity, shared by every future tank class, followed by the method axis that differentiates individual tank classes (principle 4).
 
 **Core fantasy.** The immovable body a fight breaks against — gathers danger, absorbs it, refuses to fall. Not a killer; a *foundation* other classes build lethality on top of.
 
@@ -128,6 +128,55 @@ Two rules follow from the method axis:
 - **No method is a strict upgrade of another.** They trade variance, predictability, resource-cost, and aggression, so the choice is a genuine preference rather than a power ranking.
 
 **Still TBD for tanks:** final class count (whether all three ship or the roster trims), names, and each class's stronger-secondary vs. more-limited-tertiary subset shape. Deferred to the roster-shape and per-class layers.
+
+### Healer archetype
+
+Archetype-level identity shared by every future healer class, followed by the method axis that differentiates them (principle 4).
+
+**Core fantasy.** The reason the party is still standing — restores and preserves life. It has real offense of its own, but its throughput is *keeping others alive*, not killing.
+
+**Solo identity — self-sustain attrition.** A healer solos by healing through fights while chipping the enemy down with modest ranged offense: "I outlast you because I out-heal your damage." The mirror of the tank's attrition — safety comes from self-healing rather than mitigation. As with every archetype, this is a self-directed baseline, not full solo-clear power (which comes from the full three-class kit).
+
+**Spine — what every healer keeps:**
+
+- Party healing, single **and** AoE.
+- Self-sustain.
+- Modest ranged attrition offense.
+- Self-tanking via heals — survives its own focus by healing through it, at the opportunity cost of not healing the group meanwhile.
+
+**Deliberate gaps — what a healer-primary lacks so subclasses matter (principle 1):**
+
+- Burst / killing throughput → **Damage** subclass.
+- Crowd control (mez / root / charm / hard stun) → **Support** subclass.
+- Amplification / buffs (haste, damage buffs, resource support) → **Support** subclass.
+
+Durability under focus and ranged reach are deliberately *not* gaps — the self-sustain identity already covers both. The opportunity cost of self-tanking is what still makes a group want a tank (principle 2: a force multiplier that frees the healer's throughput for the party), without healing ever being required.
+
+**Healer as someone else's subclass (D-012 curated subset).** Lends *self-healing* only — personal sustain to keep the borrower alive — never the throughput to keep a party alive, so a subclass cannot counterfeit a real healer-primary.
+
+- *Secondary form* (stronger): a real self-heal.
+- *Tertiary form* (more limited): a thinner self-heal.
+
+#### Differentiation: healing method
+
+Individual healer classes are differentiated by **healing method** — *how and when healing is delivered* (principle 4). Three candidate healer classes, one per method (names TBD, original per D-008):
+
+| Method | Feel | As a borrowed subclass, its self-heal is flavored as… |
+|---|---|---|
+| **Reactive big-heals** | Triage: watch health bars, clutch-save with large targeted heals. Strongest single-target emergency recovery. | a burst self-heal cooldown. |
+| **Prevention / heal-over-time** | Proactive rolling HoTs and pre-heals; steady, low-spike; efficient against sustained damage, weaker at sudden spikes. | a self-HoT / regen. |
+| **Absorb / damage-shields (ally-facing)** | Shield allies *before* damage lands — prevent rather than restore; rewards anticipation. | a self-shield. |
+
+**Cross-archetype rule — self vs. ally.** Tank methods are self-facing *survival*; healer methods are ally-facing *healing*. Same mechanics, different beneficiary — a tank's lifesteal or ward protects only itself, a healer's shield is cast on allies — so shields and lifesteal never collide across archetypes.
+
+**Lifesteal is not a healer class.** It remains a self-facing (tank) survival concept; whether ally-facing lifesteal survives as a minor itemized or ability effect is TBD.
+
+Two rules follow from the method axis (mirroring tank):
+
+- A healer's *as-subclass* self-heal is **flavored by its method** — the three methods give three different self-sustain styles a borrower can slot.
+- **No method is a strict upgrade of another.** They trade reaction, anticipation, and steadiness, so the choice is a genuine preference rather than a power ranking.
+
+**Still TBD for healers:** final class count, names, and each class's stronger-secondary vs. more-limited-tertiary subset shape. Deferred to the roster-shape and per-class layers.
 
 ## Open threads specific to the roster
 

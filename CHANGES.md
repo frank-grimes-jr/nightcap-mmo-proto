@@ -1,5 +1,15 @@
 # Changes
 
+## 2026-08-05 - Healer archetype identity and healing-method differentiation
+
+- Developed the healer archetype on the class-roster canvas: core fantasy (the reason the party still stands), a self-sustain-attrition solo identity that mirrors the tank (safety via self-healing rather than mitigation), and a spine of single/AoE party healing, self-sustain, modest ranged attrition offense, and self-tanking-via-heals at the cost of not healing the group.
+- Named the deliberate gaps that make principle 1 real: burst/throughput → Damage, crowd control → Support, amplification/buffs → Support. Durability under focus and ranged reach are deliberately not gaps, since self-sustain covers both; the opportunity cost of self-tanking is what still makes a group want a tank without healing being required.
+- Defined healer-as-subclass as self-healing only — personal sustain, never party-healing throughput — mirroring the tank's personal-durability rule.
+- Set healing method as the differentiation axis with three candidate healer classes: reactive big-heals, prevention/heal-over-time, and ally-facing absorb/damage-shields.
+- Resolved the tank/healer overlap with a self-vs-ally rule (tank methods are self-facing survival, healer methods are ally-facing healing) and dropped lifesteal as a healer class, keeping it a self-facing tank concept.
+
+Gotcha: still Exploring and non-canonical. Final healer class count, names, each class's stronger-secondary vs. more-limited-tertiary subsets, and whether ally-facing lifesteal survives as a minor effect all remain TBD.
+
 ## 2026-08-05 - Tank differentiation by survival method
 
 - Set survival method — how each tank refuses to die — as the axis that differentiates tank classes (principle 4), chosen because it is self-facing (holds solo, D-002) and doubles as borrowable durability when the class is a subclass.
