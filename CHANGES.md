@@ -1,5 +1,15 @@
 # Changes
 
+## 2026-08-05 - Support archetype identity and control-method differentiation
+
+- Developed the support archetype on the class-roster canvas: core fantasy (the hand on the fight's dial) and a control-based-safety solo identity that completes the four-way symmetry on incoming damage (tank survives it, healer undoes it, damage pre-empts it, support prevents it).
+- Recast support as fundamentally a controller: differentiation is by control method, amplification drops to a shared baseline (no dedicated buff class), and debuff becomes the soft-control "attrition" method rather than a separate function. Updated the roster-shape blurb to match.
+- Set the spine (specialized control plus baseline soft control, baseline amplification, situational damage spikes, graceful-degradation self-defense) and the deliberate gaps: killing throughput → Damage, party healing → Healer. Durability is not a gap — control is the support's defense and degrades gracefully rather than vanishing.
+- Defined support-as-subclass as a personal control tool only (a self-protective peel), never party-wide amplification or AoE lockdown, mirroring the tank and healer personal-slice rules.
+- Named three candidate support classes by control method: lockdown (hard CC), attrition (soft control/debuff), and redirection (charm/fear), and placed principle 5 front and center — mez/slow/charm get diminishing returns, solo-scaled potency, and are never the only path.
+
+Gotcha: still Exploring and non-canonical. Final support class count, names, and each class's stronger-secondary vs. more-limited-tertiary subsets remain TBD.
+
 ## 2026-08-05 - Healer archetype identity and healing-method differentiation
 
 - Developed the healer archetype on the class-roster canvas: core fantasy (the reason the party still stands), a self-sustain-attrition solo identity that mirrors the tank (safety via self-healing rather than mitigation), and a spine of single/AoE party healing, self-sustain, modest ranged attrition offense, and self-tanking-via-heals at the cost of not healing the group.

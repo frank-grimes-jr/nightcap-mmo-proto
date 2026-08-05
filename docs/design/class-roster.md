@@ -66,7 +66,7 @@ EverQuest's archetypes are the analytical reference (shorthand only, per D-008).
 
 - **Tank** — holds threat and survives punishment; differentiated by the flavor and toolkit around mitigation.
 - **Damage** — primary job is dealing damage; differentiated by damage *pattern* (burst, sustained/damage-over-time, pet-commander, opportunist/execute) rather than by melee vs. caster.
-- **Support** — a first-class role of its own (not leftover utility): control (mez/root/charm/stun-analogues), amplification (haste/buffs/resource support), and debuff (slow/weaken). May produce situational damage spikes but primarily enables others.
+- **Support** — a first-class role of its own (not leftover utility): fundamentally a *controller*, differentiated by control method (lockdown / attrition-debuff / redirection), with ally amplification (haste/buffs/resources) as a shared baseline rather than a class. May produce situational damage spikes but primarily enables others.
 - **Healer** — keeps allies alive; differentiated by *method* (reactive big-heals, prevention/heal-over-time, lifesteal/leech, damage-absorb shields), each with its own offensive/solo identity.
 
 How many classes total, and how many sit in each archetype, remain TBD — to be set after or alongside the first per-archetype pass.
@@ -177,6 +177,52 @@ Two rules follow from the method axis (mirroring tank):
 - **No method is a strict upgrade of another.** They trade reaction, anticipation, and steadiness, so the choice is a genuine preference rather than a power ranking.
 
 **Still TBD for healers:** final class count, names, and each class's stronger-secondary vs. more-limited-tertiary subset shape. Deferred to the roster-shape and per-class layers.
+
+### Support archetype
+
+Archetype-level identity shared by every future support class, followed by the method axis that differentiates them (principle 4). Support is where principle 2 (no mandatory roles) and principle 5 (cap the tyranny of charm/mez/slow) are stress-tested hardest.
+
+**Core fantasy.** The hand on the fight's dial — bends the battlefield so allies win: stops, slows, turns, and lifts. It has real situational damage, but its throughput is *manipulating the fight*, not ending it.
+
+**Solo identity — control-based safety.** A support solos by not taking the hit at all: it locks, slows, or turns the enemy so it rarely acts, then chips it down with modest offense. This completes the archetypes' four-way symmetry on incoming damage — the tank survives it (mitigation), the healer undoes it (healing), damage pre-empts it (kill fast), and support *prevents* it (control). Solo-scaled per principle 5, and a self-directed baseline, not full solo-clear power.
+
+**Spine — what every support keeps:**
+
+- Control — a specialized method (below) plus a baseline of soft control.
+- Baseline amplification — some ally buffs (haste, damage, resources); every support has this, none is "the buff class."
+- Situational damage spikes.
+- Graceful-degradation self-defense — soft control and debuffs still land partially on control-immune foes, so its safety never drops to zero.
+
+**Deliberate gaps — what a support-primary lacks so subclasses matter (principle 1):**
+
+- Killing throughput → **Damage** subclass.
+- Party healing → **Healer** subclass.
+
+Durability is deliberately *not* a gap — a support's control *is* its defense, and it degrades gracefully (hard control is resisted by elites, but soft control/debuffs still soften them) rather than vanishing.
+
+**Support as someone else's subclass (D-012 curated subset).** Lends a *personal control tool* only — a self-protective peel (root / slow / stun / interrupt one enemy) — never party-wide amplification or AoE lockdown, so a subclass cannot counterfeit a real support-primary.
+
+- *Secondary form* (stronger): a reliable single-target control.
+- *Tertiary form* (more limited): a brief slow or interrupt.
+
+#### Differentiation: control method
+
+Individual support classes are differentiated by **control method** — *how each bends the fight* (principle 4). Three candidate support classes, one per method (names TBD, original per D-008):
+
+| Method | Feel | Personal control tool it lends as a subclass |
+|---|---|---|
+| **Lockdown** | Hard CC — mez / root / stun; stop enemies acting outright. Most negated by control-immune elites. | a personal hard-CC peel (stun/root one enemy). |
+| **Attrition** | Soft control — slow / weaken / damage-reduction; grind a feeble enemy down. Degrades most gracefully against control-immunity. | a personal slow / weaken. |
+| **Redirection** | Charm / fear — turn enemies on each other or drive them off. The principle-5 hotspot. | a brief personal charm / fear. |
+
+**Rules:**
+
+- **Amplification is a shared support baseline, not a differentiator** — every support buffs allies somewhat; no class is the dedicated buffer.
+- **Principle 5, front and center.** Mez, slow, and charm all get diminishing returns, solo-scaled potency, and are never the only path through a fight — charm/redirection most of all.
+- Every support keeps some **soft-control baseline** so its self-defense degrades gracefully and is never fully negated.
+- A support's *as-subclass* personal control tool is **flavored by its method**, and **no method is a strict upgrade of another** — they trade stopping, weakening, and turning.
+
+**Still TBD for support:** final class count, names, and each class's stronger-secondary vs. more-limited-tertiary subset shape. Deferred to the roster-shape and per-class layers.
 
 ## Open threads specific to the roster
 
