@@ -1,5 +1,13 @@
 # Changes
 
+## 2026-08-05 - Class archetype model and design principles
+
+- Recorded a four-archetype model on the class-roster canvas — tank, damage, support, healer — with support named as a first-class role rather than scattered utility, and damage differentiated by pattern rather than melee/caster.
+- Captured five "do better" design principles as the roster's north star: three-class system fills role gaps, no mandatory roles, every archetype solo-capable, differentiate by method not theme, and keep exciting mechanics without letting them become mandatory.
+- Set tank as the first archetype to develop.
+
+Gotcha: still Exploring and non-canonical; class count, per-archetype counts, and all per-class identity remain TBD.
+
 ## 2026-08-05 - Class roster working canvas
 
 - Opened docs/design/class-roster.md as an Exploring, deliberately mutable working canvas for the initial class roster, separate from canonical decisions so roster churn does not thrash decisions.md.

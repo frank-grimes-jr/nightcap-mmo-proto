@@ -50,13 +50,32 @@ These come from decisions already made. They constrain every class on this page 
 
 - All class names, lore, and ability designs must be original. Any resemblance to existing games' classes is mechanical shorthand for discussion only and is never a candidate for final names or designs.
 
+## Design principles (what we do better than the reference)
+
+EverQuest's archetypes are the analytical reference (shorthand only, per D-008). These principles capture the lessons we are deliberately applying differently. They are the roster's north star; every class is checked against them.
+
+1. **The three-class system is the fix for role-lock pain.** The reference's worst problems — a tank with no toolkit, a healer who cannot solo, a nuker who can only nuke — all came from being locked to one class for life. Because our characters combine a primary with a secondary and tertiary (D-012), archetypes are designed with **intentional gaps that subclasses fill**, not as self-sufficient monoliths. This is what makes combining three classes matter rather than merely stacking power.
+2. **No mandatory roles, ever.** The reference gated hard content behind must-have healing, crowd control, and slows. That violates solo-capable content (D-002). Support and healing are **force multipliers, never gates**: a group wants them, but no fight ever requires them to be possible.
+3. **Every archetype ships with a solo identity — including tank and healer.** This honors the D-015 solo-expression rule at the archetype level. Tanks get self-sustain and threat-agnostic solo damage; healers get real offense.
+4. **Differentiate within an archetype by method, not theme.** Classes sharing a role must feel distinct through *how* they perform it (for healers: reactive burst vs. prevention/HoT vs. lifesteal vs. absorb-shields), not merely through cosmetic flavor.
+5. **Keep the exciting mechanics, cap their tyranny.** Charm, mez, slow, and shielding stay thrilling, but are designed against must-have status through diminishing returns, solo-scaled potency, and never being the only path through a fight.
+
 ## Roster shape
 
-_TBD — to be developed after the guardrails are reviewed._
+**Four archetypes**, defined by role rather than by melee/caster split:
+
+- **Tank** — holds threat and survives punishment; differentiated by the flavor and toolkit around mitigation.
+- **Damage** — primary job is dealing damage; differentiated by damage *pattern* (burst, sustained/damage-over-time, pet-commander, opportunist/execute) rather than by melee vs. caster.
+- **Support** — a first-class role of its own (not leftover utility): control (mez/root/charm/stun-analogues), amplification (haste/buffs/resource support), and debuff (slow/weaken). May produce situational damage spikes but primarily enables others.
+- **Healer** — keeps allies alive; differentiated by *method* (reactive big-heals, prevention/heal-over-time, lifesteal/leech, damage-absorb shields), each with its own offensive/solo identity.
+
+How many classes total, and how many sit in each archetype, remain TBD — to be set after or alongside the first per-archetype pass.
 
 ## Per-class identity
 
-_TBD — one class at a time, after the roster shape is set._
+Developed one archetype at a time. **Tank first**, as the clearest showcase for principle 1 (gaps that subclasses fill).
+
+_TBD — tank archetype in progress._
 
 ## Open threads specific to the roster
 
