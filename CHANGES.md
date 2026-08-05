@@ -1,5 +1,13 @@
 # Changes
 
+## 2026-08-05 - Death experience loss and soft de-leveling
+
+- Structured death experience loss as a low-level grace band followed by a flat percentage of the current level's experience, making the grace band the primary guard against low-level death spirals.
+- Made de-leveling soft: characters keep access to every earned ability and item, losing only level-scaled stats and level-band skill caps (D-007), so death never causes a recovery lockout.
+- Removed the resolved de-level and death-spiral questions from the open list.
+
+Gotcha: the exact grace-band threshold level and the loss percentage remain TBD.
+
 ## 2026-08-05 - Hybrid-item discovery codex
 
 - Opened D-016: hybrid-item sources are learned through an earned-knowledge codex rather than handed over or left to blind exploration, consistent with the D-006 guidance stance.

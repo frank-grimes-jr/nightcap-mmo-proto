@@ -29,7 +29,9 @@ This document records product decisions before they are expensive enough to requ
 - Death removes experience and can de-level the character.
 - Each corpse retains the exact experience lost from that death.
 - Recovering the corpse within 48 hours of real time restores its retained experience.
-- Multiple-corpse behavior, maintenance handling, experience-loss scale, and instance-expiration behavior remain unresolved.
+- Experience loss follows a grace band, then a flat percentage: no experience is lost below an early threshold level, and above it each death removes a constant percentage of the current level's experience. The grace band is the primary guard against severe low-level death spirals. The exact threshold level and percentage remain unresolved (tuning).
+- De-leveling is soft. A character keeps access to every ability and item it had already earned even after dropping below their level requirement; de-leveling instead reduces level-scaled stats and the skill caps tied to level bands (D-007). A player can always keep fighting to recover, so death never triggers a lockout spiral. This is consistent with retaining all gear on death.
+- Multiple-corpse behavior, maintenance handling, and instance-expiration behavior remain unresolved.
 
 ## D-004: Zone waypoints
 

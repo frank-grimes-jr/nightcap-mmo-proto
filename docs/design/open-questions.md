@@ -51,12 +51,10 @@ These questions are intentionally unresolved. Do not silently answer them during
 
 ## Death
 
-- What percentage or quantity of experience is lost at each level?
+- What is the exact grace-band threshold level and the flat experience-loss percentage above it? (Structure resolved in D-003: no loss below an early threshold, then a constant percentage per death.)
 - How are multiple corpses represented and recovered?
 - Does planned or unplanned server downtime pause the 48-hour real-time timer?
-- What happens to abilities and equipment requirements after de-leveling?
 - How is a corpse recovered after its original dungeon instance expires?
-- What prevents severe low-level death spirals?
 
 ## Travel
 
