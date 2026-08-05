@@ -31,7 +31,9 @@ This document records product decisions before they are expensive enough to requ
 - Recovering the corpse within 48 hours of real time restores its retained experience.
 - Experience loss follows a grace band, then a flat percentage: no experience is lost below an early threshold level, and above it each death removes a constant percentage of the current level's experience. The grace band is the primary guard against severe low-level death spirals. The exact threshold level and percentage remain unresolved (tuning).
 - De-leveling is soft. A character keeps access to every ability and item it had already earned even after dropping below their level requirement; de-leveling instead reduces level-scaled stats and the skill caps tied to level bands (D-007). A player can always keep fighting to recover, so death never triggers a lockout spiral. This is consistent with retaining all gear on death.
-- Multiple-corpse behavior, maintenance handling, and instance-expiration behavior remain unresolved.
+- Each death leaves its own corpse holding that death's exact experience. Unrecovered corpses remain at their death sites and are reclaimed by returning to each, with the waypoint network (D-004) shortening the trips. Because gear stays on the character (above), a corpse run risks only that corpse's experience, not equipment.
+- A faster path also exists: an NPC corpse summoner in major settlement hubs can summon a character's corpse to them for a cost of in-game currency or a service token. This aligns with other services living in settlement hubs (D-014). Whether that token is the account-bound augment-service token (D-013) or a separate corpse-recovery token, and whether one summon pulls a single corpse or all at once, remain unresolved.
+- Maintenance handling and instance-expiration behavior remain unresolved.
 
 ## D-004: Zone waypoints
 

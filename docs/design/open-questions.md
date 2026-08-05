@@ -52,7 +52,7 @@ These questions are intentionally unresolved. Do not silently answer them during
 ## Death
 
 - What is the exact grace-band threshold level and the flat experience-loss percentage above it? (Structure resolved in D-003: no loss below an early threshold, then a constant percentage per death.)
-- How are multiple corpses represented and recovered?
+- Does the hub corpse summoner use the augment-service token or a separate corpse-recovery token, and does one summon pull a single corpse or all at once? (Recovery model resolved in D-003: corpses stay at death sites for return-trip recovery, plus an NPC corpse summoner in major hubs for currency or tokens.)
 - Does planned or unplanned server downtime pause the 48-hour real-time timer?
 - How is a corpse recovered after its original dungeon instance expires?
 

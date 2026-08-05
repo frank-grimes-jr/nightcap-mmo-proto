@@ -1,5 +1,12 @@
 # Changes
 
+## 2026-08-05 - Multiple-corpse recovery and hub corpse summoner
+
+- Kept each corpse at its own death site for return-trip recovery, with the waypoint network shortening the trips and gear-on-death keeping the stakes to experience only.
+- Added an NPC corpse summoner in major settlement hubs that summons a corpse to the player for in-game currency or a service token, aligning with other hub services (D-014).
+
+Gotcha: whether the summoner uses the augment-service token or a separate token, and whether one summon pulls a single corpse or all at once, remain TBD.
+
 ## 2026-08-05 - Death experience loss and soft de-leveling
 
 - Structured death experience loss as a low-level grace band followed by a flat percentage of the current level's experience, making the grace band the primary guard against low-level death spirals.
