@@ -56,7 +56,7 @@ EverQuest's archetypes are the analytical reference (shorthand only, per D-008).
 
 1. **The three-class system is the fix for role-lock pain.** The reference's worst problems — a tank with no toolkit, a healer who cannot solo, a nuker who can only nuke — all came from being locked to one class for life. Because our characters combine a primary with a secondary and tertiary (D-012), archetypes are designed with **intentional gaps that subclasses fill**, not as self-sufficient monoliths. This is what makes combining three classes matter rather than merely stacking power.
 2. **No mandatory roles, ever.** The reference gated hard content behind must-have healing, crowd control, and slows. That violates solo-capable content (D-002). Support and healing are **force multipliers, never gates**: a group wants them, but no fight ever requires them to be possible.
-3. **Every archetype ships with a solo identity — including tank and healer.** This honors the D-015 solo-expression rule at the archetype level. Tanks get self-sustain and threat-agnostic solo damage; healers get real offense.
+3. **Every archetype ships with a solo identity — including tank and healer.** This honors the D-015 solo-expression rule at the archetype level. But "solo-capable" (D-002) is a property of the *character*, and a character is always three classes (D-012) — so an archetype's solo identity is its self-directed *baseline*, not full solo-clear power. A character's clearing power comes from its full three-class kit. Tanks get self-sustain and a modest self-directed offensive baseline; healers get real offense.
 4. **Differentiate within an archetype by method, not theme.** Classes sharing a role must feel distinct through *how* they perform it (for healers: reactive burst vs. prevention/HoT vs. lifesteal vs. absorb-shields), not merely through cosmetic flavor.
 5. **Keep the exciting mechanics, cap their tyranny.** Charm, mez, slow, and shielding stay thrilling, but are designed against must-have status through diminishing returns, solo-scaled potency, and never being the only path through a fight.
 
@@ -75,7 +75,40 @@ How many classes total, and how many sit in each archetype, remain TBD — to be
 
 Developed one archetype at a time. **Tank first**, as the clearest showcase for principle 1 (gaps that subclasses fill).
 
-_TBD — tank archetype in progress._
+### Tank archetype
+
+Archetype-level identity, shared by every future tank class. Individual tank classes (count, and how they differ by *method* per principle 4) are a later layer and remain TBD.
+
+**Core fantasy.** The immovable body a fight breaks against — gathers danger, absorbs it, refuses to fall. Not a killer; a *foundation* other classes build lethality on top of.
+
+**Threat model — hybrid.** Everyone lives under baseline behavioral aggro (proximity plus threat-over-time from damage/healing). Tanks get strong threat-*biasing* tools — redirect, guard-an-ally, mockery — that heavily influence but never hard-lock a target. A group is far better off with a tank; no fight ever *requires* one (principle 2).
+
+**Spine — what every tank keeps:**
+
+- Survivability.
+- Threat control, single **and** multi-target — a tank can gather and hold a pack.
+- Modest self-sustain.
+- Slow attrition offense, single-target *and* AoE.
+- Melee range.
+
+**Deliberate gaps — what a tank-primary lacks so subclasses matter (principle 1):**
+
+- Burst / killing throughput → **Damage** subclass.
+- Crowd control (mez / root / charm / hard stun) → **Support** subclass.
+- Party healing beyond self-sustain → **Healer** subclass.
+- Ranged engagement / reach → a ranged subclass.
+
+**Two-sided value.**
+
+- *Solo-facing* (D-015 solo expression): survivability + self-sustain + slow single-target-and-AoE attrition. Enough to not be helpless in the pre-subclass intro window; nowhere near max-level solo-clear power, which comes from the full three-class kit. Threat tools are essentially inert solo — nothing to redirect when everything already targets you.
+- *Group-facing* (the force multiplier, principle 2): the threat-control toolkit. This is *why* a group wants a real tank-primary, and exactly what tank-as-subclass does not grant.
+
+**Tank as someone else's subclass (D-012 curated subset).** Lends *personal* durability only — a defensive/guard cooldown plus passive mitigation — never the group-facing threat toolkit, so a subclass cannot counterfeit a real tank-primary.
+
+- *Secondary form* (stronger): a defensive cooldown + passive mitigation.
+- *Tertiary form* (more limited): the thinner passive layer alone.
+
+**Still TBD for tanks:** how many tank classes, and the *method* axis that differentiates them (e.g. avoidance vs. absorb-shield vs. lifesteal-bruiser vs. guardian-of-allies) per principle 4. Deferred to the roster-shape and per-class layers.
 
 ## Open threads specific to the roster
 

@@ -1,5 +1,14 @@
 # Changes
 
+## 2026-08-05 - Tank archetype identity
+
+- Developed the archetype-level tank identity on the class-roster canvas: core fantasy (a foundation, not a killer), a hybrid threat model (baseline behavioral aggro plus strong biasing tools that never hard-lock), and the tank's spine (survivability, single- and multi-target threat, self-sustain, slow single-target-and-AoE attrition, melee).
+- Named the deliberate gaps that make principle 1 real: burst/throughput, crowd control, party healing, and ranged reach are each left for a subclass to fill; the tank keeps AoE threat so it can gather and hold packs.
+- Split the tank's value into solo-facing (survivability/self-sustain/attrition, with threat inert solo) and group-facing (the threat toolkit that makes a group want a real tank-primary), and defined tank-as-subclass as personal durability only — never the group threat kit.
+- Softened principle 3: an archetype's solo identity is a self-directed baseline, not full solo-clear power, since solo-capability (D-002) is a property of the three-class character, not one archetype.
+
+Gotcha: still Exploring and non-canonical. Tank class count and the method axis differentiating individual tank classes remain TBD; other three archetypes not yet developed.
+
 ## 2026-08-05 - Class archetype model and design principles
 
 - Recorded a four-archetype model on the class-roster canvas — tank, damage, support, healer — with support named as a first-class role rather than scattered utility, and damage differentiated by pattern rather than melee/caster.
