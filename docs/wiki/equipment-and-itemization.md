@@ -38,6 +38,8 @@ Some specialized hybrid items are fixed discoveries placed intentionally in the 
 
 The design does not require a unique item family for every three-class combination. Items instead use functional statistics that can serve several builds.
 
+You learn where a specialized item comes from by playing toward it, not by reading a list or stumbling on it blind. Fighting related foes, uncovering lore, or seeing a first drop records the source in a personal codex. That entry starts broad — a region, a kind of enemy, a rumor — and sharpens toward the exact source as you gather more clues, so the hunt always has a next step and never collapses into a single map marker. Once a source is discovered it is known to every character on your account, so alts inherit the knowledge even though they miss the thrill of the first find. How often these items appear, and how many clue steps lead from a vague entry to an exact one, remain TBD.
+
 ## Accessories
 
 Accessories provide broader access to cross-role statistics than armor and weapons. The layout is deliberately wide — roughly neck, two rings, two earrings, cloak, belt, and a charm or trinket (about seven or eight slots; original names and exact count TBD) — so accessories are the main canvas for supporting subclass abilities without changing primary-class equipment eligibility.
@@ -83,5 +85,5 @@ Their exact drop rarity remains TBD; their power ceiling is settled by the acces
 - How subclass statistics interact with secondary and tertiary ability scaling.
 - Exact accessory slot count and names, and the numeric per-accessory cross-role ceiling.
 - Exact per-family augment-socket ceilings and distribution, compatibility-family taxonomy, multi-family rarity and permitted combinations, the numeric currency curve, which settlements host the services, and the exact token storage cap.
-- Frequency and discoverability of specialized hybrid items.
+- Frequency of specialized hybrid items, and how many codex clue tiers separate a broad entry from an exact one.
 - Drop rarity for universally eligible (accessory-only) items.

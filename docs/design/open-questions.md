@@ -32,7 +32,7 @@ These questions are intentionally unresolved. Do not silently answer them during
 - What is the numeric currency curve for augment installation, field replacement, and intact removal? (Structure resolved: cost scales with augment power; one token covers one action at any power.)
 - Which specific settlements host the augment-removal service and token vendor, and what is the numeric token storage cap? (Structure resolved: both services live together in settlement hubs; token storage is capped.)
 - What is the exact size of the discount by which augment correction falls short of comparable specialization authored onto an item? (Structure resolved: augments are always strictly weaker, not merely capped at equal.)
-- How frequently should specialized hybrid items appear, and how discoverable should their fixed world sources be?
+- How frequently should specialized hybrid items appear, and how many clue tiers separate a broad codex entry from an exact one? (Discoverability model resolved in D-016: an account-wide earned-knowledge codex that sharpens progressively from region/foe hints toward the exact source.)
 - How rare should universally eligible items be? (Structure resolved in D-014: universal items exist only as accessories, so their power is already bounded by the per-accessory cross-role ceiling; only their drop rarity is TBD.)
 - At what rate do characters earn parallel-advancement points from enemies and quests?
 - What point caps, prerequisites, exclusions, or diminishing returns keep the shared advancement pool balanceable?

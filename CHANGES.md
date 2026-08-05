@@ -1,5 +1,13 @@
 # Changes
 
+## 2026-08-05 - Hybrid-item discovery codex
+
+- Opened D-016: hybrid-item sources are learned through an earned-knowledge codex rather than handed over or left to blind exploration, consistent with the D-006 guidance stance.
+- Made codex entries sharpen progressively from broad hints (region/foe/rumor) toward an exact source as clues accumulate.
+- Made discovered sources account-wide, consistent with account-wide dungeon access (D-010).
+
+Gotcha: hybrid-item frequency and the number of clue tiers between a broad and exact entry remain TBD.
+
 ## 2026-08-04 - Functional statistic vocabulary
 
 - Opened D-015: organized statistics into role-based functional buckets (offense/defense/control/sustain/utility; names TBD) with no separate classic-attribute layer, so effects like intelligence collapse into the functions they powered.

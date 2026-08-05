@@ -181,3 +181,13 @@ This document records product decisions before they are expensive enough to requ
 - **Procs are a first-class functional dimension.** Weapon procs are authored effects on weapons, modified by functional proc-chance and proc-power statistics (living in utility and offense) rather than a sprawling ability-keyword vocabulary. A proc-reliant damage build spends its budget on offense, self-sustain, and proc statistics, with the weapon's proc as its sustain engine.
 - **Compound statistics trade spiking for breadth.** Some statistics advance more than one function at once — for example a dexterity-like statistic feeding hit chance, proc rate, and attack speed. A compound statistic must stay non-class-coded (its bundle wanted by multiple classes) and costs power budget proportional to every function it feeds. Compound statistics are efficient at breadth but cannot spike: a dedicated single-function statistic can push its one function higher than any compound statistic reaches. Rounded builds favor compound statistics; specialists chase single-function statistics. This mirrors the breadth-without-spikes rule used for accessories in D-014.
 - Exact bucket names, the full statistic list, which statistics are compound, and the numeric power-budget weights remain unresolved.
+
+## D-016: Hybrid-item discovery codex
+
+- **Status:** Provisional
+- **Date:** 2026-08-05
+- Defines how a player learns the fixed world source of a specialized hybrid item (D-013), consistent with the D-006 guidance stance (closer to WoW than early EQ, but preserving adventure without ultra-ambiguous dialogue).
+- **Earned-knowledge codex.** Sources are not handed to the player and are not hidden behind pure exploration. Encountering related foes, lore, or a first drop records the source in a trackable in-game codex. The adventure is in the first discovery; once earned, the source is clearly logged and re-findable.
+- **Progressive sharpening.** A codex entry starts broad on the first signal — a region, a foe type, a rumor — and sharpens toward the exact source as the player gathers more clues. The player is never left with nothing, and the hunt is never collapsed into a single map-marker moment.
+- **Account-wide.** A source discovered on one character is known to every character on the account, consistent with account-wide dungeon access (D-010). This is alt-friendly at the cost of an alt reliving the discovery journey.
+- How frequently specialized hybrid items appear remains unresolved (tuning). The exact codex triggers and how many clue tiers separate "broad" from "exact" remain unresolved.
