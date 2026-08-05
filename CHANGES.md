@@ -1,5 +1,14 @@
 # Changes
 
+## 2026-08-05 - Tank differentiation by survival method
+
+- Set survival method — how each tank refuses to die — as the axis that differentiates tank classes (principle 4), chosen because it is self-facing (holds solo, D-002) and doubles as borrowable durability when the class is a subclass.
+- Named three candidate tank classes, one per method: flat mitigation (steady wall), proactive shields/wards (pre-loaded absorb pools), and lifesteal bruiser (take hits and heal them back, kept distinct from the lifesteal healer method).
+- Dropped avoidance as a tank class and reframed it as a defense-bucket stat (D-015) itemized through accessories and augments (D-014), so any class can layer modest avoidance without duplicating a tank.
+- Recorded two rules: a tank's as-subclass durability is flavored by its method (the source of much three-class combination variety), and no method is a strict upgrade of another — they trade variance, predictability, resource-cost, and aggression.
+
+Gotcha: still Exploring and non-canonical. Final tank class count, names, and each class's stronger-secondary vs. more-limited-tertiary subsets remain TBD.
+
 ## 2026-08-05 - Tank archetype identity
 
 - Developed the archetype-level tank identity on the class-roster canvas: core fantasy (a foundation, not a killer), a hybrid threat model (baseline behavioral aggro plus strong biasing tools that never hard-lock), and the tank's spine (survivability, single- and multi-target threat, self-sustain, slow single-target-and-AoE attrition, melee).

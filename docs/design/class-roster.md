@@ -108,7 +108,26 @@ Archetype-level identity, shared by every future tank class. Individual tank cla
 - *Secondary form* (stronger): a defensive cooldown + passive mitigation.
 - *Tertiary form* (more limited): the thinner passive layer alone.
 
-**Still TBD for tanks:** how many tank classes, and the *method* axis that differentiates them (e.g. avoidance vs. absorb-shield vs. lifesteal-bruiser vs. guardian-of-allies) per principle 4. Deferred to the roster-shape and per-class layers.
+#### Differentiation: survival method
+
+Individual tank classes are differentiated by **survival method** — *how each refuses to die* (principle 4). This axis is self-facing, so it holds up solo (D-002) and doubles as borrowable durability when the class is slotted as someone else's subclass (personal durability only, per the tank-as-subclass rule above).
+
+Three candidate tank classes, one per method (names TBD, original per D-008):
+
+| Method | Feel / rhythm | As a borrowed subclass, it lends… |
+|---|---|---|
+| **Flat mitigation** | Armor / block / damage reduction: steady, low-variance "wall," easiest for a group to heal. | passive damage reduction / effective-HP. |
+| **Proactive shields / wards** | Pre-loaded absorb pools; rewards anticipation and rotation, caster-flavored. | an absorb-shield cooldown. |
+| **Lifesteal bruiser** | Take the hits and heal them back through leech/self-heal; aggressive, sustain by throughput rather than prevention. Kept distinct from the lifesteal *healer* method. | a leech / self-heal on-damage effect. |
+
+**Avoidance is a stat, not a tank class.** Dodge/parry-style avoidance is a defense-bucket statistic (D-015) itemized through accessories and augments (D-014), available to any class. No tank monopolizes it; other archetypes' modest survival bits (e.g. a rogue's small dodge) layer on top of a survival method rather than duplicating a tank.
+
+Two rules follow from the method axis:
+
+- A tank's *as-subclass* durability is **flavored by its method** — the three methods give three different self-protection styles a squishier primary can borrow, which is where much of the three-class combination variety comes from.
+- **No method is a strict upgrade of another.** They trade variance, predictability, resource-cost, and aggression, so the choice is a genuine preference rather than a power ranking.
+
+**Still TBD for tanks:** final class count (whether all three ship or the roster trims), names, and each class's stronger-secondary vs. more-limited-tertiary subset shape. Deferred to the roster-shape and per-class layers.
 
 ## Open threads specific to the roster
 
