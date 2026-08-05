@@ -17,7 +17,7 @@ These questions are intentionally unresolved. Do not silently answer them during
 
 ## Character and combat
 
-- Which original classes form the initial roster, and what is each class's identity?
+- Which original classes form the initial roster, and what is each class's identity? (In progress on the working canvas [class-roster.md](class-roster.md); guardrail constraints captured, roster shape and per-class identity still open.)
 - At what point does the introductory quest open the secondary and tertiary class slots?
 - Which abilities can each class contribute from the secondary and tertiary slots?
 - What power ratios or restrictions make the secondary subclass stronger than the tertiary without making either choice trivial?

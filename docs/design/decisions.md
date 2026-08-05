@@ -114,7 +114,7 @@ This document records product decisions before they are expensive enough to requ
 
 - **Status:** Provisional
 - **Date:** 2026-08-02
-- Every character begins with one primary class selected at character creation. The initial class roster remains unresolved.
+- Every character begins with one primary class selected at character creation. The initial class roster remains unresolved and is being developed on the mutable working canvas at [class-roster.md](class-roster.md).
 - The primary class is permanent and grants its complete ability set.
 - An introductory in-world quest opens a secondary and a tertiary class slot.
 - The primary, secondary, and tertiary slots must contain three distinct classes. The same class cannot occupy more than one slot on a character.

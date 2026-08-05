@@ -1,5 +1,13 @@
 # Changes
 
+## 2026-08-05 - Class roster working canvas
+
+- Opened docs/design/class-roster.md as an Exploring, deliberately mutable working canvas for the initial class roster, separate from canonical decisions so roster churn does not thrash decisions.md.
+- Captured the fixed guardrail constraints every class must satisfy (D-012 three-class identity, D-014 equipment eligibility, D-015 functional statistics and solo expression, D-002 solo-capable, D-007 skills, D-008 original IP).
+- Left roster shape (class count and archetype coverage) and per-class identity to be developed in later layers.
+
+Gotcha: nothing on the canvas is a commitment; only settled structural facts will graduate into a decision.
+
 ## 2026-08-05 - Expired-instance corpses, timer pause, and death wiki
 
 - Made an expired dungeon instance's corpse recoverable only through the hub corpse summoner, reusing that system rather than adding a new one; live instances still allow a normal walk-back recovery.
