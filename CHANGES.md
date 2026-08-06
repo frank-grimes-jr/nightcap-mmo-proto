@@ -1,5 +1,14 @@
 # Changes
 
+## 2026-08-06 - Weapon skill: competent floor, mastery as edge (D-007)
+
+- Elaborated D-007 for weapon skill: it is tracked per weapon group (D-014) and is a primary-class axis only, since the primary alone sets weapon eligibility and subclasses never add weapons — so weapon skill does not multiply across the three slots.
+- Chose a competent-floor model: an established character taking up a new but primary-eligible weapon group starts at a level-appropriate floor (immediately competent, no punishing cold start), bounding the general "failure rates lessen" rule for weapon switching and keeping solo play and experimentation accessible.
+- Made mastery a rewarding edge rather than a fix: it raises proc chance/power (D-015 proc dimension) and gives modest damage, while base accuracy stays competent at the floor — mastery does not gate to-hit.
+- Noted that use-based skill progression is a separate system from D-012 point-based advancement, and reworded the open question to the residual armor-proficiency part.
+
+Gotcha: D-007 stays Provisional. Exact rates, failure floors, bad-luck protection, and whether mastery also unlocks higher weapon-group technique tiers remain TBD.
+
 ## 2026-08-06 - Universal resource pools (D-017)
 
 - Opened D-017: ability resources are a universal, fixed set of bars shared by every character — HP, MP, Energy — rather than per-class bars. Each ability draws from a specific pool, a class uses a pool only if its abilities do, and unused bars sit dormant.

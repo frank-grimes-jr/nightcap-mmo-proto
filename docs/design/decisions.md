@@ -69,7 +69,11 @@ This document records product decisions before they are expensive enough to requ
 - Skills improve through relevant use.
 - Skill caps are tied to the character's current level or level band.
 - Failure rates lessen as the skill approaches the maximum for that level range.
-- Exact rates, failure floors, and bad-luck protection remain unresolved.
+- Skill progression (use-based) is a separate system from the point-based parallel advancement of D-012.
+- **Weapon skill** is tracked per weapon group (D-014) and is a primary-class axis only: because the primary alone sets weapon eligibility (D-014), subclasses never add weapons or weapon skills, so weapon skill does not multiply across the three slots.
+- **Competent floor.** When an established character takes up a new but primary-eligible weapon group, its skill starts at a level-appropriate floor — immediately competent, never a punishing cold start from zero. This bounds the general "failure rates lessen" rule for weapon-group switching, keeping solo play and experimentation accessible.
+- **Mastery is a rewarding edge, not a fix.** Because the floor is already competent, weapon mastery adds an edge on top of a fine baseline rather than repairing a broken one: it raises proc chance/power (the D-015 proc dimension) and gives a modest damage refinement, while base accuracy and functionality are competent at the floor. Mastery does not gate to-hit.
+- Exact rates, failure floors, and bad-luck protection remain unresolved. Whether weapon mastery also unlocks higher weapon-group technique tiers remains unresolved.
 
 ## D-008: Original intellectual property
 
