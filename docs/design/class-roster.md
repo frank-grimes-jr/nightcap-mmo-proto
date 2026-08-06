@@ -86,6 +86,40 @@ For the first vertical slice, the target roster is scoped down to the cheapest s
 
 This gives all four gap-fills plus three-ways-to-tank in six classes (6 × 5 × 4 = 120 ordered combinations). The remaining seven candidate classes stay on the target roster for later builds.
 
+#### First-slice equipment
+
+Armor tier follows the class's method: **the more a class survives by something other than armor (heals, control), the lighter it goes.** All three tanks wear heavy, so armor is not a tank differentiator — tanks differ by method alone. Weapon "profiles" only; final D-014 weapon-group names remain TBD.
+
+| Class | Armor | Weapon profile |
+|---|---|---|
+| **Mitigation tank** | Heavy | one-hand + physical shield |
+| **Lifesteal tank** | Heavy | two-hand melee (big swings, big leech) |
+| **Shields tank** | Heavy | one-hand melee + a *summoned* shield of light (off-hand; a spell, not steel) |
+| **Burst damage** | Light | ranged burst (implement or bow) |
+| **Reactive healer** | Medium | implement + one-hand |
+| **Lockdown support** | Light | implement / focus |
+
+Spread: 3 heavy / 1 medium / 2 light. The three tanks keep distinct silhouettes by weapon (steel shield-and-board · great-weapon · summoned-light-shield) rather than by armor.
+
+#### First-slice subset shapes
+
+These follow the archetype-level rules already set (secondary = the class's as-subclass lend as a real cooldown; tertiary = the thinner passive version):
+
+- **Mitigation tank** — 2°: a defensive cooldown + passive damage reduction · 3°: passive damage reduction only.
+- **Lifesteal tank** — 2°: strong on-hit leech + a burst self-heal · 3°: modest passive leech.
+- **Shields tank** — 2°: an absorb-shield cooldown + minor passive ward · 3°: a weaker absorb cooldown.
+- **Burst damage** — 2°: a real burst nuke · 3°: a lighter nuke (magnitude-reserved, per the damage rule).
+- **Reactive healer** — 2°: a burst self-heal · 3°: a thinner self-heal (self-healing only).
+- **Lockdown support** — 2°: a reliable single-target hard CC · 3°: a brief slow/interrupt.
+
+#### Shields tank — summoned shield of light (signature)
+
+The shields tank is a **spell-tank**: its proactive warding is cast, and its off-hand is a **summoned shield of light** rather than an equipped focus or steel shield. This is the class's signature identity hook, and — for now — the only class with a quest-earned, leveling signature ability (generalizable to other classes later if it lands well).
+
+- **Earned, not handed over.** The shield's tiers are unlocked through a dedicated quest line, so growing its power feels earned rather than automatic.
+- **D-007-consistent scaling.** Rather than pure auto-scaling with level, the shield's *tiers* unlock at the quest milestones, while its *effectiveness within a tier* sharpens through use under the normal level-band caps (D-007). Earned progression and use-based improvement, not one bypassing the other.
+- **Silhouette.** One-hand melee for threat and attrition, with the summoned light-shield occupying the off-hand — the same shield-and-board shape as the mitigation tank, but active, summoned, and earned instead of passive steel.
+
 ## Per-class identity
 
 Developed one archetype at a time. **Tank first**, as the clearest showcase for principle 1 (gaps that subclasses fill).

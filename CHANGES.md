@@ -1,5 +1,14 @@
 # Changes
 
+## 2026-08-06 - First-slice equipment, subsets, and the shields-tank signature
+
+- Assigned armor tiers and weapon profiles to the six first-slice classes, with armor following method (lighter when survival comes from heals or control): all three tanks heavy, healer medium, burst and lockdown light. Armor is therefore not a tank differentiator — tanks differ by method and weapon silhouette alone.
+- Restated each slice class's stronger-secondary and more-limited-tertiary subset shapes, following the archetype-level rules already set.
+- Expanded the shields tank into a spell-tank whose off-hand is a summoned shield of light rather than an equipped focus, wearing heavy armor, with the summoned shield as its signature identity hook.
+- Made the shield quest-earned and signature to this class only (generalizable later): its tiers unlock through a quest line while its within-tier effectiveness sharpens through use under the normal D-007 level-band caps, keeping earned progression and use-based improvement consistent rather than auto-scaling.
+
+Gotcha: still Exploring and non-canonical. Weapon-group names, the shield quest line, exact tier and scaling numbers, and whether the quest-earned-signature pattern generalizes to other classes all remain TBD.
+
 ## 2026-08-06 - Roster shape: 13-class target, 6-class first slice
 
 - Confirmed the 13 candidate classes as the design-target roster after checking they are non-redundant (order-sensitive three-class combinations yield 1,716 orderings, and no two classes collide), establishing that any trim is a scope decision rather than a design one.
