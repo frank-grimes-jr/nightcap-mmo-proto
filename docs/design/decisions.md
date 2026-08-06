@@ -203,3 +203,19 @@ This document records product decisions before they are expensive enough to requ
 - **Progressive sharpening.** A codex entry starts broad on the first signal — a region, a foe type, a rumor — and sharpens toward the exact source as the player gathers more clues. The player is never left with nothing, and the hunt is never collapsed into a single map-marker moment.
 - **Account-wide.** A source discovered on one character is known to every character on the account, consistent with account-wide dungeon access (D-010). This is alt-friendly at the cost of an alt reliving the discovery journey.
 - How frequently specialized hybrid items appear remains unresolved (tuning). The exact codex triggers and how many clue tiers separate "broad" from "exact" remain unresolved.
+
+## D-017: Universal resource pools
+
+- **Status:** Provisional
+- **Date:** 2026-08-06
+- Ability resources are a **universal, fixed set of bars shared by every character** — HP, MP, and Energy — rather than per-class resource bars. The set starts lean at these three and may extend later.
+- Each ability is authored to draw from a specific pool. A class uses a pool only if its abilities do; a class with no mana abilities simply never touches the MP bar, which sits dormant for it.
+- A three-class character uses the **union** of the pools its three classes' abilities tap. Subclass abilities keep their native pool cost — there is no per-slot re-costing.
+- Pool behaviors are what make them feel different and make resource type a class-identity lever:
+  - **HP** — the life bar, and also a cost for a few sacrifice/leech abilities (e.g. a lifesteal tank drains and refills it).
+  - **MP** — a large, slowly-regenerating caster pool; a windows-and-economy feel.
+  - **Energy** — a smaller, fast-regenerating martial pool; a spend-and-refill rhythm.
+- Build-up/ramp feels (aggression, setups) are expressed through ability design or Energy, not a separate build-up bar.
+- **Balance.** Independent bars give a multi-class character several non-competing economies. This is bounded by primary-dominance (subclass abilities are minor and depth-capped, D-012) and by action time (no simultaneous actions), so extra active bars are more *options* than proportional power.
+- First-slice pool mapping: mitigation tank Energy; lifesteal tank Energy + HP; shields tank MP (spell-tank); reactive healer MP; lockdown support MP; burst damage MP or Energy depending on whether its burst is cast or physical (tied to its implement-or-bow weapon profile).
+- Unresolved: exact pool sizes; regeneration rates and in-combat vs. out-of-combat behavior; whether the set extends beyond three; the burst class's pool; and the scope of HP-cost abilities.

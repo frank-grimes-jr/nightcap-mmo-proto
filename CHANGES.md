@@ -1,5 +1,15 @@
 # Changes
 
+## 2026-08-06 - Universal resource pools (D-017)
+
+- Opened D-017: ability resources are a universal, fixed set of bars shared by every character — HP, MP, Energy — rather than per-class bars. Each ability draws from a specific pool, a class uses a pool only if its abilities do, and unused bars sit dormant.
+- Made a three-class character use the union of the pools its three classes tap, with subclass abilities keeping their native pool cost (no per-slot re-costing).
+- Gave the pools distinct behaviors so resource type is a class-identity lever: HP as life and a sacrifice/leech cost, MP as a large slow caster pool, Energy as a small fast martial pool; build-up/ramp feels handled via ability design rather than a separate bar.
+- Noted the balance stance: independent non-competing economies are bounded by primary-dominance and by action time, so extra bars are more options than power. Mapped the first-slice six to pools (Energy tanks, an HP+Energy lifesteal tank, MP for the spell-tank/healer/support, burst TBD).
+- Reworded the cross-class interaction open question to drop the now-resolved resource part and fold base attributes into D-015.
+
+Gotcha: D-017 stays Provisional. Pool sizes, regen rates, in/out-of-combat behavior, whether the set grows past three, the burst class's pool, and the scope of HP-cost abilities remain TBD.
+
 ## 2026-08-06 - Three-class balance and advancement application system
 
 - Extended D-012 with the three-class balance model: a primary-dominant power hierarchy where a character always reads as its primary, with the secondary a meaningful minority and the tertiary a light accent, so combining classes never erases primary identity.
