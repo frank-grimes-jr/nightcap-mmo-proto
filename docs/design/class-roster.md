@@ -224,6 +224,46 @@ Individual support classes are differentiated by **control method** — *how eac
 
 **Still TBD for support:** final class count, names, and each class's stronger-secondary vs. more-limited-tertiary subset shape. Deferred to the roster-shape and per-class layers.
 
+### Damage archetype
+
+Archetype-level identity shared by every future damage class, followed by the method axis that differentiates them (principle 4). Damage is the archetype that fills every other archetype's throughput gap.
+
+**Core fantasy.** The finisher — the archetype that *ends* fights. Everyone else manages the fight; damage removes the reason to.
+
+**Solo identity — glass cannon.** Kills before it is killed; its defense *is* the short fight. Highest risk/reward, and — uniquely — the most self-sufficient soloer, because offense self-solves most problems. A self-directed baseline like every archetype, not full solo-clear power.
+
+**Spine — what every damage class keeps:**
+
+- Killing throughput, burst **and** sustained — the thing every other archetype lacks.
+- Lethality-as-control — a dead enemy needs no crowd control.
+- Pattern-based endurance — its own sustained/DoT pattern carries long fights.
+- Durability via speed — killing fast is its answer to incoming damage.
+
+**Lone deliberate gap (principle 1):** self-sustain / recovery → **Healer** subclass. Offense can dish damage and win the sprint, but it can never *un-take* damage already dealt — the one problem raw offense cannot solve. Durability, crowd control, and endurance are self-solved rather than gaps, which makes damage the most solo-independent archetype and the sharpest reason a long attrition fight wants a healer.
+
+**Damage as someone else's subclass (D-012 curated subset).** Lends supplementary offensive throughput, *method-flavored* (a burst nuke / a DoT / a pet / an execute), scaled below a damage-primary's ceiling — this is what fills the tank/healer/support throughput gaps. Unlike the other archetypes, damage reserves **magnitude, not a group-facing role**, since dealing damage is inherently self-produced.
+
+- *Secondary form* (stronger): stronger supplementary damage.
+- *Tertiary form* (more limited): a lighter offensive touch.
+
+#### Differentiation: damage pattern
+
+Individual damage classes are differentiated by **damage pattern** — explicitly not melee vs. caster (principle 4). Four candidate damage classes, one per pattern (names TBD, original per D-008):
+
+| Pattern | Feel | Subclass lend |
+|---|---|---|
+| **Burst** | Front-loaded spike in a window; nail it or be exposed with cooldowns down. High risk/reward. | a burst nuke. |
+| **Sustained / DoT** | Steady ramping damage; wins attrition — the pattern that makes endurance a non-gap. | a DoT. |
+| **Pet-commander** | Damage via directed pet(s); the pet soaks danger, softening glass-cannon fragility. | a pet. |
+| **Opportunist / execute** | Conditional spikes on vulnerable / low-health / flanked / debuffed targets; thrives on openings, its own or a support's. | an execute / conditional strike. |
+
+Two rules follow from the method axis (mirroring the other archetypes):
+
+- A damage class's *as-subclass* lend is **flavored by its pattern**, and **no pattern is a strict upgrade of another** — they trade spike, floor, pet-durability, and conditionality.
+- Per-pattern texture: pet-commander is the least fragile (the pet soaks), and opportunist has the strongest combination hooks (it synergizes with support debuffs and its own).
+
+**Still TBD for damage:** final class count, names, and each class's stronger-secondary vs. more-limited-tertiary subset shape. Deferred to the roster-shape and per-class layers.
+
 ## Open threads specific to the roster
 
 - How many classes form the initial roster.

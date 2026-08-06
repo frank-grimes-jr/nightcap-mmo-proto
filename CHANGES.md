@@ -1,5 +1,14 @@
 # Changes
 
+## 2026-08-05 - Damage archetype identity and damage-pattern differentiation
+
+- Developed the damage archetype on the class-roster canvas, completing the four-archetype pass: core fantasy (the finisher that ends fights) and a glass-cannon solo identity whose defense is the short fight.
+- Set the spine (burst and sustained killing throughput, lethality-as-control, pattern-based endurance, durability-via-speed) and established that damage is the most self-sufficient soloer: its lone true gap is self-sustain/recovery → Healer, because offense can win a sprint but can never un-take damage already dealt. Durability, crowd control, and endurance are self-solved rather than gaps.
+- Defined damage-as-subclass as supplementary, method-flavored throughput scaled below a damage-primary's ceiling — the lend that fills every other archetype's throughput gap. Damage uniquely reserves magnitude rather than a group-facing role, since dealing damage is inherently self-produced.
+- Named four candidate damage classes by pattern (the widest archetype): burst, sustained/DoT, pet-commander, and opportunist/execute, with per-pattern texture (pet-commander least fragile, opportunist strongest combo hooks).
+
+Gotcha: still Exploring and non-canonical. Final damage class count, names, and each class's stronger-secondary vs. more-limited-tertiary subsets remain TBD.
+
 ## 2026-08-05 - Support archetype identity and control-method differentiation
 
 - Developed the support archetype on the class-roster canvas: core fantasy (the hand on the fight's dial) and a control-based-safety solo identity that completes the four-way symmetry on incoming damage (tank survives it, healer undoes it, damage pre-empts it, support prevents it).
