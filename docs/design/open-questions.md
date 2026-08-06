@@ -20,6 +20,7 @@ These questions are intentionally unresolved. Do not silently answer them during
 - Which original classes form the initial roster, and what is each class's identity? (In progress on the working canvas [class-roster.md](class-roster.md); guardrail constraints captured, roster shape and per-class identity still open.)
 - At what point does the introductory quest open the secondary and tertiary class slots?
 - Which abilities can each class contribute from the secondary and tertiary slots?
+- Should a subclass ever expand *weapon or armor eligibility*, contrary to the current guardrail that the primary class alone sets it and subclasses never expand it (D-014, class-roster)? Parking-lot example: a dual-wield-capable rogue-like taken as secondary or tertiary granting dual-wield to a primary otherwise limited to two-handed or one-hand-and-shield. Would require reopening the D-014 eligibility rule.
 - What power ratios or restrictions make the secondary subclass stronger than the tertiary without making either choice trivial?
 - How do class resources, weapon skills, armor proficiency, and base attributes interact across three classes?
 - What original names define the categories, and what are the boundaries for the accessory and universal-eligibility categories? (Armor and weapon structure resolved in D-014: three armor tiers with own-or-lighter eligibility; many per-type weapons that roll up into skill/augment-family groups. Original names, and the weapon group taxonomy, still TBD.)
