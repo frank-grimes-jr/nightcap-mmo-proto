@@ -114,10 +114,10 @@ These follow the archetype-level rules already set (secondary = the class's as-s
 
 #### Shields tank — summoned shield of light (signature)
 
-The shields tank is a **spell-tank**: its proactive warding is cast, and its off-hand is a **summoned shield of light** rather than an equipped focus or steel shield. This is the class's signature identity hook, and — for now — the only class with a quest-earned, leveling signature ability (generalizable to other classes later if it lands well).
+The shields tank is a **spell-tank**: its proactive warding is cast, and its off-hand is a **summoned shield of light** rather than an equipped focus or steel shield. This is the class's signature identity hook, and — for now — the only class with an earned, leveling signature ability (generalizable to other classes later if it lands well).
 
-- **Earned, not handed over.** The shield's tiers are unlocked through a dedicated quest line, so growing its power feels earned rather than automatic.
-- **D-007-consistent scaling.** Rather than pure auto-scaling with level, the shield's *tiers* unlock at the quest milestones, while its *effectiveness within a tier* sharpens through use under the normal level-band caps (D-007). Earned progression and use-based improvement, not one bypassing the other.
+- **Earned, not handed over (intent).** The shield's power should grow through earned milestones rather than automatically, so it feels earned. The exact delivery mechanism (likely quest-based) is deferred until the overall progression/quest system is designed — no quest work is committed here.
+- **D-007-consistent scaling (intent).** Rather than pure auto-scaling with level, the shield's *tiers* unlock at earned milestones, while its *effectiveness within a tier* sharpens through use under the normal level-band caps (D-007). Earned progression and use-based improvement, not one bypassing the other.
 - **Silhouette.** One-hand melee for threat and attrition, with the summoned light-shield occupying the off-hand — the same shield-and-board shape as the mitigation tank, but active, summoned, and earned instead of passive steel.
 
 ## Per-class identity
