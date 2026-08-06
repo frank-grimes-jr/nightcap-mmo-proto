@@ -1,5 +1,15 @@
 # Changes
 
+## 2026-08-06 - Holistic consistency pass: defense skill, D-015 bucket fix
+
+- Ran a holistic review of the design corpus (D-001 to D-017 plus the class-roster canvas) for contradictions and tensions before adding more, then resolved the two that blocked the pending defense-skill work.
+- Resolved a D-015 contradiction where resource economy sat in two buckets: health recovery now lives in sustain and mana/Energy pool economy lives in utility, aligned with D-017's explicit HP/MP/Energy bars.
+- Added the defense skill to D-007 as a single character-wide, use-trained skill that trains the *act* of active defense (block/parry/guard execution, timing, uptime) rather than the numbers — mitigation and avoidance stay D-015 stats, so no defensive effect is double-sourced. It is self-maintaining, competent-floored, and does not multiply across the three slots.
+- Noted that the summoned shield of light is a class ability, not equipment: it sits outside D-013/D-014 itemization with no eligibility, statistics, sockets, or power-budget cost.
+- Logged the remaining review findings as tracked items: the primary-dominance versus solo-capability balance tension to hold, and (already captured) the coupled burst pool/weapon decision and the three coexisting power axes (item budget, advancement points, use-trained skills).
+
+Gotcha: all touched decisions stay Provisional. The exact defense-skill maneuvers, rates, and floors remain TBD.
+
 ## 2026-08-06 - Weapon skill: competent floor, mastery as edge (D-007)
 
 - Elaborated D-007 for weapon skill: it is tracked per weapon group (D-014) and is a primary-class axis only, since the primary alone sets weapon eligibility and subclasses never add weapons — so weapon skill does not multiply across the three slots.

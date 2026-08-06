@@ -119,6 +119,7 @@ The shields tank is a **spell-tank**: its proactive warding is cast, and its off
 - **Earned, not handed over (intent).** The shield's power should grow through earned milestones rather than automatically, so it feels earned. The exact delivery mechanism (likely quest-based) is deferred until the overall progression/quest system is designed — no quest work is committed here.
 - **D-007-consistent scaling (intent).** Rather than pure auto-scaling with level, the shield's *tiers* unlock at earned milestones, while its *effectiveness within a tier* sharpens through use under the normal level-band caps (D-007). Earned progression and use-based improvement, not one bypassing the other.
 - **Silhouette.** One-hand melee for threat and attrition, with the summoned light-shield occupying the off-hand — the same shield-and-board shape as the mitigation tank, but active, summoned, and earned instead of passive steel.
+- **It is a class ability, not equipment.** The summoned shield of light is cast, so it sits outside the equipment system (D-013/D-014): it has no chassis eligibility, carries no item statistics or augment sockets, and does not draw on the item power budget. It occupies the off-hand conceptually but is never itemized or looted.
 
 ## Per-class identity
 
