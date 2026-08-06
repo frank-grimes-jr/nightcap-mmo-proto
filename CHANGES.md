@@ -1,5 +1,15 @@
 # Changes
 
+## 2026-08-06 - Three-class balance and advancement application system
+
+- Extended D-012 with the three-class balance model: a primary-dominant power hierarchy where a character always reads as its primary, with the secondary a meaningful minority and the tertiary a light accent, so combining classes never erases primary identity.
+- Defined the primary/secondary/tertiary gap as breadth plus a per-slot depth ceiling: each slot grants a curated subset of the class kit and a ceiling on how deep the shared point pool can advance that path, so signature/capstone nodes are reachable only as a primary and a subclass can never counterfeit a primary's defining power.
+- Set the advancement application system as a hybrid of WoW-style talent depth and EQ Alternate Advancement: a mostly-incremental spine punctuated by a few pick-one-of-N choice nodes, spending one shared slow pool across all three paths only as deep as each slot allows.
+- Chose situational-sidegrade forks (different, not strictly better) so no single dominant build exists and no external build guide is needed, and made allocations resettable but meaningfully gated by cost rather than free or cheap, deliberately enough to make the player think twice. This resolves D-012's open question in favor of resettable primary-path allocations at a real cost.
+- Retired the resolved open questions on secondary/tertiary power ratios, shared-pool balance levers, primary-allocation resets, and combination balance without build guides; kept a single question for the exact numeric ceilings, costs, and respec pricing, which remain TBD.
+
+Gotcha: D-012 stays Provisional. All numbers — slot ceilings, point rates and costs, respec pricing, spine lengths, choice-node counts — remain unresolved.
+
 ## 2026-08-06 - First-slice equipment, subsets, and the shields-tank signature
 
 - Assigned armor tiers and weapon profiles to the six first-slice classes, with armor following method (lighter when survival comes from heals or control): all three tanks heavy, healer medium, burst and lockdown light. Armor is therefore not a tank differentiator — tanks differ by method and weapon silhouette alone.

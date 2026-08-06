@@ -127,6 +127,13 @@ This document records product decisions before they are expensive enough to requ
 - Completing the introductory subclass quest makes every level-eligible subclass available for later replacement; individual subclasses do not require separate unlock quests.
 - Replacing a subclass removes its active abilities and returns all points allocated to that subclass to the character's unspent pool. Earned points are not destroyed.
 - Exact class names and expressions must be original. References to classes from existing games are mechanical shorthand only and are not candidates for final names, lore, or ability designs.
+- The slot power hierarchy is primary-dominant: a character always reads clearly as its primary, the secondary contributes a meaningful minority, and the tertiary a light accent. Subclasses add flavor and gap-fills, never enough to erase the primary's identity.
+- The primary/secondary/tertiary gap is produced by breadth plus a depth ceiling per slot. Each slot grants a curated subset of the class kit (primary full, secondary larger, tertiary smaller) and a ceiling on how deep the shared point pool can advance that path. A given point buys the same magnitude in any slot; lower slots simply have fewer abilities and reach their ceiling sooner.
+- Each class's advancement path is a hybrid structure: a mostly-incremental spine (slow, long-tail rank-ups, the parallel-advancement analogue) punctuated by a few "pick one of N" choice nodes. The shared pool is spent across all three paths' structures, only as deep as each slot's ceiling allows.
+- Because only the primary slot's ceiling reaches the deepest nodes, signature and capstone nodes are reachable only as a primary. A subclass can never acquire a primary's defining power, reinforcing primary-dominance and the per-archetype "subclass grants a personal slice only" rules.
+- Choice-node forks are situational sidegrades — different, not strictly better, each best in some content and none universally optimal — so no single dominant build exists and external build guides are unnecessary.
+- Advancement allocations can be reallocated, but reallocation is meaningfully gated by currency or another real cost, deliberately enough to make the player think twice. This includes primary-path allocations: they are resettable even though the primary class itself is permanent.
+- Exact numeric slot ceilings, point costs and rates, respec pricing, spine lengths, and the number of choice nodes per path remain unresolved.
 
 ## D-013: Hybrid equipment support
 

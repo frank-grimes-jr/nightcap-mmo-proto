@@ -21,7 +21,7 @@ These questions are intentionally unresolved. Do not silently answer them during
 - At what point does the introductory quest open the secondary and tertiary class slots?
 - Which abilities can each class contribute from the secondary and tertiary slots?
 - Should a subclass ever expand *weapon or armor eligibility*, contrary to the current guardrail that the primary class alone sets it and subclasses never expand it (D-014, class-roster)? Parking-lot example: a dual-wield-capable rogue-like taken as secondary or tertiary granting dual-wield to a primary otherwise limited to two-handed or one-hand-and-shield. Would require reopening the D-014 eligibility rule.
-- What power ratios or restrictions make the secondary subclass stronger than the tertiary without making either choice trivial?
+- What are the exact numeric slot ceilings, point costs and rates, and respec pricing for the three-class advancement system? (Structure resolved in D-012: primary-dominant hierarchy; secondary stronger than tertiary via breadth plus a per-slot depth ceiling; a hybrid spine-plus-choice-node path spending one shared pool; situational-sidegrade forks so no dominant build; and meaningfully-gated, resettable allocations including the primary path.)
 - How do class resources, weapon skills, armor proficiency, and base attributes interact across three classes?
 - What original names define the categories, and what are the boundaries for the accessory and universal-eligibility categories? (Armor and weapon structure resolved in D-014: three armor tiers with own-or-lighter eligibility; many per-type weapons that roll up into skill/augment-family groups. Original names, and the weapon group taxonomy, still TBD.)
 - What are the exact bucket names, the full statistic list, which statistics are compound, and the numeric power-budget weights? (Structure resolved in D-015: role-based functional buckets, every bucket has a solo expression, procs are a functional dimension, and compound statistics trade spiking for breadth.)
@@ -36,10 +36,7 @@ These questions are intentionally unresolved. Do not silently answer them during
 - How frequently should specialized hybrid items appear, and how many clue tiers separate a broad codex entry from an exact one? (Discoverability model resolved in D-016: an account-wide earned-knowledge codex that sharpens progressively from region/foe hints toward the exact source.)
 - How rare should universally eligible items be? (Structure resolved in D-014: universal items exist only as accessories, so their power is already bounded by the per-accessory cross-role ceiling; only their drop rarity is TBD.)
 - At what rate do characters earn parallel-advancement points from enemies and quests?
-- What point caps, prerequisites, exclusions, or diminishing returns keep the shared advancement pool balanceable?
-- Can primary-class advancement allocations be reset even though the primary class itself is permanent?
 - What currency cost or other gate controls subclass replacement, and does that cost change with repeated use?
-- How are three-class combinations balanced without erasing class identity or requiring external build guides?
 - How are solo survivability and optional group synergy reconciled?
 - How do dungeon encounters scale with party size while preserving solo as the baseline?
 - Which open-world bosses use locked enrollment, and how are they communicated to players?
