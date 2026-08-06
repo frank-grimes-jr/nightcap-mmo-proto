@@ -1,5 +1,13 @@
 # Changes
 
+## 2026-08-05 - Per-class feel hooks for all 13 candidate classes
+
+- Played out all thirteen candidate classes at the fantasy-and-role-hook level (kept as descriptors; original naming still deferred), adding a "Per-class feel" block to each archetype's differentiation section on the class-roster canvas.
+- Framed every archetype's hooks through a single mechanical lens: tanks by how damage moves through you (reduced / pre-empted / recovered), healers by where on the damage timeline you intervene (after / across / before), support by what you do to the enemy's ability to act (off / down / elsewhere), and damage by the shape of the killing over time (all at once / over time / by proxy / on condition).
+- Resolved a raised concern that the three tanks read as Warrior/Paladin/Shadow Knight: kept the survival methods (they are archetypal, not owned by the reference) but rewrote the hooks to describe mechanical feel rather than the reference-game personas, per the do-better-than-the-reference and original-IP stance. Originality is carried by the gaps-filled-by-subclasses structure and the still-deferred names, lore, and kit.
+
+Gotcha: still Exploring and non-canonical. Hooks are playstyle fantasy only — no world lore, names, armor tiers, weapon groups, subset shapes, or advancement are set; those and the final roster count remain TBD.
+
 ## 2026-08-05 - Damage archetype identity and damage-pattern differentiation
 
 - Developed the damage archetype on the class-roster canvas, completing the four-archetype pass: core fantasy (the finisher that ends fights) and a glass-cannon solo identity whose defense is the short fight.

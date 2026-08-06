@@ -122,6 +122,12 @@ Three candidate tank classes, one per method (names TBD, original per D-008):
 
 **Avoidance is a stat, not a tank class.** Dodge/parry-style avoidance is a defense-bucket statistic (D-015) itemized through accessories and augments (D-014), available to any class. No tank monopolizes it; other archetypes' modest survival bits (e.g. a rogue's small dodge) layer on top of a survival method rather than duplicating a tank.
 
+**Per-class feel** (lens: how damage moves through you) — mechanical-feel hooks, deliberately not the reference-game personas the methods resemble:
+
+- *Mitigation — the low-variance intake.* Damage lands and is quietly reduced; the steadiest health bar in the game, skill in positioning rather than timing, the easiest character to keep alive.
+- *Shields/wards — the pre-empted intake.* Spend effort *before* the hit to absorb it; a rhythm against the damage clock — sharp when you read the swing, briefly bare if caught mid-cooldown.
+- *Lifesteal — the recovered intake.* Take the hit in full and pull the health back off your own output; the highest-tempo tank, where stalling your offense stalls your survival.
+
 Two rules follow from the method axis:
 
 - A tank's *as-subclass* durability is **flavored by its method** — the three methods give three different self-protection styles a squishier primary can borrow, which is where much of the three-class combination variety comes from.
@@ -166,6 +172,12 @@ Individual healer classes are differentiated by **healing method** — *how and 
 | **Reactive big-heals** | Triage: watch health bars, clutch-save with large targeted heals. Strongest single-target emergency recovery. | a burst self-heal cooldown. |
 | **Prevention / heal-over-time** | Proactive rolling HoTs and pre-heals; steady, low-spike; efficient against sustained damage, weaker at sudden spikes. | a self-HoT / regen. |
 | **Absorb / damage-shields (ally-facing)** | Shield allies *before* damage lands — prevent rather than restore; rewards anticipation. | a self-shield. |
+
+**Per-class feel** (lens: where on the damage timeline you intervene):
+
+- *Reactive — the after.* Let the hit land, then undo it with a large targeted heal; highest-attention triage and clutch reversals, weakest when damage arrives faster than you can react.
+- *Prevention / HoT — the across.* Lay healing down ahead of and through the damage; calm, proactive, lowest-drama — behind only on a spike you didn't pre-heal.
+- *Absorb-shields — the before.* Spend before the hit so it never lands on the ally; prevention rather than restoration, the outward mirror of the shields-tank.
 
 **Cross-archetype rule — self vs. ally.** Tank methods are self-facing *survival*; healer methods are ally-facing *healing*. Same mechanics, different beneficiary — a tank's lifesteal or ward protects only itself, a healer's shield is cast on allies — so shields and lifesteal never collide across archetypes.
 
@@ -215,6 +227,12 @@ Individual support classes are differentiated by **control method** — *how eac
 | **Attrition** | Soft control — slow / weaken / damage-reduction; grind a feeble enemy down. Degrades most gracefully against control-immunity. | a personal slow / weaken. |
 | **Redirection** | Charm / fear — turn enemies on each other or drive them off. The principle-5 hotspot. | a brief personal charm / fear. |
 
+**Per-class feel** (lens: what you do to the enemy's ability to act):
+
+- *Lockdown — the off-switch.* Take the enemy's actions away outright; decisive and binary — a locked target is a solved problem — and the method most negated when elites resist hard control.
+- *Attrition — the dimmer.* Turn the enemy *down* rather than off; dials, not switches, and the one that keeps working *partially* even on foes that shrug off hard control.
+- *Redirection — the turnaround.* Point the enemy's own force elsewhere (charmed onto allies, or feared away); the highest ceiling and most volatile tool, most tightly capped by principle 5.
+
 **Rules:**
 
 - **Amplification is a shared support baseline, not a differentiator** — every support buffs allies somewhat; no class is the dedicated buffer.
@@ -256,6 +274,13 @@ Individual damage classes are differentiated by **damage pattern** — explicitl
 | **Sustained / DoT** | Steady ramping damage; wins attrition — the pattern that makes endurance a non-gap. | a DoT. |
 | **Pet-commander** | Damage via directed pet(s); the pet soaks danger, softening glass-cannon fragility. | a pet. |
 | **Opportunist / execute** | Conditional spikes on vulnerable / low-health / flanked / debuffed targets; thrives on openings, its own or a support's. | an execute / conditional strike. |
+
+**Per-class feel** (lens: the shape of the killing over the fight's timeline):
+
+- *Burst — all at once.* Dump the damage in a single window; feast-or-famine tempo, the highest per-moment ceiling, hardest punished by a whiff.
+- *Sustained / DoT — over time.* Damage that keeps working after you act; patient throughput that wins the attrition burst can't, weakest in the opening seconds while it ramps.
+- *Pet-commander — by proxy.* Deal damage at one remove through a directed unit that soaks danger; the *least* fragile glass cannon, a two-body puzzle rather than a rotation.
+- *Opportunist / execute — on condition.* Spikes only on an opening (a low, flanked, or debuffed target); flat when denied conditions, devastating when they appear, with the strongest combination hooks.
 
 Two rules follow from the method axis (mirroring the other archetypes):
 
