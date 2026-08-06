@@ -1,5 +1,13 @@
 # Changes
 
+## 2026-08-06 - Roster shape: 13-class target, 6-class first slice
+
+- Confirmed the 13 candidate classes as the design-target roster after checking they are non-redundant (order-sensitive three-class combinations yield 1,716 orderings, and no two classes collide), establishing that any trim is a scope decision rather than a design one.
+- Scoped a 6-class first-slice roster as the cheapest subset that proves both core theses — gap-filling across archetypes (principle 1) and method differentiation within one (principle 4): all three tanks as the showcase (mitigation/shields/lifesteal) plus one representative class each from the other archetypes (burst damage, reactive healer, lockdown support).
+- Kept the remaining seven candidate classes on the target roster for later builds, keeping the north-star vision intact while making the first build affordable.
+
+Gotcha: still Exploring and non-canonical. The slice composition is a working scoping decision, not a commitment; per-class equipment, subsets, names, and advancement remain TBD, and no engine or build system is confirmed.
+
 ## 2026-08-05 - Per-class feel hooks for all 13 candidate classes
 
 - Played out all thirteen candidate classes at the fantasy-and-role-hook level (kept as descriptors; original naming still deferred), adding a "Per-class feel" block to each archetype's differentiation section on the class-roster canvas.

@@ -69,7 +69,22 @@ EverQuest's archetypes are the analytical reference (shorthand only, per D-008).
 - **Support** — a first-class role of its own (not leftover utility): fundamentally a *controller*, differentiated by control method (lockdown / attrition-debuff / redirection), with ally amplification (haste/buffs/resources) as a shared baseline rather than a class. May produce situational damage spikes but primarily enables others.
 - **Healer** — keeps allies alive; differentiated by *method* (reactive big-heals, prevention/heal-over-time, lifesteal/leech, damage-absorb shields), each with its own offensive/solo identity.
 
-How many classes total, and how many sit in each archetype, remain TBD — to be set after or alongside the first per-archetype pass.
+### Target roster — 13 candidate classes
+
+The per-archetype pass produced **13 candidate classes**, one per method: 3 tank (mitigation / shields / lifesteal), 3 healer (reactive / HoT / shields), 3 support (lockdown / attrition / redirection), and 4 damage (burst / sustained-DoT / pet-commander / opportunist). This is the **design-target roster** — the north-star vision — held distinct from what the first build ships.
+
+The 13 are non-redundant: with a three-distinct-class character where order matters (permanent primary + stronger secondary + more-limited tertiary), they yield 13 × 12 × 11 = 1,716 ordered combinations, and no two classes collide (the self-vs-ally rule separates the shield/lifesteal pairs; support-attrition weakens enemy *output* while damage-DoT deals damage; each method owns its lane). So trimming is a *scope* question, not a redundancy one.
+
+### First-slice roster — 6 classes
+
+For the first vertical slice, the target roster is scoped down to the cheapest subset that proves both design theses — gap-filling across archetypes (principle 1) and method differentiation within an archetype (principle 4):
+
+- **Tank (showcase, all 3):** mitigation · shields · lifesteal — three visibly distinct ways to play one role.
+- **Damage:** burst — the clearest glass cannon, so it most strongly motivates grabbing tank/healer subclasses.
+- **Healer:** reactive big-heals — the most legible healing method.
+- **Support:** lockdown — the most legible control, and lower-risk than opening on charm (the principle-5 hotspot).
+
+This gives all four gap-fills plus three-ways-to-tank in six classes (6 × 5 × 4 = 120 ordered combinations). The remaining seven candidate classes stay on the target roster for later builds.
 
 ## Per-class identity
 
