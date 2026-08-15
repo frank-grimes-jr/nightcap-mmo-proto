@@ -1,0 +1,493 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta
+      name="description"
+      content="A mechanics-first overview of character building, abilities, equipment, combat, zones, and encounters in the Nightcap MMO design."
+    >
+    <meta name="theme-color" content="#111310">
+    <title>Game Design — Nightcap MMO Concept</title>
+    <link rel="icon" href="data:,">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="game-design.css">
+  </head>
+  <body class="design-page">
+    <a class="skip-link" href="#main-content">Skip to game design</a>
+
+    <header class="site-header">
+      <a class="wordmark" href="index.html" aria-label="Nightcap MMO concept home">
+        <span class="wordmark-mark" aria-hidden="true"></span>
+        <span>
+          <strong>Nightcap</strong>
+          <small>MMO concept</small>
+        </span>
+      </a>
+
+      <nav class="site-nav" aria-label="Site sections">
+        <a href="index.html">World concept</a>
+        <a href="game-design.html" aria-current="page">Game design</a>
+      </nav>
+
+      <span class="status-chip">Provisional systems</span>
+    </header>
+
+    <main id="main-content">
+      <section class="design-hero" aria-labelledby="design-title">
+        <div class="page-shell design-hero-content">
+          <p class="eyebrow">Mechanics, progression, and play structure</p>
+          <h1 id="design-title">Build deliberately.<br>Learn by doing.</h1>
+          <p class="hero-lede">
+            A systems-only view of how characters grow, fight, travel, and take on content.
+          </p>
+        </div>
+      </section>
+
+      <section class="design-section" id="systems" aria-labelledby="systems-title">
+        <div class="page-shell design-section-grid">
+          <div class="design-section-heading">
+            <p class="section-kicker"><span>01</span> Design rules</p>
+            <h2 id="systems-title">System foundations</h2>
+            <p>
+              The current direction rewards preparation and practice while keeping every
+              required activity possible for one well-built character.
+            </p>
+          </div>
+
+          <div>
+            <div class="design-status" role="note" aria-label="Design status">
+              <strong>Provisional</strong>
+              <span>Core structures are defined</span>
+              <span>Names and numbers remain TBD</span>
+            </div>
+
+            <div class="principle-list">
+              <article>
+                <span>01</span>
+                <div>
+                  <h3>Practice changes performance</h3>
+                  <p>
+                    Weapon and defense skills improve through relevant use within
+                    level-band caps. New eligible weapons start at a competent floor;
+                    mastery adds an edge rather than repairing a broken baseline.
+                  </p>
+                </div>
+              </article>
+              <article>
+                <span>02</span>
+                <div>
+                  <h3>Build choices carry weight</h3>
+                  <p>
+                    The primary class is permanent. Subclass changes and advancement
+                    resets happen at safe locations and carry a meaningful in-game cost.
+                  </p>
+                </div>
+              </article>
+              <article>
+                <span>03</span>
+                <div>
+                  <h3>Solo is the baseline</h3>
+                  <p>
+                    Every required encounter is designed for solo completion. Grouping
+                    increases difficulty and rewards instead of unlocking mandatory roles.
+                  </p>
+                </div>
+              </article>
+            </div>
+
+            <div class="progression-loop" aria-label="Progression loop">
+              <div><small>Earn</small><strong>Combat XP</strong></div>
+              <span aria-hidden="true">→</span>
+              <div><small>Choose</small><strong>Level or advancement</strong></div>
+              <span aria-hidden="true">→</span>
+              <div><small>Shape</small><strong>Abilities and build</strong></div>
+              <span aria-hidden="true">→</span>
+              <div><small>Test</small><strong>Harder content</strong></div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="design-section" id="characters" aria-labelledby="characters-title">
+        <div class="page-shell">
+          <div class="design-section-heading design-section-heading-wide">
+            <p class="section-kicker"><span>02</span> Build architecture</p>
+            <h2 id="characters-title">One identity.<br>Three class slots.</h2>
+            <p>
+              Every character combines three distinct classes. Slot order matters: the
+              primary defines the character, the secondary fills a real gap, and the
+              tertiary adds a narrow final option.
+            </p>
+          </div>
+
+          <div class="slot-stack" aria-label="Class slot power hierarchy">
+            <article class="slot-primary">
+              <p>Primary</p>
+              <h3>Complete kit</h3>
+              <ul>
+                <li>Permanent character choice</li>
+                <li>Sets armor and weapon eligibility</li>
+                <li>Reaches signature and capstone nodes</li>
+              </ul>
+            </article>
+            <article class="slot-secondary">
+              <p>Secondary</p>
+              <h3>Meaningful subset</h3>
+              <ul>
+                <li>Stronger borrowed abilities</li>
+                <li>Shallow-to-mid advancement depth</li>
+                <li>Replaceable at a safe location</li>
+              </ul>
+            </article>
+            <article class="slot-tertiary">
+              <p>Tertiary</p>
+              <h3>Light accent</h3>
+              <ul>
+                <li>Smallest curated ability slice</li>
+                <li>Shallow advancement only</li>
+                <li>Replaceable at a safe location</li>
+              </ul>
+            </article>
+          </div>
+
+          <div class="build-count">
+            <strong>120</strong>
+            <p>
+              ordered combinations in the six-class first slice:
+              <span>6 primary × 5 secondary × 4 tertiary.</span>
+            </p>
+          </div>
+
+          <div class="class-table-wrap" tabindex="0" aria-label="First-slice class mechanics table">
+            <table class="class-table">
+              <caption>
+                First-slice roster <span>Working names; roster remains Exploring</span>
+              </caption>
+              <thead>
+                <tr>
+                  <th scope="col">Class</th>
+                  <th scope="col">Primary role</th>
+                  <th scope="col">Resource</th>
+                  <th scope="col">Borrowed value</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr><th scope="row">Holder</th><td>Mitigation tank</td><td>Energy</td><td>Defensive cooldown + passive mitigation</td></tr>
+                <tr><th scope="row">Reaver</th><td>Lifesteal tank</td><td>Energy + HP</td><td>On-hit leech + burst self-heal</td></tr>
+                <tr><th scope="row">Warder</th><td>Shield tank</td><td>MP</td><td>Absorb cooldown + minor passive ward</td></tr>
+                <tr><th scope="row">Mender</th><td>Reactive healer</td><td>MP</td><td>Burst self-heal</td></tr>
+                <tr><th scope="row">Binder</th><td>Lockdown support</td><td>MP</td><td>Hard control or brief slow / interrupt</td></tr>
+                <tr><th scope="row">Kindler</th><td>Burst damage</td><td>MP</td><td>High-impact or lighter burst attack</td></tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </section>
+
+      <section class="design-section" id="abilities" aria-labelledby="abilities-title">
+        <div class="page-shell">
+          <div class="design-section-heading design-section-heading-wide">
+            <p class="section-kicker"><span>03</span> Power and expression</p>
+            <h2 id="abilities-title">Abilities grow on<br>three separate axes.</h2>
+            <p>
+              Builds combine practiced execution, equipped statistics, and points that
+              reshape class abilities. Keeping those lanes separate prevents one system
+              from selling the same power twice.
+            </p>
+          </div>
+
+          <div class="power-axes">
+            <article>
+              <span>Use-trained</span>
+              <h3>Skills</h3>
+              <p>Improve weapon mastery and active defensive execution through practice.</p>
+            </article>
+            <article>
+              <span>Found and fitted</span>
+              <h3>Equipment</h3>
+              <p>Supplies offense, defense, control, sustain, utility, and proc strength.</p>
+            </article>
+            <article>
+              <span>Earned and allocated</span>
+              <h3>Advancement</h3>
+              <p>Changes ability cost, reach, riders, timing, targeting, and behavior.</p>
+            </article>
+          </div>
+
+          <div class="advancement-layout">
+            <div class="advancement-copy">
+              <p class="eyebrow">One shared point pool</p>
+              <h3>A common tree shape keeps combinations fair.</h3>
+              <p>
+                Every class follows the same structural skeleton: four incremental spine
+                lines, two situational choice nodes, and one primary-only capstone fork.
+                Secondary and tertiary slots stop at shallower depth ceilings.
+              </p>
+              <p>
+                Choice nodes are sidegrades, not obvious upgrades. They change when an
+                ability is best—single target versus spread, burst versus sustained,
+                reactive save versus maintained channel.
+              </p>
+            </div>
+            <ol class="tree-diagram" aria-label="Advancement tree depth">
+              <li><span>Spine</span><strong>Efficiency · reach · steady engine · self-preservation</strong></li>
+              <li><span>Choice 01</span><strong>Committed single target or outward effect</strong></li>
+              <li><span>Choice 02</span><strong>Burst projection or sustained projection</strong></li>
+              <li class="tree-capstone"><span>Primary only</span><strong>Reactive trigger or maintained channel</strong></li>
+            </ol>
+          </div>
+
+          <div class="resource-system">
+            <div>
+              <p class="eyebrow">Universal resource set</p>
+              <h3>Every ability keeps its native cost.</h3>
+              <p>
+                A three-class build uses the union of the pools its abilities require.
+                Extra bars create options, not simultaneous actions.
+              </p>
+            </div>
+            <div class="resource-bars" aria-label="Ability resource behaviors">
+              <article class="bar-hp"><span>HP</span><p>Life, plus a cost for select sacrifice and leech abilities.</p></article>
+              <article class="bar-mp"><span>MP</span><p>Large and slow-regenerating; built around casting windows and economy.</p></article>
+              <article class="bar-energy"><span>Energy</span><p>Smaller and fast-regenerating; a martial spend-and-refill rhythm.</p></article>
+            </div>
+          </div>
+
+          <div class="ability-heading">
+            <h3>First-slice kit rhythms</h3>
+            <p>Ability and class labels are working descriptors, not final names.</p>
+          </div>
+          <div class="ability-grid">
+            <article><p>Holder · mitigation</p><h3>Bulwark</h3><span>Guard &amp; Taunt · Grind · Second Wind</span><small>Reduce incoming variance, gather threats, and win through attrition.</small></article>
+            <article><p>Reaver · lifesteal</p><h3>Rend</h3><span>Sweep · Frenzy · Second Wind</span><small>Keep attacking to recover damage; losing tempo weakens survival.</small></article>
+            <article><p>Warder · shields</p><h3>Aegis</h3><span>Beacon · Warding Blows · Second Light</span><small>Pre-load absorb protection and reinforce it through controlled attacks.</small></article>
+            <article><p>Mender · reactive heal</p><h3>Mend</h3><span>Tend · Chip · Endure</span><small>Answer damage with large heals and outlast solo fights with steady offense.</small></article>
+            <article><p>Binder · lockdown</p><h3>Bind</h3><span>Snare · Hex · Ward-step</span><small>Prevent attacks through hard control, soft control, and self-peel.</small></article>
+            <article><p>Kindler · burst</p><h3>Kindle</h3><span>Scatter · Emberwork · Slip</span><small>Compress damage into short windows and survive through mobility.</small></article>
+          </div>
+        </div>
+      </section>
+
+      <section class="design-section" id="equipment" aria-labelledby="equipment-title">
+        <div class="page-shell">
+          <div class="design-section-heading design-section-heading-wide">
+            <p class="section-kicker"><span>04</span> Itemization</p>
+            <h2 id="equipment-title">Eligibility follows the primary.<br>Statistics support the whole build.</h2>
+            <p>
+              Subclasses never unlock heavier armor or new weapon types. Instead, eligible
+              items can carry functional statistics that strengthen abilities from any slot.
+            </p>
+          </div>
+
+          <div class="equipment-rules">
+            <article>
+              <span>Armor chassis</span>
+              <h3>Light · medium · heavy</h3>
+              <p>A primary can wear its own tier or anything lighter, never heavier.</p>
+            </article>
+            <article>
+              <span>Weapon structure</span>
+              <h3>Specific types, broader groups</h3>
+              <p>Eligibility stays per type; use-trained skill and augment compatibility follow the group.</p>
+            </article>
+            <article>
+              <span>Statistics</span>
+              <h3>Function, not class labels</h3>
+              <p>Offense, defense, control, sustain, and utility replace a classic attribute layer.</p>
+            </article>
+          </div>
+
+          <div class="item-layers">
+            <article>
+              <span class="layer-index">01</span>
+              <div><h3>Armor &amp; weapons</h3><p>Strongest expression of primary identity and authored specialization.</p></div>
+              <strong>Depth</strong>
+            </article>
+            <article>
+              <span class="layer-index">02</span>
+              <div><h3>Specialized hybrid finds</h3><p>Fixed, pre-authored combinations that intentionally support cross-role builds.</p></div>
+              <strong>Discovery</strong>
+            </article>
+            <article>
+              <span class="layer-index">03</span>
+              <div><h3>Accessories</h3><p>A broad seven-to-eight-slot canvas with lower per-stat ceilings.</p></div>
+              <strong>Breadth</strong>
+            </article>
+            <article>
+              <span class="layer-index">04</span>
+              <div><h3>Augments</h3><p>Limited correction or sharpening; always weaker than the same stat authored on gear.</p></div>
+              <strong>Adjustment</strong>
+            </article>
+          </div>
+
+          <div class="augment-note">
+            <p class="eyebrow">Augment rules</p>
+            <p>
+              Compatible augments install or replace while out of combat for currency or
+              one prepaid service token. Replaced augments survive. Intact removal uses a
+              settlement service. Rare multi-family augments gain flexibility, not extra power.
+            </p>
+          </div>
+        </div>
+      </section>
+
+      <section class="design-section" id="combat" aria-labelledby="combat-title">
+        <div class="page-shell">
+          <div class="design-section-heading design-section-heading-wide">
+            <p class="section-kicker"><span>05</span> Stakes</p>
+            <h2 id="combat-title">Combat rewards judgment.<br>Failure leaves a recoverable cost.</h2>
+            <p>
+              Encounters emphasize target choice, positioning, active defense, resource
+              timing, retreat, and preparation. The authoritative server resolves outcomes;
+              the client presents and predicts without owning persistent results.
+            </p>
+          </div>
+
+          <div class="combat-pillars">
+            <article><span>Read</span><p>Observe enemy behavior, route risk, and control windows before committing.</p></article>
+            <article><span>Commit</span><p>Spend HP, MP, Energy, cooldowns, and positioning against a specific threat.</p></article>
+            <article><span>Adapt</span><p>Retreat, change equipment emphasis, practice skills, or reshape ability choices.</p></article>
+          </div>
+
+          <div class="death-layout">
+            <div>
+              <p class="eyebrow">Death model</p>
+              <h3>Gear stays. Experience waits where you fell.</h3>
+              <p>
+                Early levels have a no-loss grace band. Above it, death removes a fixed
+                percentage of the current level's experience and can lower the character's
+                level. Exact thresholds and percentages are still tuning.
+              </p>
+              <p>
+                De-leveling is soft: earned abilities and items remain usable, while
+                level-scaled statistics and skill caps fall. Banked advancement points
+                are never lost.
+              </p>
+            </div>
+            <ol class="recovery-flow">
+              <li><strong>Respawn equipped</strong><span>All gear and inventory remain on the character.</span></li>
+              <li><strong>Recover the exact loss</strong><span>Each death leaves a separate corpse holding that death's experience.</span></li>
+              <li><strong>Choose the return</strong><span>Reclaim it in place or pay a hub summoner to bring it back.</span></li>
+              <li><strong>Beat the clock</strong><span>Recovery lasts 48 real-time hours and pauses during server downtime.</span></li>
+            </ol>
+          </div>
+        </div>
+      </section>
+
+      <section class="design-section" id="zones" aria-labelledby="zones-title">
+        <div class="page-shell">
+          <div class="design-section-heading design-section-heading-wide">
+            <p class="section-kicker"><span>06</span> World structure</p>
+            <h2 id="zones-title">Explore first.<br>Travel faster later.</h2>
+            <p>
+              Open regions are not universally scaled into guaranteed fairness. Zone
+              boundaries, streaming, maps, weather, and final navigation tools remain open,
+              but discovery-driven travel and dungeon access already have firm rules.
+            </p>
+          </div>
+
+          <div class="zone-rules">
+            <article>
+              <p class="zone-number">01</p>
+              <h3>One waypoint per zone</h3>
+              <p>Its position is fixed for everyone, hidden in a meaningful location, and activated by standing on it.</p>
+              <small>Account-wide discovery, costs, and cooldowns: TBD</small>
+            </article>
+            <article>
+              <p class="zone-number">02</p>
+              <h3>Dungeon entry cannot be skipped</h3>
+              <p>An instance waypoint works only after entering normally. It cannot bypass the entrance from outside.</p>
+              <small>Checkpoint and instance-persistence rules: TBD</small>
+            </article>
+            <article>
+              <p class="zone-number">03</p>
+              <h3>Access is earned per account</h3>
+              <p>Lower dungeons unlock through discovery; higher ones use access quests. Every participating account needs its own unlock.</p>
+              <small>The level boundary between those methods: TBD</small>
+            </article>
+          </div>
+
+          <div class="dungeon-spine">
+            <div class="dungeon-spine-copy">
+              <p class="eyebrow">Exploring dungeon template</p>
+              <h3>A reusable five-beat run</h3>
+              <p>
+                The first dungeon plan tests a repeatable pacing structure rather than a
+                final content formula. Themes and enemies can change while the mechanical
+                rhythm remains readable.
+              </p>
+            </div>
+            <ol aria-label="Five-beat dungeon structure">
+              <li><span>01</span><strong>Threshold</strong><small>Establish risk and the return boundary.</small></li>
+              <li><span>02</span><strong>Teach</strong><small>Introduce space, enemies, and a hidden waypoint.</small></li>
+              <li><span>03</span><strong>Pressure</strong><small>Raise density and offer risky versus safe routes.</small></li>
+              <li><span>04</span><strong>Climax</strong><small>Peak encounter with a fixed reward source.</small></li>
+              <li><span>05</span><strong>Egress</strong><small>Use earned travel and close the recovery loop.</small></li>
+            </ol>
+          </div>
+        </div>
+      </section>
+
+      <section class="design-section" id="encounters" aria-labelledby="encounters-title">
+        <div class="page-shell">
+          <div class="design-section-heading design-section-heading-wide">
+            <p class="section-kicker"><span>07</span> Participation</p>
+            <h2 id="encounters-title">Solo-first.<br>Group harder, reward higher.</h2>
+            <p>
+              Ordinary open-world enemies never scale with party size. Scaling belongs only
+              to dungeons and explicitly designated bosses, where real participation—not
+              party membership or one-hit tagging—drives enrollment.
+            </p>
+          </div>
+
+          <div class="encounter-compare">
+            <article>
+              <p>Ordinary enemies</p>
+              <h3>Static challenge</h3>
+              <ul>
+                <li>No party-size scaling</li>
+                <li>Player decides whether to engage or retreat</li>
+                <li>No automatic fairness adjustment</li>
+              </ul>
+            </article>
+            <article>
+              <p>Designated encounters</p>
+              <h3>Locked participation</h3>
+              <ul>
+                <li>Begins from a solo baseline</li>
+                <li>Meaningful contribution raises difficulty</li>
+                <li>Qualifying players earn a personal XP premium</li>
+              </ul>
+            </article>
+          </div>
+
+          <div class="enrollment-flow" aria-label="Boss participation enrollment flow">
+            <article><span>1</span><strong>Intervene</strong><p>Damage, heal, protect, control, or hold attention.</p></article>
+            <article><span>2</span><strong>Provisional</strong><p>A brief action alone is not enough for credit.</p></article>
+            <article><span>3</span><strong>Lock in</strong><p>Sustained role-aware participation raises the tier.</p></article>
+            <article><span>4</span><strong>Stay scaled</strong><p>Difficulty cannot fall until the full encounter resets.</p></article>
+          </div>
+
+          <div class="tbd-board">
+            <p class="eyebrow">Still to resolve</p>
+            <ul>
+              <li>Exact group-size and boss-tier difficulty changes</li>
+              <li>Participation thresholds, grace periods, and maximum population</li>
+              <li>Experience premiums and dead / disconnected eligibility</li>
+              <li>Quest-marker precision, map behavior, and zone streaming model</li>
+              <li>Combat miss, fizzle, resource, and regeneration tuning</li>
+            </ul>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="page-shell footer-inner">
+        <strong>Nightcap Development MMO</strong>
+        <p>Systems remain in design and discovery. Exact values, names, and tuning are TBD.</p>
+      </div>
+    </footer>
+  </body>
+</html>
