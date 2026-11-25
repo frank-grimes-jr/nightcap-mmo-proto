@@ -1,3 +1,7 @@
+## 2026-11-25 — Dark Elves on the funeral road and at the heatworks
+
+The Race page opens with the production Ebb Cantor and Furnace Warden posed against the original Knellwater and Ventfold Atlas paintings. The character archive includes the Blender render recipe and both lossless frames.
+
 ## 2026-11-25 — Dark Elf character studies
 
 Archived the original concepts, editable female and male models, source graphics and static Unity handoffs for Ebb Cantor and Furnace Warden. Earlier female robe studies accompany the current look. [Character production index](character-production/README.md)
