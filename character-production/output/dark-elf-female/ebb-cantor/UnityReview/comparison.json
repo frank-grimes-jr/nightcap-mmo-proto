@@ -1,0 +1,22 @@
+{
+  "fbx_sha256": "badc36d039ee67401d046336e47c4173f59eac4b3b07cc71f4a4324f54a727a1",
+  "verified_package_files": 32,
+  "edit_vs_play": {
+    "mean": 0.0,
+    "p99": 0.0,
+    "maximum": 0,
+    "changed_pixels": 0.0
+  },
+  "bc7_face": {
+    "mean": 0.03574468085106383,
+    "p99": 1.0,
+    "maximum": 9,
+    "changed_pixels": 0.09177882236516575
+  },
+  "bc7_procession": {
+    "mean": 0.08061969521604938,
+    "p99": 1.0,
+    "maximum": 7,
+    "changed_pixels": 0.2119603587962963
+  }
+}

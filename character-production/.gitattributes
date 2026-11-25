@@ -1,0 +1,12 @@
+# Unity writes empty YAML scalars with trailing spaces. Preserve the exact build inputs.
+unity-validation/**/*.unity whitespace=-blank-at-eol
+unity-validation/**/*.asset whitespace=-blank-at-eol
+unity-validation/**/*.meta whitespace=-blank-at-eol
+unity-validation/**/*.mat whitespace=-blank-at-eol
+unity-validation/**/*.prefab whitespace=-blank-at-eol
+unity-validation/**/*.controller whitespace=-blank-at-eol
+# Historical references are authenticated against exact sealed bytes.
+evidence/facial-paint-native-reference/* -text whitespace=cr-at-eol
+evidence/expression-runtime-before/* -text whitespace=cr-at-eol
+# Preserve the upstream license verbatim, including Setext headings and whitespace.
+unity-validation/Assets/NightcapHumans/Handoff/MPFB-LICENSE.md -text -whitespace conflict-marker-size=32

@@ -1,0 +1,14 @@
+{
+  "packed_images": [
+    "DarkElf-Amber.png",
+    "DarkElf-Ivory.png",
+    "DarkElf-Skin.png",
+    "furnace-warden.png",
+    "Warden-Heat.png",
+    "Warden-Plate.png"
+  ],
+  "mesh_and_uv_sha256": "8e11d66a8dad27eadeb8ab334a194ac9b2e2b7ec31012d43a5908189a72877d2",
+  "blend_sha256": "a0ecb585cad4732d5c88ec092fa8ec51b1c320d092907cdb95e1be028793ddf9",
+  "fbx_sha256": "8a8c5244f99b93f8184b17dfebe35c5cf2dd401cb44921b328c25d070b279868",
+  "purpose": "Public editable source omits the two studio-only third-party comparison cards. All remaining mesh coordinates, faces and UV layers match the original."
+}

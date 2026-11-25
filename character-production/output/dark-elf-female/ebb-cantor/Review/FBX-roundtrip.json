@@ -1,0 +1,579 @@
+{
+  "source_reopened": true,
+  "empty_scene_import": true,
+  "blender": "5.2.0 LTS",
+  "skeletons": 1,
+  "bones": 53,
+  "joint_center_error_m": 3.375038997204937e-07,
+  "rest_axis_error": 1.5556812286376953e-05,
+  "animation_clips": 0,
+  "materials": 17,
+  "skinned_meshes": 34,
+  "triangles": 131488,
+  "dressed_triangles": 109276,
+  "imported_barefoot_m": 1.699999754209884,
+  "imported_dressed_height_m": 1.7139569762884932,
+  "imported_floor_z_m": -2.4193461456434306e-08,
+  "external_images_resolve": {
+    "Auricle.png": true,
+    "Copper-Iris.png": true,
+    "Ebb-Pall.png": true,
+    "Ebb-Procession.png": true,
+    "Ebb-Stoneware.png": true,
+    "Indigo-Skin.png": true,
+    "Ivory-Locks.png": true
+  },
+  "meshes": {
+    "Face | Modelled pinna r": {
+      "triangles": 1680,
+      "material_slots": [
+        "Silt | Auricle paint"
+      ],
+      "position_error_m": 2.871133233384171e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 1,
+      "weight_sum_error": 0.0,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Habit | East breadth": {
+      "triangles": 3676,
+      "material_slots": [
+        "Cantor | Wool and resist print",
+        "Cantor | Pitch-soaked reed"
+      ],
+      "position_error_m": 2.6122228291569627e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 2,
+      "weight_sum_error": 2.9802322387695312e-08,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Habit | Funeral road front": {
+      "triangles": 3676,
+      "material_slots": [
+        "Cantor | Wool and resist print",
+        "Cantor | Pitch-soaked reed"
+      ],
+      "position_error_m": 2.6122228291569627e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 2,
+      "weight_sum_error": 2.9802322387695312e-08,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Hair | Bound ferrule 1": {
+      "triangles": 256,
+      "material_slots": [
+        "Silt | Worn brass"
+      ],
+      "position_error_m": 2.803636789394659e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 1,
+      "weight_sum_error": 0.0,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Hair | Braid strand 3": {
+      "triangles": 2160,
+      "material_slots": [
+        "Silt | Combed ivory"
+      ],
+      "position_error_m": 2.871133233384171e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 1,
+      "weight_sum_error": 0.0,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Hair | Swept forelock 4": {
+      "triangles": 1040,
+      "material_slots": [
+        "Silt | Combed ivory"
+      ],
+      "position_error_m": 3.084632567151857e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 1,
+      "weight_sum_error": 0.0,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Pall | Seventeen gathered folds": {
+      "triangles": 15880,
+      "material_slots": [
+        "Cantor | Pall and dike chart",
+        "Cantor | Flax cord",
+        "Cantor | Madder binding",
+        "Cantor | Pitch-soaked reed"
+      ],
+      "position_error_m": 2.616204426431068e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 3,
+      "weight_sum_error": 4.470348358154297e-08,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Underlayer | River leather boots": {
+      "triangles": 1668,
+      "material_slots": [
+        "Cantor | Wool and resist print"
+      ],
+      "position_error_m": 7.634573506720699e-08,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 2,
+      "weight_sum_error": 2.9802322387695312e-08,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Voices | Small witness": {
+      "triangles": 2776,
+      "material_slots": [
+        "Cantor | Smoke fired clay",
+        "Cantor | Cut slip and firing clouds",
+        "Cantor | Chalk slip",
+        "Cantor | Pitch-soaked reed",
+        "Cantor | Sealing wax"
+      ],
+      "position_error_m": 1.570376610970925e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 1,
+      "weight_sum_error": 0.0,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Binding | Reed band and ferry knot": {
+      "triangles": 9640,
+      "material_slots": [
+        "Cantor | Wool and resist print",
+        "Cantor | Pitch-soaked reed",
+        "Cantor | Flax cord",
+        "Cantor | Madder binding"
+      ],
+      "position_error_m": 2.1950781103896588e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 1,
+      "weight_sum_error": 0.0,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Habit | Joined back": {
+      "triangles": 3676,
+      "material_slots": [
+        "Cantor | Wool and resist print",
+        "Cantor | Pitch-soaked reed"
+      ],
+      "position_error_m": 2.5384136392858636e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 2,
+      "weight_sum_error": 2.9802322387695312e-08,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Hair | Bound ferrule 2": {
+      "triangles": 256,
+      "material_slots": [
+        "Silt | Worn brass"
+      ],
+      "position_error_m": 2.6697625798988156e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 1,
+      "weight_sum_error": 0.0,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Hair | Swept forelock 1": {
+      "triangles": 1040,
+      "material_slots": [
+        "Silt | Combed ivory"
+      ],
+      "position_error_m": 3.084632567151857e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 1,
+      "weight_sum_error": 0.0,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Hair | Swept ivory bob": {
+      "triangles": 5504,
+      "material_slots": [
+        "Silt | Combed ivory"
+      ],
+      "position_error_m": 3.0826109309600724e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 1,
+      "weight_sum_error": 0.0,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Skin | Covered limbs and torso": {
+      "triangles": 11420,
+      "material_slots": [
+        "Silt | Indigo skin"
+      ],
+      "position_error_m": 2.6122228291569627e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 4,
+      "weight_sum_error": 4.563480615615845e-08,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Voices | Breath above the open throat": {
+      "triangles": 3528,
+      "material_slots": [
+        "Cantor | Condensed breath"
+      ],
+      "position_error_m": 2.2794392862124369e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 1,
+      "weight_sum_error": 0.0,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Voices | Wax-stopped throat": {
+      "triangles": 2776,
+      "material_slots": [
+        "Cantor | Smoke fired clay",
+        "Cantor | Cut slip and firing clouds",
+        "Cantor | Chalk slip",
+        "Cantor | Pitch-soaked reed",
+        "Cantor | Sealing wax"
+      ],
+      "position_error_m": 1.674309686450215e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 1,
+      "weight_sum_error": 0.0,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Face | Ash brows": {
+      "triangles": 256,
+      "material_slots": [
+        "Silt | Ash brows"
+      ],
+      "position_error_m": 2.9502794518521114e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 1,
+      "weight_sum_error": 0.0,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Habit | Cut sleeve l": {
+      "triangles": 3576,
+      "material_slots": [
+        "Cantor | Wool and resist print",
+        "Cantor | Pitch-soaked reed",
+        "Cantor | Flax cord",
+        "Cantor | Madder binding"
+      ],
+      "position_error_m": 2.5723392127474654e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 2,
+      "weight_sum_error": 2.9802322387695312e-08,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Habit | Cut sleeve r": {
+      "triangles": 4896,
+      "material_slots": [
+        "Cantor | Wool and resist print",
+        "Cantor | Pitch-soaked reed",
+        "Cantor | Flax cord",
+        "Cantor | Madder binding"
+      ],
+      "position_error_m": 2.6034422262455337e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 2,
+      "weight_sum_error": 2.9802322387695312e-08,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Habit | Madder sounding chart": {
+      "triangles": 9076,
+      "material_slots": [
+        "Cantor | Pall and dike chart",
+        "Cantor | Madder binding",
+        "Cantor | Flax cord",
+        "Cantor | Pitch-soaked reed"
+      ],
+      "position_error_m": 2.1696418173178245e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 2,
+      "weight_sum_error": 2.9802322387695312e-08,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Hair | Braid strand 1": {
+      "triangles": 2160,
+      "material_slots": [
+        "Silt | Combed ivory"
+      ],
+      "position_error_m": 2.871133233384171e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 1,
+      "weight_sum_error": 0.0,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Hair | Swept forelock 2": {
+      "triangles": 1040,
+      "material_slots": [
+        "Silt | Combed ivory"
+      ],
+      "position_error_m": 3.084632567151857e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 1,
+      "weight_sum_error": 0.0,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Pall | Fired name slips": {
+      "triangles": 588,
+      "material_slots": [
+        "Cantor | Madder binding",
+        "Cantor | Chalk slip",
+        "Cantor | Smoke fired clay",
+        "Cantor | Pitch-soaked reed"
+      ],
+      "position_error_m": 2.413114259525173e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 3,
+      "weight_sum_error": 2.9802322387695312e-08,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Skin | Head neck and hands": {
+      "triangles": 15336,
+      "material_slots": [
+        "Silt | Indigo skin"
+      ],
+      "position_error_m": 3.083001161030552e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 4,
+      "weight_sum_error": 4.470348358154297e-08,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Voices | Open throat": {
+      "triangles": 2684,
+      "material_slots": [
+        "Cantor | Smoke fired clay",
+        "Cantor | Cut slip and firing clouds",
+        "Cantor | Chalk slip",
+        "Cantor | Pitch-soaked reed"
+      ],
+      "position_error_m": 2.1490760104825313e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 1,
+      "weight_sum_error": 0.0,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Face | Modelled pinna l": {
+      "triangles": 1680,
+      "material_slots": [
+        "Silt | Auricle paint"
+      ],
+      "position_error_m": 2.882710532503552e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 1,
+      "weight_sum_error": 0.0,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Eyes | Copper pair": {
+      "triangles": 280,
+      "material_slots": [
+        "Silt | Copper iris"
+      ],
+      "position_error_m": 2.9502794518521114e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 1,
+      "weight_sum_error": 0.0,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Habit | West breadth": {
+      "triangles": 3676,
+      "material_slots": [
+        "Cantor | Wool and resist print",
+        "Cantor | Pitch-soaked reed"
+      ],
+      "position_error_m": 2.5728786567924544e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 2,
+      "weight_sum_error": 2.9802322387695312e-08,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Hair | Braid strand 2": {
+      "triangles": 2160,
+      "material_slots": [
+        "Silt | Combed ivory"
+      ],
+      "position_error_m": 2.871133233384171e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 1,
+      "weight_sum_error": 0.0,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Hair | Swept forelock 3": {
+      "triangles": 1040,
+      "material_slots": [
+        "Silt | Combed ivory"
+      ],
+      "position_error_m": 3.083001161030552e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 1,
+      "weight_sum_error": 0.0,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Pall | Pierced reed shuttle": {
+      "triangles": 1236,
+      "material_slots": [
+        "Cantor | Pitch-soaked reed",
+        "Cantor | Rubbed copper",
+        "Cantor | Madder binding"
+      ],
+      "position_error_m": 2.682209014892578e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 1,
+      "weight_sum_error": 0.0,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Underlayer | Fitted linen shift": {
+      "triangles": 10792,
+      "material_slots": [
+        "Cantor | Wool and resist print"
+      ],
+      "position_error_m": 2.5869317710203177e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 2,
+      "weight_sum_error": 2.9802322387695312e-08,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Voices | Reed rack and cords": {
+      "triangles": 360,
+      "material_slots": [
+        "Cantor | Pitch-soaked reed",
+        "Cantor | Flax cord"
+      ],
+      "position_error_m": 2.154235829721074e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 1,
+      "weight_sum_error": 0.0,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    }
+  },
+  "sha256": {
+    "DarkElfFemale.blend": "1f3df09984a08b5fc891778e958eeb72a0d64cabd4308b35a68caebb08bc47b0",
+    "DarkElfFemale.fbx": "badc36d039ee67401d046336e47c4173f59eac4b3b07cc71f4a4324f54a727a1"
+  },
+  "passed": true
+}

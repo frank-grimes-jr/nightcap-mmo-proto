@@ -1,0 +1,396 @@
+{
+  "suit": [
+    {
+      "layer": "Portrait_Hood_rim",
+      "source": "furnace-warden.png",
+      "native_quad_TL_BL_BR_TR": [
+        971,
+        33,
+        924,
+        142,
+        1067,
+        102,
+        1095,
+        77
+      ],
+      "destination_top_left_px": [
+        0,
+        0
+      ],
+      "size": [
+        512,
+        512
+      ],
+      "method": "masked quadrilateral resample, broad-light attenuation, grain and local paint"
+    },
+    {
+      "layer": "Portrait_Shoulder",
+      "source": "furnace-warden.png",
+      "native_quad_TL_BL_BR_TR": [
+        1229,
+        291,
+        1176,
+        343,
+        1455,
+        325,
+        1499,
+        266
+      ],
+      "destination_top_left_px": [
+        512,
+        0
+      ],
+      "size": [
+        512,
+        512
+      ],
+      "method": "masked quadrilateral resample, broad-light attenuation, grain and local paint"
+    },
+    {
+      "layer": "Portrait_Worn_edge",
+      "source": "furnace-warden.png",
+      "native_quad_TL_BL_BR_TR": [
+        1213,
+        593,
+        1205,
+        632,
+        1418,
+        605,
+        1420,
+        581
+      ],
+      "destination_top_left_px": [
+        1024,
+        0
+      ],
+      "size": [
+        512,
+        512
+      ],
+      "method": "masked quadrilateral resample, broad-light attenuation, grain and local paint"
+    },
+    {
+      "layer": "Portrait_Grille_ember",
+      "source": "furnace-warden.png",
+      "native_quad_TL_BL_BR_TR": [
+        1022,
+        193,
+        1020,
+        307,
+        1032,
+        297,
+        1032,
+        191
+      ],
+      "destination_top_left_px": [
+        1536,
+        0
+      ],
+      "size": [
+        512,
+        512
+      ],
+      "method": "masked quadrilateral resample, broad-light attenuation, grain and local paint"
+    },
+    {
+      "layer": "Portrait_Grille_bar",
+      "source": "furnace-warden.png",
+      "native_quad_TL_BL_BR_TR": [
+        1046,
+        171,
+        1044,
+        327,
+        1054,
+        333,
+        1056,
+        173
+      ],
+      "destination_top_left_px": [
+        0,
+        512
+      ],
+      "size": [
+        512,
+        512
+      ],
+      "method": "masked quadrilateral resample, broad-light attenuation, grain and local paint"
+    },
+    {
+      "layer": "Portrait_Iron",
+      "source": "furnace-warden.png",
+      "native_quad_TL_BL_BR_TR": [
+        1375,
+        351,
+        1363,
+        575,
+        1416,
+        571,
+        1440,
+        352
+      ],
+      "destination_top_left_px": [
+        512,
+        512
+      ],
+      "size": [
+        512,
+        512
+      ],
+      "method": "masked quadrilateral resample, broad-light attenuation, grain and local paint"
+    },
+    {
+      "layer": "Portrait_Chain",
+      "source": "furnace-warden.png",
+      "native_quad_TL_BL_BR_TR": [
+        884,
+        518,
+        876,
+        545,
+        916,
+        536,
+        920,
+        512
+      ],
+      "destination_top_left_px": [
+        1024,
+        512
+      ],
+      "size": [
+        512,
+        512
+      ],
+      "method": "masked quadrilateral resample, broad-light attenuation, grain and local paint"
+    },
+    {
+      "layer": "Portrait_Quilt",
+      "source": "furnace-warden.png",
+      "native_quad_TL_BL_BR_TR": [
+        681,
+        809,
+        660,
+        864,
+        711,
+        882,
+        738,
+        837
+      ],
+      "destination_top_left_px": [
+        1536,
+        512
+      ],
+      "size": [
+        512,
+        512
+      ],
+      "method": "masked quadrilateral resample, broad-light attenuation, grain and local paint"
+    },
+    {
+      "layer": "Portrait_Chest_shutter",
+      "source": "furnace-warden.png",
+      "native_quad_TL_BL_BR_TR": [
+        847,
+        727,
+        839,
+        742,
+        1056,
+        731,
+        1059,
+        715
+      ],
+      "destination_top_left_px": [
+        0,
+        1024
+      ],
+      "size": [
+        512,
+        512
+      ],
+      "method": "masked quadrilateral resample, broad-light attenuation, grain and local paint"
+    },
+    {
+      "layer": "Figure_Tasset",
+      "source": "furnace-warden.png",
+      "native_quad_TL_BL_BR_TR": [
+        329,
+        408,
+        321,
+        551,
+        364,
+        569,
+        372,
+        404
+      ],
+      "destination_top_left_px": [
+        512,
+        1024
+      ],
+      "size": [
+        512,
+        512
+      ],
+      "method": "masked quadrilateral resample, broad-light attenuation, grain and local paint"
+    },
+    {
+      "layer": "Figure_Greave",
+      "source": "furnace-warden.png",
+      "native_quad_TL_BL_BR_TR": [
+        177,
+        727,
+        158,
+        825,
+        185,
+        813,
+        205,
+        744
+      ],
+      "destination_top_left_px": [
+        1024,
+        1024
+      ],
+      "size": [
+        512,
+        512
+      ],
+      "method": "masked quadrilateral resample, broad-light attenuation, grain and local paint"
+    },
+    {
+      "layer": "Figure_Glove",
+      "source": "furnace-warden.png",
+      "native_quad_TL_BL_BR_TR": [
+        96,
+        455,
+        95,
+        484,
+        120,
+        482,
+        118,
+        455
+      ],
+      "destination_top_left_px": [
+        1536,
+        1024
+      ],
+      "size": [
+        512,
+        512
+      ],
+      "method": "masked quadrilateral resample, broad-light attenuation, grain and local paint"
+    },
+    {
+      "layer": "Authored_Rear_iron",
+      "source": "furnace-warden.png",
+      "native_quad_TL_BL_BR_TR": [
+        1375,
+        351,
+        1363,
+        575,
+        1416,
+        571,
+        1440,
+        352
+      ],
+      "destination_top_left_px": [
+        0,
+        1536
+      ],
+      "size": [
+        512,
+        512
+      ],
+      "method": "masked quadrilateral resample, broad-light attenuation, grain and local paint"
+    },
+    {
+      "layer": "Authored_Oxide",
+      "source": "furnace-warden.png",
+      "native_quad_TL_BL_BR_TR": [
+        1215,
+        614,
+        1211,
+        628,
+        1371,
+        612,
+        1369,
+        599
+      ],
+      "destination_top_left_px": [
+        512,
+        1536
+      ],
+      "size": [
+        512,
+        512
+      ],
+      "method": "masked quadrilateral resample, broad-light attenuation, grain and local paint"
+    },
+    {
+      "layer": "Authored_Lining",
+      "source": "furnace-warden.png",
+      "native_quad_TL_BL_BR_TR": [
+        1093,
+        386,
+        1089,
+        408,
+        1128,
+        394,
+        1132,
+        370
+      ],
+      "destination_top_left_px": [
+        1024,
+        1536
+      ],
+      "size": [
+        512,
+        512
+      ],
+      "method": "masked quadrilateral resample, broad-light attenuation, grain and local paint"
+    },
+    {
+      "layer": "Figure_Sabaton",
+      "source": "furnace-warden.png",
+      "native_quad_TL_BL_BR_TR": [
+        372,
+        892,
+        362,
+        908,
+        400,
+        922,
+        414,
+        910
+      ],
+      "destination_top_left_px": [
+        1536,
+        1536
+      ],
+      "size": [
+        512,
+        512
+      ],
+      "method": "masked quadrilateral resample, broad-light attenuation, grain and local paint"
+    }
+  ],
+  "skin_palette_rgb": [
+    [
+      53.4,
+      46.8,
+      56.0
+    ],
+    [
+      84.9,
+      72.3,
+      91.8
+    ],
+    [
+      113.8,
+      97.5,
+      126.2
+    ],
+    [
+      119.8,
+      108.8,
+      137.4
+    ]
+  ],
+  "skin_source": "character-plate.png, palette only; male-facial-skin-albedo-2048-v01.png, UV-local male paint; scalar luminance remap",
+  "hair": "Nightcap chestnut-hair-clumps-v02.png to ivory ramp"
+}

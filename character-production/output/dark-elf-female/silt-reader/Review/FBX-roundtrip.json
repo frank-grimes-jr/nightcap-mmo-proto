@@ -1,0 +1,766 @@
+{
+  "source_reopened": true,
+  "empty_scene_import": true,
+  "blender": "5.2.0 LTS",
+  "skeletons": 1,
+  "bones": 53,
+  "joint_center_error_m": 3.375038997204937e-07,
+  "rest_axis_error": 1.5556812286376953e-05,
+  "animation_clips": 0,
+  "materials": 7,
+  "skinned_meshes": 49,
+  "triangles": 100784,
+  "dressed_triangles": 78572,
+  "imported_barefoot_m": 1.699999754209884,
+  "imported_dressed_height_m": 1.7139569762884932,
+  "imported_floor_z_m": -2.4193461456434306e-08,
+  "external_images_resolve": {
+    "Auricle.png": true,
+    "Copper-Iris.png": true,
+    "Indigo-Skin.png": true,
+    "Ivory-Locks.png": true,
+    "SiltReader-BaseColor.png": true
+  },
+  "meshes": {
+    "Face | Modelled pinna r": {
+      "triangles": 1680,
+      "material_slots": [
+        "Silt | Auricle paint"
+      ],
+      "position_error_m": 2.871133233384171e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 1,
+      "weight_sum_error": 0.0,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Hair | Swept forelock 2": {
+      "triangles": 1040,
+      "material_slots": [
+        "Silt | Combed ivory"
+      ],
+      "position_error_m": 3.084632567151857e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 1,
+      "weight_sum_error": 0.0,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Robe | Cuff woven line l0": {
+      "triangles": 192,
+      "material_slots": [
+        "Silt | Dyed cloth"
+      ],
+      "position_error_m": 2.230201658903752e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 1,
+      "weight_sum_error": 0.0,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Robe | Inside wrap front": {
+      "triangles": 4100,
+      "material_slots": [
+        "Silt | Dyed cloth"
+      ],
+      "position_error_m": 2.6122228291569627e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 2,
+      "weight_sum_error": 2.9802322387695312e-08,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Robe | Sash keeper": {
+      "triangles": 304,
+      "material_slots": [
+        "Silt | Dyed cloth"
+      ],
+      "position_error_m": 2.154235829721074e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 1,
+      "weight_sum_error": 0.0,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Skin | Head neck and hands": {
+      "triangles": 15336,
+      "material_slots": [
+        "Silt | Indigo skin"
+      ],
+      "position_error_m": 3.083001161030552e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 4,
+      "weight_sum_error": 4.470348358154297e-08,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Hair | Swept forelock 3": {
+      "triangles": 1040,
+      "material_slots": [
+        "Silt | Combed ivory"
+      ],
+      "position_error_m": 3.083001161030552e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 1,
+      "weight_sum_error": 0.0,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Robe | Cuff woven line l1": {
+      "triangles": 192,
+      "material_slots": [
+        "Silt | Dyed cloth"
+      ],
+      "position_error_m": 2.230201658903752e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 1,
+      "weight_sum_error": 0.0,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Robe | Joined back pleat": {
+      "triangles": 3188,
+      "material_slots": [
+        "Silt | Dyed cloth"
+      ],
+      "position_error_m": 2.5400362346772454e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 2,
+      "weight_sum_error": 2.9802322387695312e-08,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Robe | Shaped shoulder yoke": {
+      "triangles": 4608,
+      "material_slots": [
+        "Silt | Dyed cloth"
+      ],
+      "position_error_m": 2.616204426431068e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 1,
+      "weight_sum_error": 0.0,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Underlayer | Fitted linen shift": {
+      "triangles": 10792,
+      "material_slots": [
+        "Silt | Dyed cloth"
+      ],
+      "position_error_m": 2.5869317710203177e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 2,
+      "weight_sum_error": 2.9802322387695312e-08,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Accessory | Graduated brass plummet": {
+      "triangles": 624,
+      "material_slots": [
+        "Silt | Worn brass"
+      ],
+      "position_error_m": 1.7504900995390926e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 1,
+      "weight_sum_error": 0.0,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Face | Modelled pinna l": {
+      "triangles": 1680,
+      "material_slots": [
+        "Silt | Auricle paint"
+      ],
+      "position_error_m": 2.882710532503552e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 1,
+      "weight_sum_error": 0.0,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Hair | Bound ferrule 1": {
+      "triangles": 256,
+      "material_slots": [
+        "Silt | Worn brass"
+      ],
+      "position_error_m": 2.803636789394659e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 1,
+      "weight_sum_error": 0.0,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Hair | Swept forelock 4": {
+      "triangles": 1040,
+      "material_slots": [
+        "Silt | Combed ivory"
+      ],
+      "position_error_m": 3.084632567151857e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 1,
+      "weight_sum_error": 0.0,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Robe | Cuff woven line l2": {
+      "triangles": 192,
+      "material_slots": [
+        "Silt | Dyed cloth"
+      ],
+      "position_error_m": 2.230201658903752e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 1,
+      "weight_sum_error": 0.0,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Robe | Left skirt and side": {
+      "triangles": 4860,
+      "material_slots": [
+        "Silt | Dyed cloth"
+      ],
+      "position_error_m": 2.5793431746024e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 2,
+      "weight_sum_error": 2.9802322387695312e-08,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Robe | Tapered sleeve l": {
+      "triangles": 1232,
+      "material_slots": [
+        "Silt | Dyed cloth"
+      ],
+      "position_error_m": 2.5723392127474654e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 2,
+      "weight_sum_error": 2.9802322387695312e-08,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Underlayer | River leather boots": {
+      "triangles": 1668,
+      "material_slots": [
+        "Silt | Dyed cloth"
+      ],
+      "position_error_m": 7.634573506720699e-08,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 2,
+      "weight_sum_error": 2.9802322387695312e-08,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Accessory | Plumb weight collar 1": {
+      "triangles": 128,
+      "material_slots": [
+        "Silt | Worn brass"
+      ],
+      "position_error_m": 1.7504900995390926e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 1,
+      "weight_sum_error": 0.0,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Accessory | Plumb weight collar 2": {
+      "triangles": 128,
+      "material_slots": [
+        "Silt | Worn brass"
+      ],
+      "position_error_m": 1.7504900995390926e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 1,
+      "weight_sum_error": 0.0,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Face | Ash brows": {
+      "triangles": 256,
+      "material_slots": [
+        "Silt | Ash brows"
+      ],
+      "position_error_m": 2.9502794518521114e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 1,
+      "weight_sum_error": 0.0,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Hair | Bound ferrule 2": {
+      "triangles": 256,
+      "material_slots": [
+        "Silt | Worn brass"
+      ],
+      "position_error_m": 2.6697625798988156e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 1,
+      "weight_sum_error": 0.0,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Hair | Swept ivory bob": {
+      "triangles": 5504,
+      "material_slots": [
+        "Silt | Combed ivory"
+      ],
+      "position_error_m": 3.0826109309600724e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 1,
+      "weight_sum_error": 0.0,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Robe | Cuff woven line r0": {
+      "triangles": 192,
+      "material_slots": [
+        "Silt | Dyed cloth"
+      ],
+      "position_error_m": 2.274563541959651e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 1,
+      "weight_sum_error": 0.0,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Robe | Narrow placket selvage": {
+      "triangles": 728,
+      "material_slots": [
+        "Silt | Dyed cloth"
+      ],
+      "position_error_m": 2.5793431746024e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 2,
+      "weight_sum_error": 2.9802322387695312e-08,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Robe | Tapered sleeve r": {
+      "triangles": 1232,
+      "material_slots": [
+        "Silt | Dyed cloth"
+      ],
+      "position_error_m": 2.537576335726044e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 2,
+      "weight_sum_error": 2.9802322387695312e-08,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Eyes | Copper pair": {
+      "triangles": 280,
+      "material_slots": [
+        "Silt | Copper iris"
+      ],
+      "position_error_m": 2.9502794518521114e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 1,
+      "weight_sum_error": 0.0,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Hair | Braid strand 1": {
+      "triangles": 2160,
+      "material_slots": [
+        "Silt | Combed ivory"
+      ],
+      "position_error_m": 2.871133233384171e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 1,
+      "weight_sum_error": 0.0,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Lining | Clay slit inset": {
+      "triangles": 1400,
+      "material_slots": [
+        "Silt | Dyed cloth"
+      ],
+      "position_error_m": 1.365714012990793e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 2,
+      "weight_sum_error": 2.9802322387695312e-08,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Robe | Cuff woven line r1": {
+      "triangles": 192,
+      "material_slots": [
+        "Silt | Dyed cloth"
+      ],
+      "position_error_m": 2.274563541959651e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 1,
+      "weight_sum_error": 0.0,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Robe | Open bound collar": {
+      "triangles": 1284,
+      "material_slots": [
+        "Silt | Dyed cloth"
+      ],
+      "position_error_m": 2.6122228291569627e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 1,
+      "weight_sum_error": 0.0,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Robe | Turned flax cuff l": {
+      "triangles": 560,
+      "material_slots": [
+        "Silt | Dyed cloth"
+      ],
+      "position_error_m": 2.230201658903752e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 1,
+      "weight_sum_error": 0.0,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Accessory | Waxed plumb line": {
+      "triangles": 192,
+      "material_slots": [
+        "Silt | Dyed cloth"
+      ],
+      "position_error_m": 2.154235829721074e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 1,
+      "weight_sum_error": 0.0,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Hair | Braid strand 2": {
+      "triangles": 2160,
+      "material_slots": [
+        "Silt | Combed ivory"
+      ],
+      "position_error_m": 2.871133233384171e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 1,
+      "weight_sum_error": 0.0,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Lining | Collar inner lip": {
+      "triangles": 1024,
+      "material_slots": [
+        "Silt | Dyed cloth"
+      ],
+      "position_error_m": 2.6122228291569627e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 1,
+      "weight_sum_error": 0.0,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Robe | Cuff woven line r2": {
+      "triangles": 192,
+      "material_slots": [
+        "Silt | Dyed cloth"
+      ],
+      "position_error_m": 2.274563541959651e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 1,
+      "weight_sum_error": 0.0,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Robe | Outer wrap front": {
+      "triangles": 3796,
+      "material_slots": [
+        "Silt | Dyed cloth"
+      ],
+      "position_error_m": 2.5793431746024e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 2,
+      "weight_sum_error": 2.9802322387695312e-08,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Robe | Turned flax cuff r": {
+      "triangles": 560,
+      "material_slots": [
+        "Silt | Dyed cloth"
+      ],
+      "position_error_m": 2.274563541959651e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 1,
+      "weight_sum_error": 0.0,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Hair | Braid strand 3": {
+      "triangles": 2160,
+      "material_slots": [
+        "Silt | Combed ivory"
+      ],
+      "position_error_m": 2.871133233384171e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 1,
+      "weight_sum_error": 0.0,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Lining | Inner wrap return": {
+      "triangles": 1760,
+      "material_slots": [
+        "Silt | Dyed cloth"
+      ],
+      "position_error_m": 2.5793431746024e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 2,
+      "weight_sum_error": 2.9802322387695312e-08,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Robe | Double turn sash": {
+      "triangles": 2880,
+      "material_slots": [
+        "Silt | Dyed cloth"
+      ],
+      "position_error_m": 2.1950781103896588e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 2,
+      "weight_sum_error": 2.9802322387695312e-08,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Robe | Sash cord 1": {
+      "triangles": 1152,
+      "material_slots": [
+        "Silt | Dyed cloth"
+      ],
+      "position_error_m": 2.1696418173178245e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 2,
+      "weight_sum_error": 2.60770320892334e-08,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Robe | Yoke binding": {
+      "triangles": 1152,
+      "material_slots": [
+        "Silt | Dyed cloth"
+      ],
+      "position_error_m": 2.537576335726044e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 1,
+      "weight_sum_error": 0.0,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Hair | Swept forelock 1": {
+      "triangles": 1040,
+      "material_slots": [
+        "Silt | Combed ivory"
+      ],
+      "position_error_m": 3.084632567151857e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 1,
+      "weight_sum_error": 0.0,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Robe | Bound diagonal placket": {
+      "triangles": 1460,
+      "material_slots": [
+        "Silt | Dyed cloth"
+      ],
+      "position_error_m": 2.5793431746024e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 2,
+      "weight_sum_error": 2.9802322387695312e-08,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Robe | Folded sash end": {
+      "triangles": 360,
+      "material_slots": [
+        "Silt | Dyed cloth"
+      ],
+      "position_error_m": 2.154235829721074e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 1,
+      "weight_sum_error": 0.0,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Robe | Sash cord 2": {
+      "triangles": 1152,
+      "material_slots": [
+        "Silt | Dyed cloth"
+      ],
+      "position_error_m": 2.1950781103896588e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 2,
+      "weight_sum_error": 2.9802322387695312e-08,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Skin | Covered limbs and torso": {
+      "triangles": 11420,
+      "material_slots": [
+        "Silt | Indigo skin"
+      ],
+      "position_error_m": 2.6122228291569627e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 4,
+      "weight_sum_error": 4.563480615615845e-08,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    }
+  },
+  "sha256": {
+    "DarkElfFemale.blend": "2f1a8557a19c10c1190afc60d8888353ffcaa7316034cf661d12fad38c6bdeb7",
+    "DarkElfFemale.fbx": "ab322a3098732bb4425c528c9c1dcf902f755ac4df2596861424fce3731b5203"
+  },
+  "passed": true
+}

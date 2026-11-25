@@ -1,3 +1,7 @@
+## 2026-11-25 — Dark Elf character studies
+
+Archived the original concepts, editable female and male models, source graphics and static Unity handoffs for Ebb Cantor and Furnace Warden. Earlier female robe studies accompany the current look. [Character production index](character-production/README.md)
+
 # Changes
 
 ## 2026-08-02 - Distinct class slots

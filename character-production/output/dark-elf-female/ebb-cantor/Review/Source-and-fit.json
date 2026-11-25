@@ -1,0 +1,41 @@
+{
+  "comparison": "SHA-256 over local vertex coordinates and face-loop indices, scoped to costume collection 05 in each native file",
+  "new_costume_meshes": {
+    "Habit | West breadth": "eec39bf6c765ca3498e844a4513355869e485409bbc7f59e7e7f78f79451f0a0",
+    "Habit | Funeral road front": "5a3d3faf536548d40f1615a4dafa4c8c7c2e8de96c384bf13c6ebd6b1efb0bc1",
+    "Habit | East breadth": "d90e376e989b5ab258aa2b7476c6562321cc1f18401733600c900edf979c1262",
+    "Habit | Joined back": "e2c4365d21ea5aed56e3bf7b2dfc582843e73337513cb0acfcdff39b0dff1e6a",
+    "Habit | Cut sleeve l": "f2c7dd666ade126dcf44957c4133717e75ac5ea0d86ebf72ae32d22ace2463bf",
+    "Habit | Cut sleeve r": "00cc241204329fba4d91da1a152310be006b60f3daca1f32c18221941b03fe76",
+    "Habit | Madder sounding chart": "f8a533e93a4d3f4c271d7ad013290a1ccfccd849c53ab6e96f0bd26fb4fdb34c",
+    "Pall | Seventeen gathered folds": "cc606ab65f51259ace85f1d439469b6574612cbc6e7662a890a748231b5441e1",
+    "Pall | Pierced reed shuttle": "5fc14c9ca8e36e7b3d83802544ad181fe753c6c2f5560daefb5d92dbb3b81df2",
+    "Binding | Reed band and ferry knot": "dffc7bcccb6ef6a588cfca675f82d831894fd7a58781c32671ad27c24bfe095f",
+    "Voices | Open throat": "30650bc058b7612f2fe47f8bbba5402aeee7a8157bbca0f4854fcff0e3d2ae0a",
+    "Voices | Wax-stopped throat": "a8271f1919f6dd15352757ccb0228c6987256168d14440eb90728557e57bf4b0",
+    "Voices | Small witness": "174b072f858e99d113bcba466772ac47eb8cb62e341199dbb85be779bb93432c",
+    "Voices | Reed rack and cords": "0269c33e3d20aa22319982c7c44ef4f510f0f061eea3848a414897088dbe893f",
+    "Voices | Breath above the open throat": "d09629546ccc72e7df05c24a6a6660d082aa6b50694d7824302d5ac4906f9178",
+    "Pall | Fired name slips": "5308852f46784cc50c1fbcdd215d0ec6361cb8e3041da991b98c2b3bcf62c8e2"
+  },
+  "exact_earlier_mesh_matches": {
+    "silt-reader": [],
+    "vesper-moth": []
+  },
+  "fresh_map_sha256": {
+    "Ebb-Pall.png": "80128dbca2ce3cee1219c628b72a047ba41c509b3d55e4c3dc6f62cab8658aea",
+    "Ebb-Procession.png": "782af598ee4d8e43a6086b2765ecb2b5d18a50580b2e9ff2176aa07acc6ebf2a",
+    "Ebb-Stoneware.png": "5c20442492bedd156b00cd0376911d6b989e55172f4fff52acd6463df1dd8b78"
+  },
+  "exact_earlier_map_matches": [],
+  "reused_character_parts": [
+    "female skeleton",
+    "continuous body and skin sections",
+    "eyes, brows and ears",
+    "hair and ferrules",
+    "boots and fitted shift"
+  ],
+  "braid_to_outfit_m": 0.04160407558083534,
+  "distal_hand_to_sleeve_m": 0.019869333133101463,
+  "jaw_to_pall_m": 0.045688290148973465
+}

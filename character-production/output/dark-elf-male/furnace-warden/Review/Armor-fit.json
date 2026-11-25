@@ -1,0 +1,135 @@
+{
+  "source": "DarkElfMale.blend",
+  "sha256": "4f5317b2b4f6c44d2e34baf90ed59c21d9621149e5d6c6160a3ef50c2c9552ef",
+  "units": "metres unless explicitly mm",
+  "eye_test": "Orthographic frontal rays through the rest-space centers of the actual eyeball meshes, testing all helm parts and head surface before the first eye hit.",
+  "distance_test": "Triangle crossings, both vertex-to-triangle directions and interior edge-to-edge distance on world-space triangulated rest meshes.",
+  "eyes": [
+    {
+      "eye": "left",
+      "origin_m": [
+        0.03081377036869526,
+        -0.5,
+        1.7080446481704712
+      ],
+      "direction": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "cornea_hit_m": [
+        0.03081377036869526,
+        -0.15104693174362183,
+        1.7080446481704712
+      ],
+      "blocking_surfaces": []
+    },
+    {
+      "eye": "right",
+      "origin_m": [
+        -0.03081377036869526,
+        -0.5,
+        1.7080446481704712
+      ],
+      "direction": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "cornea_hit_m": [
+        -0.03081377036869526,
+        -0.15104693174362183,
+        1.7080446481704712
+      ],
+      "blocking_surfaces": []
+    }
+  ],
+  "boot_ground": {
+    "l": {
+      "lowest_z_mm": -0.0,
+      "contact_vertices": 16,
+      "contact_span_xy_mm": [
+        114.24,
+        328.0
+      ]
+    },
+    "r": {
+      "lowest_z_mm": -0.0,
+      "contact_vertices": 16,
+      "contact_span_xy_mm": [
+        114.24,
+        328.0
+      ]
+    }
+  },
+  "chain_to_body_armor": {
+    "MantleAndSpine": {
+      "millimetres": 4.2282,
+      "crossing_triangle_pairs": 0
+    },
+    "RibHarness": {
+      "millimetres": 36.9239,
+      "crossing_triangle_pairs": 0
+    },
+    "FurnaceShutters": {
+      "millimetres": 51.7924,
+      "crossing_triangle_pairs": 0
+    },
+    "BoxPauldron_l": {
+      "millimetres": 16.3654,
+      "crossing_triangle_pairs": 0
+    },
+    "BoxPauldron_r": {
+      "millimetres": 16.3654,
+      "crossing_triangle_pairs": 0
+    }
+  },
+  "adjacent_links_right_to_left": [
+    {
+      "millimetres": 0.1254,
+      "crossing_triangle_pairs": 0
+    },
+    {
+      "millimetres": 0.0588,
+      "crossing_triangle_pairs": 0
+    },
+    {
+      "millimetres": 0.1556,
+      "crossing_triangle_pairs": 0
+    },
+    {
+      "millimetres": 0.1556,
+      "crossing_triangle_pairs": 0
+    },
+    {
+      "millimetres": 0.0588,
+      "crossing_triangle_pairs": 0
+    },
+    {
+      "millimetres": 0.1254,
+      "crossing_triangle_pairs": 0
+    }
+  ],
+  "terminal_link_to_socket": {
+    "l": {
+      "millimetres": 0.0,
+      "crossing_triangle_pairs": 120
+    },
+    "r": {
+      "millimetres": 0.0,
+      "crossing_triangle_pairs": 131
+    }
+  },
+  "gauntlet_cuff_to_vambrace": {
+    "l": {
+      "millimetres": 3.8058,
+      "crossing_triangle_pairs": 0
+    },
+    "r": {
+      "millimetres": 3.8058,
+      "crossing_triangle_pairs": 0
+    }
+  },
+  "socket_design": "The terminal links are captured inside each closed fist. Their embedded sections meet the iron of the sockets.",
+  "fit_pass": true
+}

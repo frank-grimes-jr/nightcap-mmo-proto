@@ -1,0 +1,1007 @@
+{
+    "unity": "6000.5.7f1",
+    "device": "NVIDIA GeForce GTX 1660 Ti",
+    "avatar": "DarkElfFemaleAvatar",
+    "passed": true,
+    "forwardZ": true,
+    "rootIdentity": true,
+    "edgeCameraPassed": false,
+    "renderers": 34,
+    "rigTransforms": 53,
+    "clips": 0,
+    "allTriangles": 131488,
+    "dressedTriangles": 109276,
+    "distancePixels": 0,
+    "stationaryFrames": 12,
+    "jointDriftMetres": 0.0,
+    "barefoot": 1.6999998092651368,
+    "equipped": 1.7139570713043213,
+    "leftSole": -1.6391277313232423e-7,
+    "rightSole": -1.6391277313232423e-7,
+    "edgePixelRetention": 0.0,
+    "meshes": [
+        {
+            "name": "Binding | Reed band and ferry knot",
+            "material": "Wool and resist print / Pitch-soaked reed / Flax cord / Madder binding",
+            "triangles": 9640,
+            "influences": 1,
+            "bindings": 53,
+            "uvCount": 5180,
+            "vertices": 5180,
+            "weightError": 0.0,
+            "boundsEscape": 0.0,
+            "min": {
+                "x": -0.17945820093154908,
+                "y": 1.0360026359558106,
+                "z": -0.1349165439605713
+            },
+            "max": {
+                "x": 0.18118149042129517,
+                "y": 1.1119968891143799,
+                "z": 0.17433947324752809
+            }
+        },
+        {
+            "name": "Eyes | Copper pair",
+            "material": "Copper iris",
+            "triangles": 280,
+            "influences": 1,
+            "bindings": 53,
+            "uvCount": 144,
+            "vertices": 144,
+            "weightError": 0.0,
+            "boundsEscape": 0.0,
+            "min": {
+                "x": -0.04903880134224892,
+                "y": 1.5640757083892823,
+                "z": 0.0992879867553711
+            },
+            "max": {
+                "x": 0.049038808792829517,
+                "y": 1.5972216129302979,
+                "z": 0.13464415073394776
+            }
+        },
+        {
+            "name": "Face | Ash brows",
+            "material": "Ash brows",
+            "triangles": 256,
+            "influences": 1,
+            "bindings": 53,
+            "uvCount": 198,
+            "vertices": 198,
+            "weightError": 0.0,
+            "boundsEscape": 0.0,
+            "min": {
+                "x": -0.06293350458145142,
+                "y": 1.5948898792266846,
+                "z": 0.11601662635803223
+            },
+            "max": {
+                "x": 0.06293350458145142,
+                "y": 1.6089580059051514,
+                "z": 0.151716947555542
+            }
+        },
+        {
+            "name": "Face | Modelled pinna l",
+            "material": "Auricle paint",
+            "triangles": 1680,
+            "influences": 1,
+            "bindings": 53,
+            "uvCount": 868,
+            "vertices": 868,
+            "weightError": 0.0,
+            "boundsEscape": 0.0,
+            "min": {
+                "x": -0.156000018119812,
+                "y": 1.5479998588562012,
+                "z": -0.021210432052612306
+            },
+            "max": {
+                "x": -0.06834521889686585,
+                "y": 1.6219115257263184,
+                "z": 0.07499980926513672
+            }
+        },
+        {
+            "name": "Face | Modelled pinna r",
+            "material": "Auricle paint",
+            "triangles": 1680,
+            "influences": 1,
+            "bindings": 53,
+            "uvCount": 868,
+            "vertices": 868,
+            "weightError": 0.0,
+            "boundsEscape": 0.0,
+            "min": {
+                "x": 0.06834521889686585,
+                "y": 1.5479998588562012,
+                "z": -0.02133190631866455
+            },
+            "max": {
+                "x": 0.156000018119812,
+                "y": 1.6219115257263184,
+                "z": 0.07499980926513672
+            }
+        },
+        {
+            "name": "Habit | Cut sleeve l",
+            "material": "Wool and resist print / Pitch-soaked reed / Flax cord / Madder binding",
+            "triangles": 3576,
+            "influences": 2,
+            "bindings": 53,
+            "uvCount": 2034,
+            "vertices": 2034,
+            "weightError": 2.9802322387695315e-8,
+            "boundsEscape": 0.0,
+            "min": {
+                "x": -0.4740368127822876,
+                "y": 1.0068738460540772,
+                "z": -0.061559438705444339
+            },
+            "max": {
+                "x": -0.08800351619720459,
+                "y": 1.404905080795288,
+                "z": 0.1908804178237915
+            }
+        },
+        {
+            "name": "Habit | Cut sleeve r",
+            "material": "Wool and resist print / Pitch-soaked reed / Flax cord / Madder binding",
+            "triangles": 4896,
+            "influences": 2,
+            "bindings": 53,
+            "uvCount": 2736,
+            "vertices": 2736,
+            "weightError": 2.9802322387695315e-8,
+            "boundsEscape": 0.0,
+            "min": {
+                "x": 0.08808976411819458,
+                "y": 1.0062363147735596,
+                "z": -0.061559438705444339
+            },
+            "max": {
+                "x": 0.47339457273483279,
+                "y": 1.404905080795288,
+                "z": 0.1908804178237915
+            }
+        },
+        {
+            "name": "Habit | East breadth",
+            "material": "Wool and resist print / Pitch-soaked reed",
+            "triangles": 3676,
+            "influences": 2,
+            "bindings": 53,
+            "uvCount": 2116,
+            "vertices": 2116,
+            "weightError": 2.9802322387695315e-8,
+            "boundsEscape": 0.0,
+            "min": {
+                "x": -0.3200097382068634,
+                "y": 0.14550155401229859,
+                "z": -0.06500381231307984
+            },
+            "max": {
+                "x": -0.025536328554153444,
+                "y": 1.4259998798370362,
+                "z": 0.192113995552063
+            }
+        },
+        {
+            "name": "Habit | Funeral road front",
+            "material": "Wool and resist print / Pitch-soaked reed",
+            "triangles": 3676,
+            "influences": 2,
+            "bindings": 53,
+            "uvCount": 2112,
+            "vertices": 2112,
+            "weightError": 2.9802322387695315e-8,
+            "boundsEscape": 0.0,
+            "min": {
+                "x": -0.13973550498485566,
+                "y": 0.10373616218566895,
+                "z": 0.037546634674072269
+            },
+            "max": {
+                "x": 0.2661868929862976,
+                "y": 1.4259997606277466,
+                "z": 0.23151975870132447
+            }
+        },
+        {
+            "name": "Habit | Joined back",
+            "material": "Wool and resist print / Pitch-soaked reed",
+            "triangles": 3676,
+            "influences": 2,
+            "bindings": 53,
+            "uvCount": 2112,
+            "vertices": 2112,
+            "weightError": 2.9802322387695315e-8,
+            "boundsEscape": 0.0,
+            "min": {
+                "x": -0.25689879059791567,
+                "y": 0.09640359878540039,
+                "z": -0.18342924118041993
+            },
+            "max": {
+                "x": 0.1326363980770111,
+                "y": 1.425999641418457,
+                "z": -0.01234591007232666
+            }
+        },
+        {
+            "name": "Habit | Madder sounding chart",
+            "material": "Pall and dike chart / Madder binding / Flax cord / Pitch-soaked reed",
+            "triangles": 9076,
+            "influences": 2,
+            "bindings": 53,
+            "uvCount": 5003,
+            "vertices": 5003,
+            "weightError": 2.9802322387695315e-8,
+            "boundsEscape": 0.0,
+            "min": {
+                "x": -0.3216114342212677,
+                "y": 0.3080713748931885,
+                "z": -0.1865571141242981
+            },
+            "max": {
+                "x": 0.24940189719200135,
+                "y": 1.0759999752044678,
+                "z": 0.217314213514328
+            }
+        },
+        {
+            "name": "Habit | West breadth",
+            "material": "Wool and resist print / Pitch-soaked reed",
+            "triangles": 3676,
+            "influences": 2,
+            "bindings": 53,
+            "uvCount": 2108,
+            "vertices": 2108,
+            "weightError": 2.9802322387695315e-8,
+            "boundsEscape": 0.0,
+            "min": {
+                "x": 0.024642854928970338,
+                "y": 0.09752565622329712,
+                "z": -0.14368239045143128
+            },
+            "max": {
+                "x": 0.31613391637802126,
+                "y": 1.425999641418457,
+                "z": 0.10686224699020386
+            }
+        },
+        {
+            "name": "Hair | Bound ferrule 1",
+            "material": "Worn brass",
+            "triangles": 256,
+            "influences": 1,
+            "bindings": 53,
+            "uvCount": 136,
+            "vertices": 136,
+            "weightError": 0.0,
+            "boundsEscape": 0.0,
+            "min": {
+                "x": 0.07262091338634491,
+                "y": 1.564028024673462,
+                "z": 0.0894472599029541
+            },
+            "max": {
+                "x": 0.09895507991313935,
+                "y": 1.5761187076568604,
+                "z": 0.11205863952636719
+            }
+        },
+        {
+            "name": "Hair | Bound ferrule 2",
+            "material": "Worn brass",
+            "triangles": 256,
+            "influences": 1,
+            "bindings": 53,
+            "uvCount": 136,
+            "vertices": 136,
+            "weightError": 0.0,
+            "boundsEscape": 0.0,
+            "min": {
+                "x": 0.08966091275215149,
+                "y": 1.4292726516723633,
+                "z": 0.10474145412445069
+            },
+            "max": {
+                "x": 0.11599507927894592,
+                "y": 1.4411578178405762,
+                "z": 0.12721049785614015
+            }
+        },
+        {
+            "name": "Hair | Braid strand 1",
+            "material": "Combed ivory",
+            "triangles": 2160,
+            "influences": 1,
+            "bindings": 53,
+            "uvCount": 1188,
+            "vertices": 1188,
+            "weightError": 0.0,
+            "boundsEscape": 0.0,
+            "min": {
+                "x": 0.06924286484718323,
+                "y": 1.4155654907226563,
+                "z": 0.0880047082901001
+            },
+            "max": {
+                "x": 0.11395609378814697,
+                "y": 1.6111245155334473,
+                "z": 0.12604761123657227
+            }
+        },
+        {
+            "name": "Hair | Braid strand 2",
+            "material": "Combed ivory",
+            "triangles": 2160,
+            "influences": 1,
+            "bindings": 53,
+            "uvCount": 1188,
+            "vertices": 1188,
+            "weightError": 0.0,
+            "boundsEscape": 0.0,
+            "min": {
+                "x": 0.07335391640663147,
+                "y": 1.4153399467468262,
+                "z": 0.08823418617248535
+            },
+            "max": {
+                "x": 0.11178998649120331,
+                "y": 1.611741304397583,
+                "z": 0.12528741359710694
+            }
+        },
+        {
+            "name": "Hair | Braid strand 3",
+            "material": "Combed ivory",
+            "triangles": 2160,
+            "influences": 1,
+            "bindings": 53,
+            "uvCount": 1188,
+            "vertices": 1188,
+            "weightError": 0.0,
+            "boundsEscape": 0.0,
+            "min": {
+                "x": 0.07119597494602204,
+                "y": 1.4153053760528565,
+                "z": 0.08936107158660889
+            },
+            "max": {
+                "x": 0.11516563594341278,
+                "y": 1.611046314239502,
+                "z": 0.12399065494537354
+            }
+        },
+        {
+            "name": "Hair | Swept forelock 1",
+            "material": "Combed ivory",
+            "triangles": 1040,
+            "influences": 1,
+            "bindings": 53,
+            "uvCount": 522,
+            "vertices": 522,
+            "weightError": 0.0,
+            "boundsEscape": 0.0,
+            "min": {
+                "x": -0.04634999856352806,
+                "y": 1.576667308807373,
+                "z": 0.08167564868927002
+            },
+            "max": {
+                "x": 0.07035000622272492,
+                "y": 1.689363956451416,
+                "z": 0.14570975303649903
+            }
+        },
+        {
+            "name": "Hair | Swept forelock 2",
+            "material": "Combed ivory",
+            "triangles": 1040,
+            "influences": 1,
+            "bindings": 53,
+            "uvCount": 522,
+            "vertices": 522,
+            "weightError": 0.0,
+            "boundsEscape": 0.0,
+            "min": {
+                "x": -0.04038500040769577,
+                "y": 1.564634084701538,
+                "z": 0.07269811630249024
+            },
+            "max": {
+                "x": 0.0803849995136261,
+                "y": 1.6993653774261475,
+                "z": 0.1469104290008545
+            }
+        },
+        {
+            "name": "Hair | Swept forelock 3",
+            "material": "Combed ivory",
+            "triangles": 1040,
+            "influences": 1,
+            "bindings": 53,
+            "uvCount": 522,
+            "vertices": 522,
+            "weightError": 0.0,
+            "boundsEscape": 0.0,
+            "min": {
+                "x": -0.03435000032186508,
+                "y": 1.5556674003601075,
+                "z": 0.06383144855499268
+            },
+            "max": {
+                "x": 0.08534999191761017,
+                "y": 1.7053322792053223,
+                "z": 0.14684855937957765
+            }
+        },
+        {
+            "name": "Hair | Swept forelock 4",
+            "material": "Combed ivory",
+            "triangles": 1040,
+            "influences": 1,
+            "bindings": 53,
+            "uvCount": 522,
+            "vertices": 522,
+            "weightError": 0.0,
+            "boundsEscape": 0.0,
+            "min": {
+                "x": -0.05019250139594078,
+                "y": 1.6088061332702637,
+                "z": 0.09589648246765137
+            },
+            "max": {
+                "x": 0.056192491203546527,
+                "y": 1.679605484008789,
+                "z": 0.14754807949066163
+            }
+        },
+        {
+            "name": "Hair | Swept ivory bob",
+            "material": "Combed ivory",
+            "triangles": 5504,
+            "influences": 1,
+            "bindings": 53,
+            "uvCount": 3166,
+            "vertices": 3166,
+            "weightError": 0.0,
+            "boundsEscape": 0.0,
+            "min": {
+                "x": -0.09833276271820069,
+                "y": 1.442924976348877,
+                "z": -0.07444190979003906
+            },
+            "max": {
+                "x": 0.09824013710021973,
+                "y": 1.7139568328857422,
+                "z": 0.1421264410018921
+            }
+        },
+        {
+            "name": "Pall | Fired name slips",
+            "material": "Madder binding / Chalk slip / Smoke fired clay / Pitch-soaked reed",
+            "triangles": 588,
+            "influences": 3,
+            "bindings": 53,
+            "uvCount": 844,
+            "vertices": 844,
+            "weightError": 8.288770914077759e-8,
+            "boundsEscape": 0.0,
+            "min": {
+                "x": -0.34601062536239626,
+                "y": 1.0454034805297852,
+                "z": -0.15247678756713868
+            },
+            "max": {
+                "x": 0.09584587812423706,
+                "y": 1.277848720550537,
+                "z": 0.17887049913406373
+            }
+        },
+        {
+            "name": "Pall | Pierced reed shuttle",
+            "material": "Pitch-soaked reed / Rubbed copper / Madder binding",
+            "triangles": 1236,
+            "influences": 1,
+            "bindings": 53,
+            "uvCount": 808,
+            "vertices": 808,
+            "weightError": 0.0,
+            "boundsEscape": 0.0,
+            "min": {
+                "x": -0.12056180089712143,
+                "y": 1.3323006629943848,
+                "z": 0.052951812744140628
+            },
+            "max": {
+                "x": 0.00678534060716629,
+                "y": 1.423872470855713,
+                "z": 0.16222095489501954
+            }
+        },
+        {
+            "name": "Pall | Seventeen gathered folds",
+            "material": "Pall and dike chart / Flax cord / Madder binding / Pitch-soaked reed",
+            "triangles": 15880,
+            "influences": 3,
+            "bindings": 53,
+            "uvCount": 19360,
+            "vertices": 19360,
+            "weightError": 8.940696716308594e-8,
+            "boundsEscape": 0.0,
+            "min": {
+                "x": -0.3774338662624359,
+                "y": 1.06119966506958,
+                "z": -0.16099190711975099
+            },
+            "max": {
+                "x": 0.1604888141155243,
+                "y": 1.4341721534729005,
+                "z": 0.21861636638641358
+            }
+        },
+        {
+            "name": "Skin | Covered limbs and torso",
+            "material": "Indigo skin",
+            "triangles": 11420,
+            "influences": 4,
+            "bindings": 53,
+            "uvCount": 6276,
+            "vertices": 6276,
+            "weightError": 1.2479722499847413e-7,
+            "boundsEscape": 0.0,
+            "min": {
+                "x": -0.45002418756484988,
+                "y": -5.960464477539063e-8,
+                "z": -0.09205031394958496
+            },
+            "max": {
+                "x": 0.45002418756484988,
+                "y": 1.4565091133117676,
+                "z": 0.29080599546432497
+            }
+        },
+        {
+            "name": "Skin | Head neck and hands",
+            "material": "Indigo skin",
+            "triangles": 15336,
+            "influences": 4,
+            "bindings": 53,
+            "uvCount": 8392,
+            "vertices": 8392,
+            "weightError": 1.1548399925231934e-7,
+            "boundsEscape": 0.0,
+            "min": {
+                "x": -0.5170854330062866,
+                "y": 0.9072403907775879,
+                "z": -0.060747385025024417
+            },
+            "max": {
+                "x": 0.5170854330062866,
+                "y": 1.6999998092651368,
+                "z": 0.3218468427658081
+            }
+        },
+        {
+            "name": "Underlayer | Fitted linen shift",
+            "material": "Wool and resist print",
+            "triangles": 10792,
+            "influences": 2,
+            "bindings": 53,
+            "uvCount": 5464,
+            "vertices": 5464,
+            "weightError": 2.9802322387695315e-8,
+            "boundsEscape": 0.0,
+            "min": {
+                "x": -0.20710782706737519,
+                "y": 0.625961184501648,
+                "z": -0.10668808221817017
+            },
+            "max": {
+                "x": 0.2071077972650528,
+                "y": 1.4419995546340943,
+                "z": 0.16569507122039796
+            }
+        },
+        {
+            "name": "Underlayer | River leather boots",
+            "material": "Wool and resist print",
+            "triangles": 1668,
+            "influences": 2,
+            "bindings": 53,
+            "uvCount": 1094,
+            "vertices": 1094,
+            "weightError": 2.9802322387695315e-8,
+            "boundsEscape": 0.0,
+            "min": {
+                "x": -0.2474730759859085,
+                "y": -1.6391277313232423e-7,
+                "z": -0.045157693326473239
+            },
+            "max": {
+                "x": 0.2474730759859085,
+                "y": 0.2798998951911926,
+                "z": 0.21514153480529786
+            }
+        },
+        {
+            "name": "Voices | Breath above the open throat",
+            "material": "Condensed breath",
+            "triangles": 3528,
+            "influences": 1,
+            "bindings": 53,
+            "uvCount": 2653,
+            "vertices": 2653,
+            "weightError": 0.0,
+            "boundsEscape": 0.0,
+            "min": {
+                "x": 0.1951940953731537,
+                "y": 1.015110731124878,
+                "z": 0.143304705619812
+            },
+            "max": {
+                "x": 0.2520098388195038,
+                "y": 1.1496899127960206,
+                "z": 0.19207066297531129
+            }
+        },
+        {
+            "name": "Voices | Open throat",
+            "material": "Smoke fired clay / Cut slip and firing clouds / Chalk slip / Pitch-soaked reed",
+            "triangles": 2684,
+            "influences": 1,
+            "bindings": 53,
+            "uvCount": 1492,
+            "vertices": 1492,
+            "weightError": 0.0,
+            "boundsEscape": 0.0,
+            "min": {
+                "x": 0.13101473450660706,
+                "y": 0.8409422636032105,
+                "z": 0.06654781103134155
+            },
+            "max": {
+                "x": 0.24295756220817567,
+                "y": 1.0215158462524415,
+                "z": 0.17163962125778199
+            }
+        },
+        {
+            "name": "Voices | Reed rack and cords",
+            "material": "Pitch-soaked reed / Flax cord",
+            "triangles": 360,
+            "influences": 1,
+            "bindings": 53,
+            "uvCount": 286,
+            "vertices": 286,
+            "weightError": 0.0,
+            "boundsEscape": 0.0,
+            "min": {
+                "x": 0.12958040833473206,
+                "y": 0.8762004375457764,
+                "z": -0.08142626285552979
+            },
+            "max": {
+                "x": 0.2650562822818756,
+                "y": 1.0876966714859009,
+                "z": 0.13133668899536134
+            }
+        },
+        {
+            "name": "Voices | Small witness",
+            "material": "Smoke fired clay / Cut slip and firing clouds / Chalk slip / Pitch-soaked reed / Sealing wax",
+            "triangles": 2776,
+            "influences": 1,
+            "bindings": 53,
+            "uvCount": 1572,
+            "vertices": 1572,
+            "weightError": 0.0,
+            "boundsEscape": 0.0,
+            "min": {
+                "x": 0.20133131742477418,
+                "y": 0.8019312620162964,
+                "z": -0.05385315418243408
+            },
+            "max": {
+                "x": 0.28075110912323,
+                "y": 0.9241007566452026,
+                "z": 0.020048797130584718
+            }
+        },
+        {
+            "name": "Voices | Wax-stopped throat",
+            "material": "Smoke fired clay / Cut slip and firing clouds / Chalk slip / Pitch-soaked reed / Sealing wax",
+            "triangles": 2776,
+            "influences": 1,
+            "bindings": 53,
+            "uvCount": 1572,
+            "vertices": 1572,
+            "weightError": 0.0,
+            "boundsEscape": 0.0,
+            "min": {
+                "x": 0.1852133870124817,
+                "y": 0.8183567523956299,
+                "z": 0.014256417751312256
+            },
+            "max": {
+                "x": 0.2776382565498352,
+                "y": 0.9668649435043335,
+                "z": 0.10087412595748902
+            }
+        }
+    ],
+    "mapping": [
+        {
+            "human": "Hips",
+            "bone": "pelvis"
+        },
+        {
+            "human": "LeftUpperLeg",
+            "bone": "thigh_l"
+        },
+        {
+            "human": "RightUpperLeg",
+            "bone": "thigh_r"
+        },
+        {
+            "human": "LeftLowerLeg",
+            "bone": "calf_l"
+        },
+        {
+            "human": "RightLowerLeg",
+            "bone": "calf_r"
+        },
+        {
+            "human": "LeftFoot",
+            "bone": "foot_l"
+        },
+        {
+            "human": "RightFoot",
+            "bone": "foot_r"
+        },
+        {
+            "human": "Spine",
+            "bone": "spine_01"
+        },
+        {
+            "human": "Chest",
+            "bone": "spine_02"
+        },
+        {
+            "human": "Neck",
+            "bone": "neck_01"
+        },
+        {
+            "human": "Head",
+            "bone": "head"
+        },
+        {
+            "human": "LeftShoulder",
+            "bone": "clavicle_l"
+        },
+        {
+            "human": "RightShoulder",
+            "bone": "clavicle_r"
+        },
+        {
+            "human": "LeftUpperArm",
+            "bone": "upperarm_l"
+        },
+        {
+            "human": "RightUpperArm",
+            "bone": "upperarm_r"
+        },
+        {
+            "human": "LeftLowerArm",
+            "bone": "lowerarm_l"
+        },
+        {
+            "human": "RightLowerArm",
+            "bone": "lowerarm_r"
+        },
+        {
+            "human": "LeftHand",
+            "bone": "hand_l"
+        },
+        {
+            "human": "RightHand",
+            "bone": "hand_r"
+        },
+        {
+            "human": "LeftToes",
+            "bone": "ball_l"
+        },
+        {
+            "human": "RightToes",
+            "bone": "ball_r"
+        },
+        {
+            "human": "Left Thumb Proximal",
+            "bone": "thumb_01_l"
+        },
+        {
+            "human": "Left Thumb Intermediate",
+            "bone": "thumb_02_l"
+        },
+        {
+            "human": "Left Thumb Distal",
+            "bone": "thumb_03_l"
+        },
+        {
+            "human": "Left Index Proximal",
+            "bone": "index_01_l"
+        },
+        {
+            "human": "Left Index Intermediate",
+            "bone": "index_02_l"
+        },
+        {
+            "human": "Left Index Distal",
+            "bone": "index_03_l"
+        },
+        {
+            "human": "Left Middle Proximal",
+            "bone": "middle_01_l"
+        },
+        {
+            "human": "Left Middle Intermediate",
+            "bone": "middle_02_l"
+        },
+        {
+            "human": "Left Middle Distal",
+            "bone": "middle_03_l"
+        },
+        {
+            "human": "Left Ring Proximal",
+            "bone": "ring_01_l"
+        },
+        {
+            "human": "Left Ring Intermediate",
+            "bone": "ring_02_l"
+        },
+        {
+            "human": "Left Ring Distal",
+            "bone": "ring_03_l"
+        },
+        {
+            "human": "Left Little Proximal",
+            "bone": "pinky_01_l"
+        },
+        {
+            "human": "Left Little Intermediate",
+            "bone": "pinky_02_l"
+        },
+        {
+            "human": "Left Little Distal",
+            "bone": "pinky_03_l"
+        },
+        {
+            "human": "Right Thumb Proximal",
+            "bone": "thumb_01_r"
+        },
+        {
+            "human": "Right Thumb Intermediate",
+            "bone": "thumb_02_r"
+        },
+        {
+            "human": "Right Thumb Distal",
+            "bone": "thumb_03_r"
+        },
+        {
+            "human": "Right Index Proximal",
+            "bone": "index_01_r"
+        },
+        {
+            "human": "Right Index Intermediate",
+            "bone": "index_02_r"
+        },
+        {
+            "human": "Right Index Distal",
+            "bone": "index_03_r"
+        },
+        {
+            "human": "Right Middle Proximal",
+            "bone": "middle_01_r"
+        },
+        {
+            "human": "Right Middle Intermediate",
+            "bone": "middle_02_r"
+        },
+        {
+            "human": "Right Middle Distal",
+            "bone": "middle_03_r"
+        },
+        {
+            "human": "Right Ring Proximal",
+            "bone": "ring_01_r"
+        },
+        {
+            "human": "Right Ring Intermediate",
+            "bone": "ring_02_r"
+        },
+        {
+            "human": "Right Ring Distal",
+            "bone": "ring_03_r"
+        },
+        {
+            "human": "Right Little Proximal",
+            "bone": "pinky_01_r"
+        },
+        {
+            "human": "Right Little Intermediate",
+            "bone": "pinky_02_r"
+        },
+        {
+            "human": "Right Little Distal",
+            "bone": "pinky_03_r"
+        },
+        {
+            "human": "UpperChest",
+            "bone": "spine_03"
+        }
+    ],
+    "textures": [
+        {
+            "name": "Auricle",
+            "format": "BC7",
+            "size": 512,
+            "height": 512,
+            "mips": 10,
+            "sRGB": true
+        },
+        {
+            "name": "Copper-Iris",
+            "format": "BC7",
+            "size": 512,
+            "height": 512,
+            "mips": 10,
+            "sRGB": true
+        },
+        {
+            "name": "Ebb-Pall",
+            "format": "BC7",
+            "size": 2048,
+            "height": 2048,
+            "mips": 12,
+            "sRGB": true
+        },
+        {
+            "name": "Ebb-Procession",
+            "format": "BC7",
+            "size": 2048,
+            "height": 2048,
+            "mips": 12,
+            "sRGB": true
+        },
+        {
+            "name": "Ebb-Stoneware",
+            "format": "BC7",
+            "size": 1024,
+            "height": 512,
+            "mips": 11,
+            "sRGB": true
+        },
+        {
+            "name": "Indigo-Skin",
+            "format": "BC7",
+            "size": 1024,
+            "height": 1024,
+            "mips": 11,
+            "sRGB": true
+        },
+        {
+            "name": "Ivory-Locks",
+            "format": "BC7",
+            "size": 512,
+            "height": 512,
+            "mips": 10,
+            "sRGB": true
+        }
+    ],
+    "errors": []
+}

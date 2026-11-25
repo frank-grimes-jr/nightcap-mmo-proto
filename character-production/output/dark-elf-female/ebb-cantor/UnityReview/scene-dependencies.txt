@@ -1,0 +1,29 @@
+Assets/NightcapDarkElfFemale/ebb-cantor/Materials/Madder binding.mat
+Assets/NightcapDarkElfFemale/ebb-cantor/Materials/Pitch-soaked reed.mat
+Assets/NightcapDarkElfFemale/ebb-cantor/Review/Matte Gray.mat
+Assets/NightcapDarkElfFemale/ebb-cantor/Materials/Condensed breath.mat
+Assets/NightcapDarkElfFemale/ebb-cantor/Materials/Ash brows.mat
+Assets/NightcapDarkElfFemale/ebb-cantor/Model/DarkElfFemale.fbx
+Assets/NightcapDarkElfFemale/ebb-cantor/Prefab/DarkElfFemale.prefab
+Assets/NightcapDarkElfFemale/ebb-cantor/Textures/Indigo-Skin.png
+Assets/NightcapDarkElfFemale/ebb-cantor/Textures/Copper-Iris.png
+Assets/NightcapDarkElfFemale/ebb-cantor/Textures/Ebb-Pall.png
+Assets/NightcapDarkElfFemale/ebb-cantor/Textures/Ebb-Stoneware.png
+Assets/NightcapHumans/PaintedCharacter.shader
+Assets/NightcapDarkElfFemale/ebb-cantor/Textures/Ivory-Locks.png
+Assets/NightcapDarkElfFemale/ebb-cantor/Textures/Auricle.png
+Assets/NightcapDarkElfFemale/ebb-cantor/Materials/Chalk slip.mat
+Assets/NightcapDarkElfFemale/ebb-cantor/Materials/Pall and dike chart.mat
+Assets/NightcapDarkElfFemale/ebb-cantor/Materials/Cut slip and firing clouds.mat
+Assets/NightcapDarkElfFemale/ebb-cantor/Materials/Worn brass.mat
+Assets/NightcapDarkElfFemale/ebb-cantor/Materials/Auricle paint.mat
+Assets/NightcapDarkElfFemale/ebb-cantor/Materials/Flax cord.mat
+Assets/NightcapDarkElfFemale/ebb-cantor/Materials/Sealing wax.mat
+Assets/NightcapDarkElfFemale/ebb-cantor/Materials/Indigo skin.mat
+Assets/NightcapDarkElfFemale/ebb-cantor/Review/DarkElfFemale_RobeReview.unity
+Assets/NightcapDarkElfFemale/ebb-cantor/Materials/Copper iris.mat
+Assets/NightcapDarkElfFemale/ebb-cantor/Materials/Wool and resist print.mat
+Assets/NightcapDarkElfFemale/ebb-cantor/Materials/Smoke fired clay.mat
+Assets/NightcapDarkElfFemale/ebb-cantor/Textures/Ebb-Procession.png
+Assets/NightcapDarkElfFemale/ebb-cantor/Materials/Combed ivory.mat
+Assets/NightcapDarkElfFemale/ebb-cantor/Materials/Rubbed copper.mat

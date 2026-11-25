@@ -1,0 +1,1068 @@
+{
+    "unity": "6000.5.7f1",
+    "device": "NVIDIA GeForce GTX 1660 Ti",
+    "avatar": "DarkElfMaleAvatar",
+    "passed": true,
+    "forwardZ": true,
+    "rootIdentity": true,
+    "edgeCameraPassed": false,
+    "renderers": 38,
+    "rigTransforms": 53,
+    "clips": 0,
+    "allTriangles": 52884,
+    "dressedTriangles": 31324,
+    "distancePixels": 0,
+    "barefoot": 1.8199992179870606,
+    "equipped": 1.856999158859253,
+    "leftSole": 1.1175870895385743e-8,
+    "rightSole": 1.1175870895385743e-8,
+    "edgePixelRetention": 0.0,
+    "meshes": [
+        {
+            "name": "DarkElf_AmberEyes",
+            "material": "Amber Eyes",
+            "triangles": 280,
+            "influences": 1,
+            "bindings": 53,
+            "uvCount": 144,
+            "vertices": 144,
+            "weightError": 0.0,
+            "boundsEscape": 0.0,
+            "min": {
+                "x": -0.04647665098309517,
+                "y": 1.6930902004241944,
+                "z": 0.1174393892288208
+            },
+            "max": {
+                "x": 0.046476658433675769,
+                "y": 1.7227625846862794,
+                "z": 0.15117478370666505
+            }
+        },
+        {
+            "name": "DarkElf_Brows",
+            "material": "Ash Brows",
+            "triangles": 256,
+            "influences": 1,
+            "bindings": 53,
+            "uvCount": 198,
+            "vertices": 198,
+            "weightError": 0.0,
+            "boundsEscape": 0.0,
+            "min": {
+                "x": -0.0629621148109436,
+                "y": 1.720191478729248,
+                "z": 0.12801432609558106
+            },
+            "max": {
+                "x": 0.0629621148109436,
+                "y": 1.7347838878631592,
+                "z": 0.16239988803863526
+            }
+        },
+        {
+            "name": "DarkElf_CoveredBody",
+            "material": "Indigo Skin",
+            "triangles": 17912,
+            "influences": 4,
+            "bindings": 53,
+            "uvCount": 9926,
+            "vertices": 9926,
+            "weightError": 1.2479722499847413e-7,
+            "boundsEscape": 0.0,
+            "min": {
+                "x": -0.5890787243843079,
+                "y": -5.960464477539063e-8,
+                "z": -0.09576469659805298
+            },
+            "max": {
+                "x": 0.5890787243843079,
+                "y": 1.5256156921386719,
+                "z": 0.38995563983917239
+            }
+        },
+        {
+            "name": "DarkElf_HeadAndNeck",
+            "material": "Indigo Skin",
+            "triangles": 8844,
+            "influences": 4,
+            "bindings": 53,
+            "uvCount": 4646,
+            "vertices": 4646,
+            "weightError": 1.1548399925231934e-7,
+            "boundsEscape": 0.0,
+            "min": {
+                "x": -0.19147749245166779,
+                "y": 1.5101041793823243,
+                "z": -0.05712103843688965
+            },
+            "max": {
+                "x": 0.1914774626493454,
+                "y": 1.8199992179870606,
+                "z": 0.18117380142211915
+            }
+        },
+        {
+            "name": "DarkElf_SweptIvory",
+            "material": "Swept Ivory",
+            "triangles": 3648,
+            "influences": 1,
+            "bindings": 53,
+            "uvCount": 2232,
+            "vertices": 2232,
+            "weightError": 0.0,
+            "boundsEscape": 0.0,
+            "min": {
+                "x": -0.09063690900802612,
+                "y": 1.686525821685791,
+                "z": -0.07060098648071289
+            },
+            "max": {
+                "x": 0.09435468912124634,
+                "y": 1.8407552242279053,
+                "z": 0.14023566246032716
+            }
+        },
+        {
+            "name": "Warden_BeltAndFauld",
+            "material": "Banked Iron",
+            "triangles": 236,
+            "influences": 1,
+            "bindings": 53,
+            "uvCount": 420,
+            "vertices": 420,
+            "weightError": 0.0,
+            "boundsEscape": 0.0,
+            "min": {
+                "x": -0.16899999976158143,
+                "y": 1.0159995555877686,
+                "z": -0.127000093460083
+            },
+            "max": {
+                "x": 0.16899999976158143,
+                "y": 1.0979998111724854,
+                "z": 0.20951992273330689
+            }
+        },
+        {
+            "name": "Warden_BoxPauldron_l",
+            "material": "Banked Iron",
+            "triangles": 140,
+            "influences": 1,
+            "bindings": 53,
+            "uvCount": 236,
+            "vertices": 236,
+            "weightError": 0.0,
+            "boundsEscape": 0.0,
+            "min": {
+                "x": -0.40800008177757265,
+                "y": 1.3799998760223389,
+                "z": -0.11500000953674317
+            },
+            "max": {
+                "x": -0.14699998497962953,
+                "y": 1.6279997825622559,
+                "z": 0.1679999828338623
+            }
+        },
+        {
+            "name": "Warden_BoxPauldron_r",
+            "material": "Banked Iron",
+            "triangles": 140,
+            "influences": 1,
+            "bindings": 53,
+            "uvCount": 236,
+            "vertices": 236,
+            "weightError": 0.0,
+            "boundsEscape": 0.0,
+            "min": {
+                "x": 0.14699998497962953,
+                "y": 1.3799998760223389,
+                "z": -0.11500000953674317
+            },
+            "max": {
+                "x": 0.40800008177757265,
+                "y": 1.6279997825622559,
+                "z": 0.1679999828338623
+            }
+        },
+        {
+            "name": "Warden_Cuisses_l",
+            "material": "Banked Iron",
+            "triangles": 160,
+            "influences": 1,
+            "bindings": 53,
+            "uvCount": 274,
+            "vertices": 274,
+            "weightError": 0.0,
+            "boundsEscape": 0.0,
+            "min": {
+                "x": -0.23493227362632752,
+                "y": 0.5963948965072632,
+                "z": -0.11495649814605713
+            },
+            "max": {
+                "x": -0.020376384258270265,
+                "y": 0.8871359825134277,
+                "z": 0.126481831073761
+            }
+        },
+        {
+            "name": "Warden_Cuisses_r",
+            "material": "Banked Iron",
+            "triangles": 160,
+            "influences": 1,
+            "bindings": 53,
+            "uvCount": 274,
+            "vertices": 274,
+            "weightError": 0.0,
+            "boundsEscape": 0.0,
+            "min": {
+                "x": 0.020376384258270265,
+                "y": 0.5963948965072632,
+                "z": -0.11495649814605713
+            },
+            "max": {
+                "x": 0.23493227362632752,
+                "y": 0.8871359825134277,
+                "z": 0.126481831073761
+            }
+        },
+        {
+            "name": "Warden_ElbowCop_l",
+            "material": "Banked Iron",
+            "triangles": 160,
+            "influences": 1,
+            "bindings": 53,
+            "uvCount": 284,
+            "vertices": 284,
+            "weightError": 0.0,
+            "boundsEscape": 0.0,
+            "min": {
+                "x": -0.45649755001068118,
+                "y": 1.1773200035095215,
+                "z": -0.04836130142211914
+            },
+            "max": {
+                "x": -0.29772281646728518,
+                "y": 1.3315186500549317,
+                "z": 0.09962069988250733
+            }
+        },
+        {
+            "name": "Warden_ElbowCop_r",
+            "material": "Banked Iron",
+            "triangles": 160,
+            "influences": 1,
+            "bindings": 53,
+            "uvCount": 284,
+            "vertices": 284,
+            "weightError": 0.0,
+            "boundsEscape": 0.0,
+            "min": {
+                "x": 0.29772281646728518,
+                "y": 1.1773200035095215,
+                "z": -0.04836130142211914
+            },
+            "max": {
+                "x": 0.45649755001068118,
+                "y": 1.3315186500549317,
+                "z": 0.09962069988250733
+            }
+        },
+        {
+            "name": "Warden_FingerLames_l",
+            "material": "Banked Iron",
+            "triangles": 510,
+            "influences": 1,
+            "bindings": 53,
+            "uvCount": 1062,
+            "vertices": 1062,
+            "weightError": 0.0,
+            "boundsEscape": 0.0,
+            "min": {
+                "x": -0.5913584232330322,
+                "y": 0.9859013557434082,
+                "z": 0.25832128524780276
+            },
+            "max": {
+                "x": -0.46554815769195559,
+                "y": 1.132120132446289,
+                "z": 0.3903976082801819
+            }
+        },
+        {
+            "name": "Warden_FingerLames_r",
+            "material": "Banked Iron",
+            "triangles": 510,
+            "influences": 1,
+            "bindings": 53,
+            "uvCount": 1062,
+            "vertices": 1062,
+            "weightError": 0.0,
+            "boundsEscape": 0.0,
+            "min": {
+                "x": 0.46533653140068056,
+                "y": 0.9868001937866211,
+                "z": 0.25833332538604739
+            },
+            "max": {
+                "x": 0.5912244319915772,
+                "y": 1.1321821212768555,
+                "z": 0.3914320468902588
+            }
+        },
+        {
+            "name": "Warden_FistSocket_l",
+            "material": "Banked Iron",
+            "triangles": 256,
+            "influences": 1,
+            "bindings": 53,
+            "uvCount": 530,
+            "vertices": 530,
+            "weightError": 0.0,
+            "boundsEscape": 0.0,
+            "min": {
+                "x": -0.2930000424385071,
+                "y": 1.426999807357788,
+                "z": 0.12199985980987549
+            },
+            "max": {
+                "x": -0.1990000307559967,
+                "y": 1.5279996395111085,
+                "z": 0.20855998992919923
+            }
+        },
+        {
+            "name": "Warden_FistSocket_r",
+            "material": "Banked Iron",
+            "triangles": 256,
+            "influences": 1,
+            "bindings": 53,
+            "uvCount": 530,
+            "vertices": 530,
+            "weightError": 0.0,
+            "boundsEscape": 0.0,
+            "min": {
+                "x": 0.1990000307559967,
+                "y": 1.426999807357788,
+                "z": 0.12199985980987549
+            },
+            "max": {
+                "x": 0.2930000424385071,
+                "y": 1.5279996395111085,
+                "z": 0.20855998992919923
+            }
+        },
+        {
+            "name": "Warden_ForgeHood",
+            "material": "Banked Iron",
+            "triangles": 88,
+            "influences": 1,
+            "bindings": 53,
+            "uvCount": 215,
+            "vertices": 215,
+            "weightError": 0.0,
+            "boundsEscape": 0.0,
+            "min": {
+                "x": -0.10999999940395355,
+                "y": 1.7179994583129883,
+                "z": -0.07099997997283936
+            },
+            "max": {
+                "x": 0.10999999940395355,
+                "y": 1.856999397277832,
+                "z": 0.20200002193450929
+            }
+        },
+        {
+            "name": "Warden_FurnaceShutters",
+            "material": "Banked Iron",
+            "triangles": 252,
+            "influences": 1,
+            "bindings": 53,
+            "uvCount": 464,
+            "vertices": 464,
+            "weightError": 0.0,
+            "boundsEscape": 0.0,
+            "min": {
+                "x": -0.12200000137090683,
+                "y": 1.1409995555877686,
+                "z": 0.1837199330329895
+            },
+            "max": {
+                "x": 0.12200000137090683,
+                "y": 1.3399994373321534,
+                "z": 0.2271568775177002
+            }
+        },
+        {
+            "name": "Warden_GauntletBack_l",
+            "material": "Banked Iron",
+            "triangles": 140,
+            "influences": 1,
+            "bindings": 53,
+            "uvCount": 256,
+            "vertices": 256,
+            "weightError": 0.0,
+            "boundsEscape": 0.0,
+            "min": {
+                "x": -0.5866522789001465,
+                "y": 1.0635745525360108,
+                "z": 0.1714136004447937
+            },
+            "max": {
+                "x": -0.45724666118621828,
+                "y": 1.173522710800171,
+                "z": 0.3188140392303467
+            }
+        },
+        {
+            "name": "Warden_GauntletBack_r",
+            "material": "Banked Iron",
+            "triangles": 140,
+            "influences": 1,
+            "bindings": 53,
+            "uvCount": 256,
+            "vertices": 256,
+            "weightError": 0.0,
+            "boundsEscape": 0.0,
+            "min": {
+                "x": 0.45724666118621828,
+                "y": 1.0635745525360108,
+                "z": 0.1714136004447937
+            },
+            "max": {
+                "x": 0.5866522789001465,
+                "y": 1.173522710800171,
+                "z": 0.3188140392303467
+            }
+        },
+        {
+            "name": "Warden_Greave_l",
+            "material": "Banked Iron",
+            "triangles": 246,
+            "influences": 1,
+            "bindings": 53,
+            "uvCount": 502,
+            "vertices": 502,
+            "weightError": 0.0,
+            "boundsEscape": 0.0,
+            "min": {
+                "x": -0.2556893825531006,
+                "y": 0.10540527105331421,
+                "z": -0.07175105810165405
+            },
+            "max": {
+                "x": -0.08182385563850403,
+                "y": 0.46598947048187258,
+                "z": 0.1286948323249817
+            }
+        },
+        {
+            "name": "Warden_Greave_r",
+            "material": "Banked Iron",
+            "triangles": 246,
+            "influences": 1,
+            "bindings": 53,
+            "uvCount": 502,
+            "vertices": 502,
+            "weightError": 0.0,
+            "boundsEscape": 0.0,
+            "min": {
+                "x": 0.08182385563850403,
+                "y": 0.10540527105331421,
+                "z": -0.07175105810165405
+            },
+            "max": {
+                "x": 0.2556893825531006,
+                "y": 0.46598947048187258,
+                "z": 0.1286948323249817
+            }
+        },
+        {
+            "name": "Warden_LoadChain",
+            "material": "Banked Iron",
+            "triangles": 672,
+            "influences": 1,
+            "bindings": 53,
+            "uvCount": 1120,
+            "vertices": 1120,
+            "weightError": 0.0,
+            "boundsEscape": 0.0,
+            "min": {
+                "x": -0.2519885003566742,
+                "y": 1.3910391330718995,
+                "z": 0.1843653917312622
+            },
+            "max": {
+                "x": 0.2519885003566742,
+                "y": 1.481571912765503,
+                "z": 0.24563467502593995
+            }
+        },
+        {
+            "name": "Warden_MantleAndSpine",
+            "material": "Banked Iron",
+            "triangles": 738,
+            "influences": 1,
+            "bindings": 53,
+            "uvCount": 1382,
+            "vertices": 1382,
+            "weightError": 0.0,
+            "boundsEscape": 0.0,
+            "min": {
+                "x": -0.21400000154972077,
+                "y": 1.1539995670318604,
+                "z": -0.1431598663330078
+            },
+            "max": {
+                "x": 0.21399997174739839,
+                "y": 1.5279996395111085,
+                "z": 0.18959999084472657
+            }
+        },
+        {
+            "name": "Warden_NeckGuard",
+            "material": "Banked Iron",
+            "triangles": 144,
+            "influences": 1,
+            "bindings": 53,
+            "uvCount": 332,
+            "vertices": 332,
+            "weightError": 0.0,
+            "boundsEscape": 0.0,
+            "min": {
+                "x": -0.1469999998807907,
+                "y": 1.488999605178833,
+                "z": -0.0989999771118164
+            },
+            "max": {
+                "x": 0.1469999998807907,
+                "y": 1.6339995861053467,
+                "z": 0.20299994945526124
+            }
+        },
+        {
+            "name": "Warden_Poleyn_l",
+            "material": "Banked Iron",
+            "triangles": 172,
+            "influences": 1,
+            "bindings": 53,
+            "uvCount": 308,
+            "vertices": 308,
+            "weightError": 0.0,
+            "boundsEscape": 0.0,
+            "min": {
+                "x": -0.24029670655727387,
+                "y": 0.4233285188674927,
+                "z": -0.06156402826309204
+            },
+            "max": {
+                "x": -0.07350994646549225,
+                "y": 0.6043283939361572,
+                "z": 0.1815434992313385
+            }
+        },
+        {
+            "name": "Warden_Poleyn_r",
+            "material": "Banked Iron",
+            "triangles": 172,
+            "influences": 1,
+            "bindings": 53,
+            "uvCount": 308,
+            "vertices": 308,
+            "weightError": 0.0,
+            "boundsEscape": 0.0,
+            "min": {
+                "x": 0.07350994646549225,
+                "y": 0.4233285188674927,
+                "z": -0.06156402826309204
+            },
+            "max": {
+                "x": 0.24029670655727387,
+                "y": 0.6043283939361572,
+                "z": 0.1815434992313385
+            }
+        },
+        {
+            "name": "Warden_QuiltedJackAndHose",
+            "material": "Banked Iron",
+            "triangles": 13712,
+            "influences": 4,
+            "bindings": 53,
+            "uvCount": 30466,
+            "vertices": 30466,
+            "weightError": 1.2479722499847413e-7,
+            "boundsEscape": 0.0,
+            "min": {
+                "x": -0.5909131169319153,
+                "y": 0.09442251920700073,
+                "z": -0.09946286678314209
+            },
+            "max": {
+                "x": 0.5909131169319153,
+                "y": 1.5474522113800049,
+                "z": 0.39182448387145998
+            }
+        },
+        {
+            "name": "Warden_Rerebrace_l",
+            "material": "Banked Iron",
+            "triangles": 140,
+            "influences": 1,
+            "bindings": 53,
+            "uvCount": 266,
+            "vertices": 266,
+            "weightError": 0.0,
+            "boundsEscape": 0.0,
+            "min": {
+                "x": -0.38899654150009158,
+                "y": 1.2497985363006592,
+                "z": -0.07535278797149658
+            },
+            "max": {
+                "x": -0.1848192811012268,
+                "y": 1.45267653465271,
+                "z": 0.114646315574646
+            }
+        },
+        {
+            "name": "Warden_Rerebrace_r",
+            "material": "Banked Iron",
+            "triangles": 140,
+            "influences": 1,
+            "bindings": 53,
+            "uvCount": 266,
+            "vertices": 266,
+            "weightError": 0.0,
+            "boundsEscape": 0.0,
+            "min": {
+                "x": 0.18481925129890443,
+                "y": 1.2497985363006592,
+                "z": -0.07535278797149658
+            },
+            "max": {
+                "x": 0.38899651169776919,
+                "y": 1.45267653465271,
+                "z": 0.114646315574646
+            }
+        },
+        {
+            "name": "Warden_RibHarness",
+            "material": "Banked Iron",
+            "triangles": 480,
+            "influences": 1,
+            "bindings": 53,
+            "uvCount": 838,
+            "vertices": 838,
+            "weightError": 0.0,
+            "boundsEscape": 0.0,
+            "min": {
+                "x": -0.22200000286102296,
+                "y": 1.0729997158050538,
+                "z": -0.12399983406066895
+            },
+            "max": {
+                "x": 0.22200000286102296,
+                "y": 1.554999589920044,
+                "z": 0.19099998474121095
+            }
+        },
+        {
+            "name": "Warden_Sabatons_l",
+            "material": "Banked Iron",
+            "triangles": 284,
+            "influences": 1,
+            "bindings": 53,
+            "uvCount": 688,
+            "vertices": 688,
+            "weightError": 0.0,
+            "boundsEscape": 0.0,
+            "min": {
+                "x": -0.2758306860923767,
+                "y": 7.450580596923828e-9,
+                "z": -0.06699992716312409
+            },
+            "max": {
+                "x": -0.12983077764511109,
+                "y": 0.16499993205070496,
+                "z": 0.26100027561187746
+            }
+        },
+        {
+            "name": "Warden_Sabatons_r",
+            "material": "Banked Iron",
+            "triangles": 284,
+            "influences": 1,
+            "bindings": 53,
+            "uvCount": 686,
+            "vertices": 686,
+            "weightError": 0.0,
+            "boundsEscape": 0.0,
+            "min": {
+                "x": 0.12983077764511109,
+                "y": 7.450580596923828e-9,
+                "z": -0.06699992716312409
+            },
+            "max": {
+                "x": 0.2758306860923767,
+                "y": 0.16499993205070496,
+                "z": 0.26100027561187746
+            }
+        },
+        {
+            "name": "Warden_TassetApron",
+            "material": "Banked Iron",
+            "triangles": 304,
+            "influences": 1,
+            "bindings": 53,
+            "uvCount": 640,
+            "vertices": 640,
+            "weightError": 0.0,
+            "boundsEscape": 0.0,
+            "min": {
+                "x": -0.19923534989356996,
+                "y": 0.6809998750686646,
+                "z": -0.12973403930664063
+            },
+            "max": {
+                "x": 0.19923534989356996,
+                "y": 1.019999623298645,
+                "z": 0.20183265209197999
+            }
+        },
+        {
+            "name": "Warden_TempleAndNape",
+            "material": "Banked Iron",
+            "triangles": 178,
+            "influences": 1,
+            "bindings": 53,
+            "uvCount": 344,
+            "vertices": 344,
+            "weightError": 0.0,
+            "boundsEscape": 0.0,
+            "min": {
+                "x": -0.09679999947547913,
+                "y": 1.6019995212554932,
+                "z": -0.07143998146057129
+            },
+            "max": {
+                "x": 0.09679999947547913,
+                "y": 1.733999490737915,
+                "z": 0.1679999828338623
+            }
+        },
+        {
+            "name": "Warden_Vambrace_l",
+            "material": "Banked Iron",
+            "triangles": 180,
+            "influences": 1,
+            "bindings": 53,
+            "uvCount": 323,
+            "vertices": 323,
+            "weightError": 0.0,
+            "boundsEscape": 0.0,
+            "min": {
+                "x": -0.5458979606628418,
+                "y": 1.0884909629821778,
+                "z": 0.005545496940612793
+            },
+            "max": {
+                "x": -0.3326733112335205,
+                "y": 1.2926750183105469,
+                "z": 0.24213111400604249
+            }
+        },
+        {
+            "name": "Warden_Vambrace_r",
+            "material": "Banked Iron",
+            "triangles": 180,
+            "influences": 1,
+            "bindings": 53,
+            "uvCount": 322,
+            "vertices": 322,
+            "weightError": 0.0,
+            "boundsEscape": 0.0,
+            "min": {
+                "x": 0.3326733112335205,
+                "y": 1.0884909629821778,
+                "z": 0.005545496940612793
+            },
+            "max": {
+                "x": 0.5458979606628418,
+                "y": 1.2926750183105469,
+                "z": 0.24213111400604249
+            }
+        },
+        {
+            "name": "Warden_Visor_Grille",
+            "material": "Banked Iron",
+            "triangles": 364,
+            "influences": 1,
+            "bindings": 53,
+            "uvCount": 764,
+            "vertices": 764,
+            "weightError": 0.0,
+            "boundsEscape": 0.0,
+            "min": {
+                "x": -0.09399999678134918,
+                "y": 1.5769994258880616,
+                "z": 0.12668001651763917
+            },
+            "max": {
+                "x": 0.09399999678134918,
+                "y": 1.7319996356964112,
+                "z": 0.21999990940093995
+            }
+        }
+    ],
+    "mapping": [
+        {
+            "human": "Hips",
+            "bone": "pelvis"
+        },
+        {
+            "human": "LeftUpperLeg",
+            "bone": "thigh_l"
+        },
+        {
+            "human": "RightUpperLeg",
+            "bone": "thigh_r"
+        },
+        {
+            "human": "LeftLowerLeg",
+            "bone": "calf_l"
+        },
+        {
+            "human": "RightLowerLeg",
+            "bone": "calf_r"
+        },
+        {
+            "human": "LeftFoot",
+            "bone": "foot_l"
+        },
+        {
+            "human": "RightFoot",
+            "bone": "foot_r"
+        },
+        {
+            "human": "Spine",
+            "bone": "spine_01"
+        },
+        {
+            "human": "Chest",
+            "bone": "spine_02"
+        },
+        {
+            "human": "Neck",
+            "bone": "neck_01"
+        },
+        {
+            "human": "Head",
+            "bone": "head"
+        },
+        {
+            "human": "LeftShoulder",
+            "bone": "clavicle_l"
+        },
+        {
+            "human": "RightShoulder",
+            "bone": "clavicle_r"
+        },
+        {
+            "human": "LeftUpperArm",
+            "bone": "upperarm_l"
+        },
+        {
+            "human": "RightUpperArm",
+            "bone": "upperarm_r"
+        },
+        {
+            "human": "LeftLowerArm",
+            "bone": "lowerarm_l"
+        },
+        {
+            "human": "RightLowerArm",
+            "bone": "lowerarm_r"
+        },
+        {
+            "human": "LeftHand",
+            "bone": "hand_l"
+        },
+        {
+            "human": "RightHand",
+            "bone": "hand_r"
+        },
+        {
+            "human": "LeftToes",
+            "bone": "ball_l"
+        },
+        {
+            "human": "RightToes",
+            "bone": "ball_r"
+        },
+        {
+            "human": "Left Thumb Proximal",
+            "bone": "thumb_01_l"
+        },
+        {
+            "human": "Left Thumb Intermediate",
+            "bone": "thumb_02_l"
+        },
+        {
+            "human": "Left Thumb Distal",
+            "bone": "thumb_03_l"
+        },
+        {
+            "human": "Left Index Proximal",
+            "bone": "index_01_l"
+        },
+        {
+            "human": "Left Index Intermediate",
+            "bone": "index_02_l"
+        },
+        {
+            "human": "Left Index Distal",
+            "bone": "index_03_l"
+        },
+        {
+            "human": "Left Middle Proximal",
+            "bone": "middle_01_l"
+        },
+        {
+            "human": "Left Middle Intermediate",
+            "bone": "middle_02_l"
+        },
+        {
+            "human": "Left Middle Distal",
+            "bone": "middle_03_l"
+        },
+        {
+            "human": "Left Ring Proximal",
+            "bone": "ring_01_l"
+        },
+        {
+            "human": "Left Ring Intermediate",
+            "bone": "ring_02_l"
+        },
+        {
+            "human": "Left Ring Distal",
+            "bone": "ring_03_l"
+        },
+        {
+            "human": "Left Little Proximal",
+            "bone": "pinky_01_l"
+        },
+        {
+            "human": "Left Little Intermediate",
+            "bone": "pinky_02_l"
+        },
+        {
+            "human": "Left Little Distal",
+            "bone": "pinky_03_l"
+        },
+        {
+            "human": "Right Thumb Proximal",
+            "bone": "thumb_01_r"
+        },
+        {
+            "human": "Right Thumb Intermediate",
+            "bone": "thumb_02_r"
+        },
+        {
+            "human": "Right Thumb Distal",
+            "bone": "thumb_03_r"
+        },
+        {
+            "human": "Right Index Proximal",
+            "bone": "index_01_r"
+        },
+        {
+            "human": "Right Index Intermediate",
+            "bone": "index_02_r"
+        },
+        {
+            "human": "Right Index Distal",
+            "bone": "index_03_r"
+        },
+        {
+            "human": "Right Middle Proximal",
+            "bone": "middle_01_r"
+        },
+        {
+            "human": "Right Middle Intermediate",
+            "bone": "middle_02_r"
+        },
+        {
+            "human": "Right Middle Distal",
+            "bone": "middle_03_r"
+        },
+        {
+            "human": "Right Ring Proximal",
+            "bone": "ring_01_r"
+        },
+        {
+            "human": "Right Ring Intermediate",
+            "bone": "ring_02_r"
+        },
+        {
+            "human": "Right Ring Distal",
+            "bone": "ring_03_r"
+        },
+        {
+            "human": "Right Little Proximal",
+            "bone": "pinky_01_r"
+        },
+        {
+            "human": "Right Little Intermediate",
+            "bone": "pinky_02_r"
+        },
+        {
+            "human": "Right Little Distal",
+            "bone": "pinky_03_r"
+        },
+        {
+            "human": "UpperChest",
+            "bone": "spine_03"
+        }
+    ],
+    "textures": [
+        {
+            "name": "DarkElf-Skin",
+            "format": "BC7",
+            "size": 2048,
+            "mips": 12,
+            "sRGB": true
+        },
+        {
+            "name": "DarkElf-Amber",
+            "format": "BC7",
+            "size": 512,
+            "mips": 10,
+            "sRGB": true
+        },
+        {
+            "name": "DarkElf-Ivory",
+            "format": "BC7",
+            "size": 512,
+            "mips": 10,
+            "sRGB": true
+        },
+        {
+            "name": "Warden-Plate",
+            "format": "BC7",
+            "size": 2048,
+            "mips": 12,
+            "sRGB": true
+        },
+        {
+            "name": "Warden-Heat",
+            "format": "BC7",
+            "size": 2048,
+            "mips": 12,
+            "sRGB": false
+        }
+    ],
+    "errors": []
+}

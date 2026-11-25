@@ -1,0 +1,14 @@
+blender-user/
+*.blend1
+*.log
+__pycache__/
+unity-validation/Library/
+unity-validation/Temp/
+unity-validation/Logs/
+unity-validation/obj/
+unity-validation/UserSettings/
+output/diagnostics/
+evidence/diagnostics/
+
+output/playable/
+output/playable-equipment/

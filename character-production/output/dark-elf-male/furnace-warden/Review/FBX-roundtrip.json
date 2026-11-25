@@ -1,0 +1,600 @@
+{
+  "blender": "5.2.0 LTS",
+  "source_reopened": true,
+  "native_images_packed": {
+    "DarkElf-Amber.png": true,
+    "DarkElf-Ivory.png": true,
+    "DarkElf-Skin.png": true,
+    "Design-board.jpg": true,
+    "furnace-warden.png": true,
+    "Male-model-comparison.jpg": true,
+    "Warden-Heat.png": true,
+    "Warden-Plate.png": true
+  },
+  "imported_image_paths_resolve": {
+    "DarkElf-Amber.png": true,
+    "DarkElf-Ivory.png": true,
+    "DarkElf-Skin.png": true,
+    "Warden-Plate.png": true
+  },
+  "armatures": 1,
+  "bones": 53,
+  "hierarchy_match": true,
+  "worst_joint_head_error_m": 3.43697148402655e-07,
+  "max_bounds_error_m": 2.8312206268310547e-07,
+  "actions": 0,
+  "meshes": {
+    "DarkElf_Brows": {
+      "triangles": 256,
+      "vertices": 198,
+      "world_bounds_error_m": 2.8312206268310547e-07,
+      "uv_position_max_error": 1.0000000000065512e-05,
+      "materials": [
+        "Dark Elf \u2022 ash brows"
+      ],
+      "missing_used_groups": [],
+      "weight_sum_max_error": 0.0,
+      "max_influences": 1,
+      "unweighted": 0,
+      "passes_surface": true,
+      "max_native_to_fbx_weight_error": 0
+    },
+    "Warden_BoxPauldron_r": {
+      "triangles": 140,
+      "vertices": 72,
+      "world_bounds_error_m": 2.60770320892334e-07,
+      "uv_position_max_error": 1.0000000000065512e-05,
+      "materials": [
+        "Furnace Warden \u2022 banked iron"
+      ],
+      "missing_used_groups": [],
+      "weight_sum_max_error": 0.0,
+      "max_influences": 1,
+      "unweighted": 0,
+      "passes_surface": true,
+      "max_native_to_fbx_weight_error": 0
+    },
+    "Warden_Cuisses_l": {
+      "triangles": 160,
+      "vertices": 80,
+      "world_bounds_error_m": 1.4901161193847656e-07,
+      "uv_position_max_error": 1.0000000000010001e-05,
+      "materials": [
+        "Furnace Warden \u2022 banked iron"
+      ],
+      "missing_used_groups": [],
+      "weight_sum_max_error": 0.0,
+      "max_influences": 1,
+      "unweighted": 0,
+      "passes_surface": true,
+      "max_native_to_fbx_weight_error": 0
+    },
+    "Warden_ForgeHood": {
+      "triangles": 88,
+      "vertices": 50,
+      "world_bounds_error_m": 2.8312206268310547e-07,
+      "uv_position_max_error": 0,
+      "materials": [
+        "Furnace Warden \u2022 banked iron"
+      ],
+      "missing_used_groups": [],
+      "weight_sum_max_error": 0.0,
+      "max_influences": 1,
+      "unweighted": 0,
+      "passes_surface": true,
+      "max_native_to_fbx_weight_error": 0
+    },
+    "Warden_NeckGuard": {
+      "triangles": 144,
+      "vertices": 84,
+      "world_bounds_error_m": 2.60770320892334e-07,
+      "uv_position_max_error": 9.999999999996123e-06,
+      "materials": [
+        "Furnace Warden \u2022 banked iron"
+      ],
+      "missing_used_groups": [],
+      "weight_sum_max_error": 0.0,
+      "max_influences": 1,
+      "unweighted": 0,
+      "passes_surface": true,
+      "max_native_to_fbx_weight_error": 0
+    },
+    "Warden_Sabatons_r": {
+      "triangles": 284,
+      "vertices": 180,
+      "world_bounds_error_m": 3.020543815068777e-08,
+      "uv_position_max_error": 0,
+      "materials": [
+        "Furnace Warden \u2022 banked iron"
+      ],
+      "missing_used_groups": [],
+      "weight_sum_max_error": 0.0,
+      "max_influences": 1,
+      "unweighted": 0,
+      "passes_surface": true,
+      "max_native_to_fbx_weight_error": 0
+    },
+    "DarkElf_AmberEyes": {
+      "triangles": 280,
+      "vertices": 144,
+      "world_bounds_error_m": 2.8312206268310547e-07,
+      "uv_position_max_error": 1.0000000000010001e-05,
+      "materials": [
+        "Dark Elf \u2022 copper amber"
+      ],
+      "missing_used_groups": [],
+      "weight_sum_max_error": 0.0,
+      "max_influences": 1,
+      "unweighted": 0,
+      "passes_surface": true,
+      "max_native_to_fbx_weight_error": 0
+    },
+    "Warden_Cuisses_r": {
+      "triangles": 160,
+      "vertices": 80,
+      "world_bounds_error_m": 1.4901161193847656e-07,
+      "uv_position_max_error": 1.0000000000010001e-05,
+      "materials": [
+        "Furnace Warden \u2022 banked iron"
+      ],
+      "missing_used_groups": [],
+      "weight_sum_max_error": 0.0,
+      "max_influences": 1,
+      "unweighted": 0,
+      "passes_surface": true,
+      "max_native_to_fbx_weight_error": 0
+    },
+    "Warden_FurnaceShutters": {
+      "triangles": 252,
+      "vertices": 144,
+      "world_bounds_error_m": 2.2351741790771484e-07,
+      "uv_position_max_error": 1.0000000000065512e-05,
+      "materials": [
+        "Furnace Warden \u2022 banked iron"
+      ],
+      "missing_used_groups": [],
+      "weight_sum_max_error": 0.0,
+      "max_influences": 1,
+      "unweighted": 0,
+      "passes_surface": true,
+      "max_native_to_fbx_weight_error": 0
+    },
+    "Warden_Poleyn_l": {
+      "triangles": 172,
+      "vertices": 88,
+      "world_bounds_error_m": 8.940696716308594e-08,
+      "uv_position_max_error": 1.0000000000010001e-05,
+      "materials": [
+        "Furnace Warden \u2022 banked iron"
+      ],
+      "missing_used_groups": [],
+      "weight_sum_max_error": 0.0,
+      "max_influences": 1,
+      "unweighted": 0,
+      "passes_surface": true,
+      "max_native_to_fbx_weight_error": 0
+    },
+    "Warden_TassetApron": {
+      "triangles": 304,
+      "vertices": 176,
+      "world_bounds_error_m": 1.4901161193847656e-07,
+      "uv_position_max_error": 0,
+      "materials": [
+        "Furnace Warden \u2022 banked iron"
+      ],
+      "missing_used_groups": [],
+      "weight_sum_max_error": 0.0,
+      "max_influences": 1,
+      "unweighted": 0,
+      "passes_surface": true,
+      "max_native_to_fbx_weight_error": 0
+    },
+    "DarkElf_CoveredBody": {
+      "triangles": 17912,
+      "vertices": 8985,
+      "world_bounds_error_m": 2.384185791015625e-07,
+      "uv_position_max_error": 1.0000000000065512e-05,
+      "materials": [
+        "Dark Elf \u2022 indigo skin"
+      ],
+      "missing_used_groups": [],
+      "weight_sum_max_error": 4.6566128730773926e-08,
+      "max_influences": 4,
+      "unweighted": 0,
+      "passes_surface": true,
+      "max_native_to_fbx_weight_error": 0
+    },
+    "Warden_BoxPauldron_l": {
+      "triangles": 140,
+      "vertices": 72,
+      "world_bounds_error_m": 2.60770320892334e-07,
+      "uv_position_max_error": 1.0000000000065512e-05,
+      "materials": [
+        "Furnace Warden \u2022 banked iron"
+      ],
+      "missing_used_groups": [],
+      "weight_sum_max_error": 0.0,
+      "max_influences": 1,
+      "unweighted": 0,
+      "passes_surface": true,
+      "max_native_to_fbx_weight_error": 0
+    },
+    "Warden_ElbowCop_l": {
+      "triangles": 160,
+      "vertices": 82,
+      "world_bounds_error_m": 2.086162567138672e-07,
+      "uv_position_max_error": 1.0000000000065512e-05,
+      "materials": [
+        "Furnace Warden \u2022 banked iron"
+      ],
+      "missing_used_groups": [],
+      "weight_sum_max_error": 0.0,
+      "max_influences": 1,
+      "unweighted": 0,
+      "passes_surface": true,
+      "max_native_to_fbx_weight_error": 0
+    },
+    "Warden_GauntletBack_l": {
+      "triangles": 140,
+      "vertices": 72,
+      "world_bounds_error_m": 1.7881393432617188e-07,
+      "uv_position_max_error": 1.0000000000065512e-05,
+      "materials": [
+        "Furnace Warden \u2022 banked iron"
+      ],
+      "missing_used_groups": [],
+      "weight_sum_max_error": 0.0,
+      "max_influences": 1,
+      "unweighted": 0,
+      "passes_surface": true,
+      "max_native_to_fbx_weight_error": 0
+    },
+    "Warden_Poleyn_r": {
+      "triangles": 172,
+      "vertices": 88,
+      "world_bounds_error_m": 8.940696716308594e-08,
+      "uv_position_max_error": 9.999999999999593e-06,
+      "materials": [
+        "Furnace Warden \u2022 banked iron"
+      ],
+      "missing_used_groups": [],
+      "weight_sum_max_error": 0.0,
+      "max_influences": 1,
+      "unweighted": 0,
+      "passes_surface": true,
+      "max_native_to_fbx_weight_error": 0
+    },
+    "Warden_TempleAndNape": {
+      "triangles": 178,
+      "vertices": 99,
+      "world_bounds_error_m": 2.8312206268310547e-07,
+      "uv_position_max_error": 1.0000000000065512e-05,
+      "materials": [
+        "Furnace Warden \u2022 banked iron"
+      ],
+      "missing_used_groups": [],
+      "weight_sum_max_error": 0.0,
+      "max_influences": 1,
+      "unweighted": 0,
+      "passes_surface": true,
+      "max_native_to_fbx_weight_error": 0
+    },
+    "DarkElf_HeadAndNeck": {
+      "triangles": 8844,
+      "vertices": 4451,
+      "world_bounds_error_m": 2.682209014892578e-07,
+      "uv_position_max_error": 1.0000000000065512e-05,
+      "materials": [
+        "Dark Elf \u2022 indigo skin"
+      ],
+      "missing_used_groups": [],
+      "weight_sum_max_error": 4.470348358154297e-08,
+      "max_influences": 4,
+      "unweighted": 0,
+      "passes_surface": true,
+      "max_native_to_fbx_weight_error": 0
+    },
+    "Warden_ElbowCop_r": {
+      "triangles": 160,
+      "vertices": 82,
+      "world_bounds_error_m": 2.086162567138672e-07,
+      "uv_position_max_error": 1.0000000000065512e-05,
+      "materials": [
+        "Furnace Warden \u2022 banked iron"
+      ],
+      "missing_used_groups": [],
+      "weight_sum_max_error": 0.0,
+      "max_influences": 1,
+      "unweighted": 0,
+      "passes_surface": true,
+      "max_native_to_fbx_weight_error": 0
+    },
+    "Warden_GauntletBack_r": {
+      "triangles": 140,
+      "vertices": 72,
+      "world_bounds_error_m": 1.7881393432617188e-07,
+      "uv_position_max_error": 1.0000000000065512e-05,
+      "materials": [
+        "Furnace Warden \u2022 banked iron"
+      ],
+      "missing_used_groups": [],
+      "weight_sum_max_error": 0.0,
+      "max_influences": 1,
+      "unweighted": 0,
+      "passes_surface": true,
+      "max_native_to_fbx_weight_error": 0
+    },
+    "Warden_QuiltedJackAndHose": {
+      "triangles": 13712,
+      "vertices": 6904,
+      "world_bounds_error_m": 2.384185791015625e-07,
+      "uv_position_max_error": 1.0000000000065512e-05,
+      "materials": [
+        "Furnace Warden \u2022 banked iron"
+      ],
+      "missing_used_groups": [],
+      "weight_sum_max_error": 4.563480615615845e-08,
+      "max_influences": 4,
+      "unweighted": 0,
+      "passes_surface": true,
+      "max_native_to_fbx_weight_error": 0
+    },
+    "Warden_Vambrace_l": {
+      "triangles": 180,
+      "vertices": 90,
+      "world_bounds_error_m": 1.969747245311737e-07,
+      "uv_position_max_error": 1.0000000000065512e-05,
+      "materials": [
+        "Furnace Warden \u2022 banked iron"
+      ],
+      "missing_used_groups": [],
+      "weight_sum_max_error": 0.0,
+      "max_influences": 1,
+      "unweighted": 0,
+      "passes_surface": true,
+      "max_native_to_fbx_weight_error": 0
+    },
+    "Warden_Vambrace_r": {
+      "triangles": 180,
+      "vertices": 90,
+      "world_bounds_error_m": 2.0023435354232788e-07,
+      "uv_position_max_error": 1.0000000000065512e-05,
+      "materials": [
+        "Furnace Warden \u2022 banked iron"
+      ],
+      "missing_used_groups": [],
+      "weight_sum_max_error": 0.0,
+      "max_influences": 1,
+      "unweighted": 0,
+      "passes_surface": true,
+      "max_native_to_fbx_weight_error": 0
+    },
+    "DarkElf_SweptIvory": {
+      "triangles": 3648,
+      "vertices": 2214,
+      "world_bounds_error_m": 2.8312206268310547e-07,
+      "uv_position_max_error": 1.0000000000065512e-05,
+      "materials": [
+        "Dark Elf \u2022 brushed ivory"
+      ],
+      "missing_used_groups": [],
+      "weight_sum_max_error": 0.0,
+      "max_influences": 1,
+      "unweighted": 0,
+      "passes_surface": true,
+      "max_native_to_fbx_weight_error": 0
+    },
+    "Warden_FingerLames_l": {
+      "triangles": 510,
+      "vertices": 285,
+      "world_bounds_error_m": 1.7881393432617188e-07,
+      "uv_position_max_error": 1.0000000000010001e-05,
+      "materials": [
+        "Furnace Warden \u2022 banked iron"
+      ],
+      "missing_used_groups": [],
+      "weight_sum_max_error": 0.0,
+      "max_influences": 1,
+      "unweighted": 0,
+      "passes_surface": true,
+      "max_native_to_fbx_weight_error": 0
+    },
+    "Warden_Greave_l": {
+      "triangles": 246,
+      "vertices": 125,
+      "world_bounds_error_m": 7.450580596923828e-08,
+      "uv_position_max_error": 1.0000000000010001e-05,
+      "materials": [
+        "Furnace Warden \u2022 banked iron"
+      ],
+      "missing_used_groups": [],
+      "weight_sum_max_error": 0.0,
+      "max_influences": 1,
+      "unweighted": 0,
+      "passes_surface": true,
+      "max_native_to_fbx_weight_error": 0
+    },
+    "Warden_Rerebrace_l": {
+      "triangles": 140,
+      "vertices": 70,
+      "world_bounds_error_m": 2.3096799850463867e-07,
+      "uv_position_max_error": 1.0000000000010001e-05,
+      "materials": [
+        "Furnace Warden \u2022 banked iron"
+      ],
+      "missing_used_groups": [],
+      "weight_sum_max_error": 0.0,
+      "max_influences": 1,
+      "unweighted": 0,
+      "passes_surface": true,
+      "max_native_to_fbx_weight_error": 0
+    },
+    "Warden_FingerLames_r": {
+      "triangles": 510,
+      "vertices": 285,
+      "world_bounds_error_m": 1.7881393432617188e-07,
+      "uv_position_max_error": 1.0000000000065512e-05,
+      "materials": [
+        "Furnace Warden \u2022 banked iron"
+      ],
+      "missing_used_groups": [],
+      "weight_sum_max_error": 0.0,
+      "max_influences": 1,
+      "unweighted": 0,
+      "passes_surface": true,
+      "max_native_to_fbx_weight_error": 0
+    },
+    "Warden_Greave_r": {
+      "triangles": 246,
+      "vertices": 125,
+      "world_bounds_error_m": 7.450580596923828e-08,
+      "uv_position_max_error": 1.0000000000010001e-05,
+      "materials": [
+        "Furnace Warden \u2022 banked iron"
+      ],
+      "missing_used_groups": [],
+      "weight_sum_max_error": 0.0,
+      "max_influences": 1,
+      "unweighted": 0,
+      "passes_surface": true,
+      "max_native_to_fbx_weight_error": 0
+    },
+    "Warden_Rerebrace_r": {
+      "triangles": 140,
+      "vertices": 70,
+      "world_bounds_error_m": 2.3096799850463867e-07,
+      "uv_position_max_error": 1.0000000000003062e-05,
+      "materials": [
+        "Furnace Warden \u2022 banked iron"
+      ],
+      "missing_used_groups": [],
+      "weight_sum_max_error": 0.0,
+      "max_influences": 1,
+      "unweighted": 0,
+      "passes_surface": true,
+      "max_native_to_fbx_weight_error": 0
+    },
+    "Warden_Visor_Grille": {
+      "triangles": 364,
+      "vertices": 221,
+      "world_bounds_error_m": 2.682209014892578e-07,
+      "uv_position_max_error": 0,
+      "materials": [
+        "Furnace Warden \u2022 banked iron"
+      ],
+      "missing_used_groups": [],
+      "weight_sum_max_error": 0.0,
+      "max_influences": 1,
+      "unweighted": 0,
+      "passes_surface": true,
+      "max_native_to_fbx_weight_error": 0
+    },
+    "Warden_BeltAndFauld": {
+      "triangles": 236,
+      "vertices": 136,
+      "world_bounds_error_m": 1.7881393432617188e-07,
+      "uv_position_max_error": 1.0000000000065512e-05,
+      "materials": [
+        "Furnace Warden \u2022 banked iron"
+      ],
+      "missing_used_groups": [],
+      "weight_sum_max_error": 0.0,
+      "max_influences": 1,
+      "unweighted": 0,
+      "passes_surface": true,
+      "max_native_to_fbx_weight_error": 0
+    },
+    "Warden_FistSocket_l": {
+      "triangles": 256,
+      "vertices": 140,
+      "world_bounds_error_m": 2.4586915969848633e-07,
+      "uv_position_max_error": 0,
+      "materials": [
+        "Furnace Warden \u2022 banked iron"
+      ],
+      "missing_used_groups": [],
+      "weight_sum_max_error": 0.0,
+      "max_influences": 1,
+      "unweighted": 0,
+      "passes_surface": true,
+      "max_native_to_fbx_weight_error": 0
+    },
+    "Warden_LoadChain": {
+      "triangles": 672,
+      "vertices": 336,
+      "world_bounds_error_m": 2.384185791015625e-07,
+      "uv_position_max_error": 1.0000000000065512e-05,
+      "materials": [
+        "Furnace Warden \u2022 banked iron"
+      ],
+      "missing_used_groups": [],
+      "weight_sum_max_error": 0.0,
+      "max_influences": 1,
+      "unweighted": 0,
+      "passes_surface": true,
+      "max_native_to_fbx_weight_error": 0
+    },
+    "Warden_RibHarness": {
+      "triangles": 480,
+      "vertices": 288,
+      "world_bounds_error_m": 2.384185791015625e-07,
+      "uv_position_max_error": 0,
+      "materials": [
+        "Furnace Warden \u2022 banked iron"
+      ],
+      "missing_used_groups": [],
+      "weight_sum_max_error": 0.0,
+      "max_influences": 1,
+      "unweighted": 0,
+      "passes_surface": true,
+      "max_native_to_fbx_weight_error": 0
+    },
+    "Warden_FistSocket_r": {
+      "triangles": 256,
+      "vertices": 140,
+      "world_bounds_error_m": 2.4586915969848633e-07,
+      "uv_position_max_error": 0,
+      "materials": [
+        "Furnace Warden \u2022 banked iron"
+      ],
+      "missing_used_groups": [],
+      "weight_sum_max_error": 0.0,
+      "max_influences": 1,
+      "unweighted": 0,
+      "passes_surface": true,
+      "max_native_to_fbx_weight_error": 0
+    },
+    "Warden_MantleAndSpine": {
+      "triangles": 738,
+      "vertices": 405,
+      "world_bounds_error_m": 2.384185791015625e-07,
+      "uv_position_max_error": 1.0000000000065512e-05,
+      "materials": [
+        "Furnace Warden \u2022 banked iron"
+      ],
+      "missing_used_groups": [],
+      "weight_sum_max_error": 0.0,
+      "max_influences": 1,
+      "unweighted": 0,
+      "passes_surface": true,
+      "max_native_to_fbx_weight_error": 0
+    },
+    "Warden_Sabatons_l": {
+      "triangles": 284,
+      "vertices": 180,
+      "world_bounds_error_m": 2.9802322387695312e-08,
+      "uv_position_max_error": 0,
+      "materials": [
+        "Furnace Warden \u2022 banked iron"
+      ],
+      "missing_used_groups": [],
+      "weight_sum_max_error": 0.0,
+      "max_influences": 1,
+      "unweighted": 0,
+      "passes_surface": true,
+      "max_native_to_fbx_weight_error": 0
+    }
+  },
+  "passed": true,
+  "max_rest_axis_component_delta": 1.9997358322143555e-05
+}

@@ -1,0 +1,13 @@
+{
+  "fbx_sha256": "8a8c5244f99b93f8184b17dfebe35c5cf2dd401cb44921b328c25d070b279868",
+  "blend_sha256": "4f5317b2b4f6c44d2e34baf90ed59c21d9621149e5d6c6160a3ef50c2c9552ef",
+  "all_source_slots_and_triangle_counts_match": true,
+  "source_texture_bytes_match": true,
+  "stopped_vs_play_max_code_delta": 0,
+  "stopped_vs_play_fraction_changed": 0.0,
+  "before_vs_after_BC7_mean_code_delta": 0.3859937324756721,
+  "before_vs_after_BC7_p99": 3.0,
+  "unlit_silhouette_iou": 0.9973593107305435,
+  "unlit_overlap_median_absolute_sRGB_delta": 1.0,
+  "unlit_overlap_p95_absolute_sRGB_delta": 9.0
+}

@@ -1,0 +1,795 @@
+{
+  "source_reopened": true,
+  "empty_scene_import": true,
+  "blender": "5.2.0 LTS",
+  "skeletons": 1,
+  "bones": 53,
+  "joint_center_error_m": 3.375038997204937e-07,
+  "rest_axis_error": 1.5556812286376953e-05,
+  "animation_clips": 0,
+  "materials": 15,
+  "skinned_meshes": 48,
+  "triangles": 178316,
+  "dressed_triangles": 156104,
+  "imported_barefoot_m": 1.699999754209884,
+  "imported_dressed_height_m": 1.7139569762884932,
+  "imported_floor_z_m": -2.4193461456434306e-08,
+  "external_images_resolve": {
+    "Auricle.png": true,
+    "Copper-Iris.png": true,
+    "Indigo-Skin.png": true,
+    "Ivory-Locks.png": true,
+    "Vesper-Brocade.png": true,
+    "Vesper-Orphrey.png": true
+  },
+  "meshes": {
+    "Eyes | Copper pair": {
+      "triangles": 280,
+      "material_slots": [
+        "Silt | Copper iris"
+      ],
+      "position_error_m": 2.9502794518521114e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 1,
+      "weight_sum_error": 0.0,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Hair | Braid strand 3": {
+      "triangles": 2160,
+      "material_slots": [
+        "Silt | Combed ivory"
+      ],
+      "position_error_m": 2.871133233384171e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 1,
+      "weight_sum_error": 0.0,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Lining | Inner wrap return": {
+      "triangles": 1760,
+      "material_slots": [
+        "Vesper | Figured blackberry silk"
+      ],
+      "position_error_m": 2.5793431746024e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 2,
+      "weight_sum_error": 2.9802322387695312e-08,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Robe | Double turn sash": {
+      "triangles": 2880,
+      "material_slots": [
+        "Vesper | Figured blackberry silk"
+      ],
+      "position_error_m": 2.1950781103896588e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 2,
+      "weight_sum_error": 2.9802322387695312e-08,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Robe | Shaped shoulder yoke": {
+      "triangles": 4608,
+      "material_slots": [
+        "Vesper | Figured blackberry silk"
+      ],
+      "position_error_m": 2.616204426431068e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 1,
+      "weight_sum_error": 0.0,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Underlayer | Fitted linen shift": {
+      "triangles": 10792,
+      "material_slots": [
+        "Vesper | Figured blackberry silk"
+      ],
+      "position_error_m": 2.5869317710203177e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 2,
+      "weight_sum_error": 2.9802322387695312e-08,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Face | Modelled pinna l": {
+      "triangles": 1680,
+      "material_slots": [
+        "Silt | Auricle paint"
+      ],
+      "position_error_m": 2.882710532503552e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 1,
+      "weight_sum_error": 0.0,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Hair | Braid strand 1": {
+      "triangles": 2160,
+      "material_slots": [
+        "Silt | Combed ivory"
+      ],
+      "position_error_m": 2.871133233384171e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 1,
+      "weight_sum_error": 0.0,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Hair | Swept forelock 1": {
+      "triangles": 1040,
+      "material_slots": [
+        "Silt | Combed ivory"
+      ],
+      "position_error_m": 3.084632567151857e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 1,
+      "weight_sum_error": 0.0,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Regalia | Back clasp and chains": {
+      "triangles": 3880,
+      "material_slots": [
+        "Vesper | Shadow bronze",
+        "Vesper | Chased old gold",
+        "Vesper | Black horn",
+        "Vesper | Witchglass",
+        "Vesper | Cut teal facets"
+      ],
+      "position_error_m": 2.4439722778879513e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 1,
+      "weight_sum_error": 0.0,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Robe | Inside wrap front": {
+      "triangles": 4100,
+      "material_slots": [
+        "Vesper | Figured blackberry silk"
+      ],
+      "position_error_m": 2.6122228291569627e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 2,
+      "weight_sum_error": 2.9802322387695312e-08,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Robe | Tapered sleeve l": {
+      "triangles": 1232,
+      "material_slots": [
+        "Vesper | Figured blackberry silk"
+      ],
+      "position_error_m": 2.5723392127474654e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 2,
+      "weight_sum_error": 2.9802322387695312e-08,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Underlayer | River leather boots": {
+      "triangles": 1668,
+      "material_slots": [
+        "Vesper | Figured blackberry silk"
+      ],
+      "position_error_m": 7.634573506720699e-08,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 2,
+      "weight_sum_error": 2.9802322387695312e-08,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Face | Modelled pinna r": {
+      "triangles": 1680,
+      "material_slots": [
+        "Silt | Auricle paint"
+      ],
+      "position_error_m": 2.871133233384171e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 1,
+      "weight_sum_error": 0.0,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Hair | Bound ferrule 2": {
+      "triangles": 256,
+      "material_slots": [
+        "Silt | Worn brass"
+      ],
+      "position_error_m": 2.6697625798988156e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 1,
+      "weight_sum_error": 0.0,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Hair | Swept forelock 2": {
+      "triangles": 1040,
+      "material_slots": [
+        "Silt | Combed ivory"
+      ],
+      "position_error_m": 3.084632567151857e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 1,
+      "weight_sum_error": 0.0,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Regalia | Horned reliquary l": {
+      "triangles": 11560,
+      "material_slots": [
+        "Vesper | Mulberry enamel",
+        "Vesper | Pomegranate lining",
+        "Vesper | Chased old gold",
+        "Vesper | Black horn",
+        "Vesper | Shadow bronze",
+        "Vesper | Witchglass",
+        "Vesper | Cut teal facets"
+      ],
+      "position_error_m": 2.7966981974714145e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 1,
+      "weight_sum_error": 0.0,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Robe | Joined back pleat": {
+      "triangles": 3188,
+      "material_slots": [
+        "Vesper | Figured blackberry silk"
+      ],
+      "position_error_m": 2.5400362346772454e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 2,
+      "weight_sum_error": 2.9802322387695312e-08,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Robe | Tapered sleeve r": {
+      "triangles": 1232,
+      "material_slots": [
+        "Vesper | Figured blackberry silk"
+      ],
+      "position_error_m": 2.537576335726044e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 2,
+      "weight_sum_error": 2.9802322387695312e-08,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Vestment | Bell fall l": {
+      "triangles": 3928,
+      "material_slots": [
+        "Vesper | Goldwork on velvet",
+        "Vesper | Pomegranate lining",
+        "Vesper | Chased old gold",
+        "Vesper | Shadow bronze"
+      ],
+      "position_error_m": 2.3513635483141115e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 1,
+      "weight_sum_error": 0.0,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Hair | Bound ferrule 1": {
+      "triangles": 256,
+      "material_slots": [
+        "Silt | Worn brass"
+      ],
+      "position_error_m": 2.803636789394659e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 1,
+      "weight_sum_error": 0.0,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Hair | Swept forelock 3": {
+      "triangles": 1040,
+      "material_slots": [
+        "Silt | Combed ivory"
+      ],
+      "position_error_m": 3.083001161030552e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 1,
+      "weight_sum_error": 0.0,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Regalia | Horned reliquary r": {
+      "triangles": 11560,
+      "material_slots": [
+        "Vesper | Mulberry enamel",
+        "Vesper | Pomegranate lining",
+        "Vesper | Chased old gold",
+        "Vesper | Black horn",
+        "Vesper | Shadow bronze",
+        "Vesper | Witchglass",
+        "Vesper | Cut teal facets"
+      ],
+      "position_error_m": 2.799673950448778e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 1,
+      "weight_sum_error": 0.0,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Robe | Left skirt and side": {
+      "triangles": 4860,
+      "material_slots": [
+        "Vesper | Figured blackberry silk"
+      ],
+      "position_error_m": 2.5793431746024e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 2,
+      "weight_sum_error": 2.9802322387695312e-08,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Robe | Turned flax cuff l": {
+      "triangles": 560,
+      "material_slots": [
+        "Vesper | Figured blackberry silk"
+      ],
+      "position_error_m": 2.230201658903752e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 1,
+      "weight_sum_error": 0.0,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Vestment | Bell fall r": {
+      "triangles": 3928,
+      "material_slots": [
+        "Vesper | Goldwork on velvet",
+        "Vesper | Pomegranate lining",
+        "Vesper | Chased old gold",
+        "Vesper | Shadow bronze"
+      ],
+      "position_error_m": 2.3513635483141115e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 1,
+      "weight_sum_error": 0.0,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Hair | Braid strand 2": {
+      "triangles": 2160,
+      "material_slots": [
+        "Silt | Combed ivory"
+      ],
+      "position_error_m": 2.871133233384171e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 1,
+      "weight_sum_error": 0.0,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Hair | Swept forelock 4": {
+      "triangles": 1040,
+      "material_slots": [
+        "Silt | Combed ivory"
+      ],
+      "position_error_m": 3.084632567151857e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 1,
+      "weight_sum_error": 0.0,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Regalia | Pectoral chainwork": {
+      "triangles": 4864,
+      "material_slots": [
+        "Vesper | Chased old gold"
+      ],
+      "position_error_m": 2.5723392127474654e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 1,
+      "weight_sum_error": 0.0,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Robe | Open bound collar": {
+      "triangles": 1284,
+      "material_slots": [
+        "Vesper | Figured blackberry silk"
+      ],
+      "position_error_m": 2.6122228291569627e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 1,
+      "weight_sum_error": 0.0,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Robe | Turned flax cuff r": {
+      "triangles": 560,
+      "material_slots": [
+        "Vesper | Figured blackberry silk"
+      ],
+      "position_error_m": 2.274563541959651e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 1,
+      "weight_sum_error": 0.0,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Vestment | Left wing lappet": {
+      "triangles": 4736,
+      "material_slots": [
+        "Vesper | Goldwork on velvet",
+        "Vesper | Pomegranate lining",
+        "Vesper | Chased old gold"
+      ],
+      "position_error_m": 2.1696418173178245e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 2,
+      "weight_sum_error": 2.9802322387695312e-08,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Hair | Swept ivory bob": {
+      "triangles": 5504,
+      "material_slots": [
+        "Silt | Combed ivory"
+      ],
+      "position_error_m": 3.0826109309600724e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 1,
+      "weight_sum_error": 0.0,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Regalia | Ribbed gorget and pectoral": {
+      "triangles": 8164,
+      "material_slots": [
+        "Vesper | Mulberry enamel",
+        "Vesper | Pomegranate lining",
+        "Vesper | Chased old gold",
+        "Vesper | Shadow bronze",
+        "Vesper | Black horn",
+        "Vesper | Witchglass",
+        "Vesper | Cut teal facets"
+      ],
+      "position_error_m": 2.6721005497165606e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 1,
+      "weight_sum_error": 0.0,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Robe | Outer wrap front": {
+      "triangles": 3796,
+      "material_slots": [
+        "Vesper | Figured blackberry silk"
+      ],
+      "position_error_m": 2.5793431746024e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 2,
+      "weight_sum_error": 2.9802322387695312e-08,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Robe | Yoke binding": {
+      "triangles": 1152,
+      "material_slots": [
+        "Vesper | Figured blackberry silk"
+      ],
+      "position_error_m": 2.537576335726044e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 1,
+      "weight_sum_error": 0.0,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Vestment | Moth orphrey": {
+      "triangles": 4736,
+      "material_slots": [
+        "Vesper | Goldwork on velvet",
+        "Vesper | Pomegranate lining",
+        "Vesper | Chased old gold"
+      ],
+      "position_error_m": 2.164839258966822e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 2,
+      "weight_sum_error": 2.9802322387695312e-08,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Lining | Clay slit inset": {
+      "triangles": 1400,
+      "material_slots": [
+        "Vesper | Figured blackberry silk"
+      ],
+      "position_error_m": 1.365714012990793e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 2,
+      "weight_sum_error": 2.9802322387695312e-08,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Regalia | Split standing collar": {
+      "triangles": 4872,
+      "material_slots": [
+        "Vesper | Mulberry enamel",
+        "Vesper | Pomegranate lining",
+        "Vesper | Chased old gold",
+        "Vesper | Shadow bronze"
+      ],
+      "position_error_m": 2.6700223543230095e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 1,
+      "weight_sum_error": 0.0,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Robe | Sash cord 1": {
+      "triangles": 1152,
+      "material_slots": [
+        "Vesper | Figured blackberry silk"
+      ],
+      "position_error_m": 2.1696418173178245e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 2,
+      "weight_sum_error": 2.60770320892334e-08,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Skin | Covered limbs and torso": {
+      "triangles": 11420,
+      "material_slots": [
+        "Silt | Indigo skin"
+      ],
+      "position_error_m": 2.6122228291569627e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 4,
+      "weight_sum_error": 4.563480615615845e-08,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Vestment | Processional train": {
+      "triangles": 4736,
+      "material_slots": [
+        "Vesper | Goldwork on velvet",
+        "Vesper | Pomegranate lining",
+        "Vesper | Chased old gold"
+      ],
+      "position_error_m": 2.4211522031691857e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 2,
+      "weight_sum_error": 2.9802322387695312e-08,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Face | Ash brows": {
+      "triangles": 256,
+      "material_slots": [
+        "Silt | Ash brows"
+      ],
+      "position_error_m": 2.9502794518521114e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 1,
+      "weight_sum_error": 0.0,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Lining | Collar inner lip": {
+      "triangles": 1024,
+      "material_slots": [
+        "Vesper | Figured blackberry silk"
+      ],
+      "position_error_m": 2.6122228291569627e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 1,
+      "weight_sum_error": 0.0,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Regalia | Waist seal and votive chains": {
+      "triangles": 10908,
+      "material_slots": [
+        "Vesper | Chased old gold",
+        "Vesper | Shadow bronze",
+        "Vesper | Black horn",
+        "Vesper | Witchglass",
+        "Vesper | Cut teal facets"
+      ],
+      "position_error_m": 2.2857197734538204e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 1,
+      "weight_sum_error": 0.0,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Robe | Sash cord 2": {
+      "triangles": 1152,
+      "material_slots": [
+        "Vesper | Figured blackberry silk"
+      ],
+      "position_error_m": 2.1950781103896588e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 2,
+      "weight_sum_error": 2.9802322387695312e-08,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Skin | Head neck and hands": {
+      "triangles": 15336,
+      "material_slots": [
+        "Silt | Indigo skin"
+      ],
+      "position_error_m": 3.083001161030552e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 4,
+      "weight_sum_error": 4.470348358154297e-08,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    },
+    "Vestment | Right wing lappet": {
+      "triangles": 4736,
+      "material_slots": [
+        "Vesper | Goldwork on velvet",
+        "Vesper | Pomegranate lining",
+        "Vesper | Chased old gold"
+      ],
+      "position_error_m": 2.154235829721074e-07,
+      "weight_error": 0,
+      "uv_error": 0,
+      "joint_influences": 2,
+      "weight_sum_error": 2.9802322387695312e-08,
+      "missing_weights": 0,
+      "wrong_side_weights": 0,
+      "geometry_and_slots_match": true,
+      "armature_bind": true
+    }
+  },
+  "sha256": {
+    "DarkElfFemale.blend": "79ad6fbe684c3ca5ff4aaf3340820d713d2ab710ac5185d3d76d68dde7c8cfae",
+    "DarkElfFemale.fbx": "7235fdc4e2a2897973f8d324f25625b164cce5f93f33071a2800ef7a61f15909"
+  },
+  "passed": true
+}
