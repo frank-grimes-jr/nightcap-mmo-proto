@@ -1,15 +1,21 @@
 .race-page {background:var(--night);color:var(--paper)}
 .race-page .site-header {position:relative;background:var(--night);border-bottom:1px solid var(--line-light)}
 .race-intro,.race-studies,.race-footer {width:var(--shell);margin-inline:auto}
-.race-intro {display:grid;grid-template-columns:minmax(0,.73fr) minmax(0,1.27fr);gap:clamp(2rem,5vw,6rem);align-items:center;padding-block:clamp(3rem,7vw,7rem)}
+.race-intro {padding-block:clamp(2rem,5vw,5rem)}
+.race-lead {display:grid;grid-template-columns:1fr 1.2fr;align-items:end;gap:3vw}
+.regional-views {display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:clamp(1rem,2vw,2.4rem);margin-top:2rem}
+.regional-views .race-image {display:block}
+.regional-views img {aspect-ratio:1.9;object-fit:cover}
+.regional-views figcaption {display:flex;flex-wrap:wrap;align-items:baseline;justify-content:space-between;gap:.2rem 1rem}
+.regional-views figcaption a {font:400 clamp(1.25rem,2vw,2rem)/1.2 var(--serif);color:var(--paper);text-underline-offset:.18em;text-decoration-thickness:1px}
 .race-page figure {margin:0;min-width:0}
 .race-place,.race-page figcaption strong {font:700 .72rem/1.4 var(--sans);letter-spacing:.13em;text-transform:uppercase;color:var(--amber-light)}
 .race-page h1,.race-page h2 {font-family:var(--serif);font-weight:400;line-height:1.02;letter-spacing:-.04em}
 .race-page h1 {font-size:clamp(3.8rem,7vw,7.7rem);margin:0 0 1.35rem}
-.race-lead>p:not(.race-place):not(.race-note) {font:400 clamp(1.2rem,1.6vw,1.55rem)/1.5 var(--serif);max-width:33ch}
+.race-deck {font:400 clamp(1.2rem,1.6vw,1.55rem)/1.5 var(--serif);max-width:50ch;margin-bottom:.5rem}
 .race-note,.race-page figcaption {color:#c6c1b6;font-size:.91rem;line-height:1.6}
-.study-links,.race-footer {display:flex;gap:1.2rem;flex-wrap:wrap}
-.study-links a,.atlas-route,.race-footer a {color:var(--amber-light);text-underline-offset:.3em}
+.race-footer {display:flex;gap:1.2rem;flex-wrap:wrap}
+.atlas-route,.race-footer a {color:var(--amber-light);text-underline-offset:.3em}
 .race-image {display:block;background:#27282a}
 .race-image img {width:100%;height:auto;display:block}
 .race-page figcaption {padding-block:.7rem}
@@ -25,4 +31,4 @@
 .detail-plate summary {cursor:pointer;color:var(--amber-light);width:fit-content;min-height:2.5rem}
 .detail-plate figure {max-width:44rem}
 .race-footer {border-top:1px solid var(--line-light);padding-block:2rem 3rem;justify-content:space-between}
-@media(max-width:760px){.race-intro,.study-heading {grid-template-columns:1fr;gap:.85rem}.race-intro figure{margin-top:1rem}.study-gallery {grid-template-columns:1fr}.study-gallery .race-image{aspect-ratio:auto}.study-gallery img{position:static;height:auto;max-height:34rem}.race-intro{padding-block:2.2rem}.race-study{padding-block:2.4rem}.study-links{gap:.85rem}}
+@media(max-width:760px){.race-lead,.regional-views,.study-heading {grid-template-columns:1fr;gap:.85rem}.regional-views img{aspect-ratio:auto}.study-gallery {grid-template-columns:1fr}.study-gallery .race-image{aspect-ratio:auto}.study-gallery img{position:static;height:auto;max-height:34rem}.race-intro{padding-block:2.2rem}.race-study{padding-block:2.4rem}}
