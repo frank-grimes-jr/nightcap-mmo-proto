@@ -1,3 +1,5 @@
+# Preserve the authoring archive and the Unity package's byte-for-byte verification on checkout.
+* -text
 # Unity writes empty YAML scalars with trailing spaces. Preserve the exact build inputs.
 unity-validation/**/*.unity whitespace=-blank-at-eol
 unity-validation/**/*.asset whitespace=-blank-at-eol
