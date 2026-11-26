@@ -602,6 +602,68 @@ a {
   background: #d9d1c2;
 }
 
+.prototype-section {
+  background: #1b1e1a;
+  color: var(--paper);
+}
+
+.prototype-section .split-heading {
+  margin-bottom: 3rem;
+}
+
+.prototype-pair,
+.prototype-gallery {
+  display: grid;
+  gap: 1.25rem;
+}
+
+.prototype-figure {
+  min-width: 0;
+  margin: 0;
+}
+
+.prototype-frame {
+  overflow: hidden;
+  border: 1px solid rgb(255 255 255 / 12%);
+  background: #252820;
+}
+
+.prototype-frame img {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+}
+
+.prototype-figure figcaption {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 0.4rem 1rem;
+  padding-top: 0.75rem;
+  color: rgb(230 224 211 / 68%);
+  font-size: 0.9rem;
+}
+
+.prototype-label {
+  color: var(--amber-light);
+  font-size: 0.875rem;
+  font-weight: 800;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}
+
+.prototype-note {
+  max-width: 56rem;
+  margin: 2rem 0 0;
+  color: rgb(230 224 211 / 62%);
+}
+
+.prototype-gallery {
+  margin-top: clamp(2.5rem, 5vw, 4.5rem);
+  padding-top: clamp(2rem, 4vw, 3rem);
+  border-top: 1px solid var(--line-light);
+}
+
 .frontier-intro {
   display: grid;
   margin-bottom: 3rem;
@@ -980,6 +1042,16 @@ a {
 
   .world-principles {
     grid-template-columns: repeat(3, 1fr);
+  }
+
+  .prototype-pair {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 1.5rem;
+  }
+
+  .prototype-gallery {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 1.5rem;
   }
 
   .world-principles article {
